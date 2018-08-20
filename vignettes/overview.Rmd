@@ -1,0 +1,81 @@
+---
+title: "BIBI"
+author: "Zachary M. Smith"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+##**Disclaimer**
+The BIBI package is currently in the early stages of development. Therefore, be aware that BIBI package will be constantly updated and major changes may occur.  Additionaly, there are most likely errors in the functions that have not yet been identified.  I ask that if you do find an error please send me an email (zsmith@icprb.org) and that you bare with me while I continue to correct these issues.  
+
+
+##**Abstract**
+The BIBI package is useful for the general assessment of benthic macroinverterbate assemblages. More than 80 functions have been written to quickly assess common assemblage metrics.  Users interested in re-creating their existing Index of Biotic Integrity (IBI) in R will be able to adopt the applicable BIBI functions.  Additionally, functions exist for common steps in the IBI development for users interested in creating a new IBI or updating their current IBI. This document provides an overview of the functions contained within the package and their intended use. \s\s
+
+##**1. Introduction**
+The functions within the BIBI package are intended for the analysis of benthic macroinvertebrate data and the development of an IBI.  The package was created to aid in the refinement of the Non-Tidal Chesapeake Basin Index of Biotic Integrity, "Chessie" BIBI (Buchannan et al. 2011).  However, the functions contained in the package are generic and will not be influenced by the "Chessie" BIBI. For any of the functions to be useful the user must first properly prepare their data using the provided functions outlined in Section 2: Data Preperation.
+
+```{r include = FALSE}
+require(vegan)
+```
+
+
+##**2. Data Preperation**
+Most macroinverterbate assemblage data is formated in a similar manner.  However, rarely will two seperate entities be able to join their data sets without manipulating their data to some extent (eg., changing column/row names or changing the order of the columns).  The data preperation functions in BIBI manipulated the data to meet the formating requirements necessary for using the contained functions.  Several columns must exist or the data preperation will fail.  All column names will be converted to all capital letters in the BIBI package to reduce name variability.  *STATION_ID*, *DATE*, *FINAL_ID*, and *REPORTING_VALUE* must be included in every file uploaded. If these four column headings are not present the *data_prep* function will fail. The package relies on a standard data format.  *EVENT_ID*, *STATION_ID*, *DATE*, *AGENCY_CODE*, and *SAMPLE_NUMBER* will be carried throughout the process to identify unique samples.  If *AGENCY_CODE* and *SAMPLE_NUMBER* are not found in the uploaded file, these columns will be created and filled with 1's.  Additionaly, if the column heading *EVENT_ID* does not already exist, the *STATION_ID*, *DATE*, *AGENCY_CODE*, and *SAMPLE_NUMBER* are concatenated to form the *EVENT_ID*. The *EVENT_ID* is unique to each sampling event and will prevent data from being incorrectly aggregated together.  For example, data collected at the same station but on different dates will not be aggregated together during the preperation process because the *EVENT_ID*'s will be different due to the inclusion of *DATE* in the conncatenation that forms the *EVENT_ID*.
+
+*FINAL_ID* refers to the lowest taxonomic resolution each taxa was identified in each sample.  The *FINAL_ID* is used to link the taxonomic counts with the associate taxonomic ranks and attributes.  It is important that the taxa in the *FINAL_ID* column do not contain odd characters that would prevent a match with the Master Taxa List.  For example, if the user attempts to join thier taxonomic counts to the `master` table and the *FINAL_ID* contains "STENENOMA?" or "STENENOMA SPP." the counts will not be properly joined with the `master` table.  It is not possible to predict all of the possible ways that taxa could be reported.  Therefore, the user must make an effort to standarize thier *FINAL_ID* column, associated with thier taxonomic counts, with the *FINAL_ID* column, associated with their Master Taxa List. *REPORTING_VALUE* refers to the taxonomic count associated with the *FINAL_ID*.
+
+An example of a long data frame containing taxonomic counts is included within the BIBI package.  The example data set can be called on with:
+
+    taxa.counts <- BIBI::example_counts
+
+Note that this file contains only the required fields(i.e., *STATION_ID*, *DATE*, *FINAL_ID*, and *REPORTING_VALUE*) but extra columns will not influence the `data_prep` function.
+
+##**3. Supporting Table**
+This package relies on heavily on a Master Taxa List to perform the majority of calculations.  The Master Taxa List can be imported by the user but it is recommended that the Master Taxa List provided in the BIBI package (i.e., `master`) be utilized.  The table can be accesses with the following script after the BIBI package has been loaded into the library:
+
+    BIBI::master
+    
+The Master Taxa List must contain each of the following taxonomic ranks: Phylum, Subphylum, Class, Subclass, Order, Suborder, Family, Subfamily, Tribe, Genus, Species.  Additionally, the table must also contain a *FINAL_ID* column indicating the lowest taxonomic rank represented in a given row.  The majority of the taxonomic information in `master` was acquired from ITIS.gov.  The Integrated Taxonomic Information System (ITIS) is an online database managed by federal agencies that attempt to provide the current taxonomic nomenclature.  The Taxonomic Serial Number (TSN), a unique identification number assigned to each taxon, was also adopted from ITIT.gov. If the taxon was not found in ITIS but was valid based on a review of the literature the taxon was assigned a unique negative integer.  The negative integers will never overlap with the positive integers used by ITIS, allowing the table to accommedate additional taxa from ITIS without issue.  
+
+Additionally,  the Master Taxa List must contain Tolerance Values, Functional Feeding Groups (FFG), Habits, and Beck's Scores if the user wants to calculate any of the metrics related to these taxonomic attributes.  The `master` table contains taxonomic attributes from a variety of Federal and State Agencies (NEED TO PROVIDE A TABLE OF SOURCES).
+
+
+Currently, the `master` table was created specifically for the Chesapeake Basin and only represents taxa that have been reported in the "Chessie" BIBI database.  The `master` table can easily be exported and updated to incorporate taxa that are not currently represented in the table.  If you update the table please contact the author, who will incorporate the updates in the package. The goal is to continue to add taxa and taxonomic attributes to the table, expanding the reach of the `mater` table beyond the Chesapeake Basin.
+
+##**3. Metric Calculation**
+Once your data set is in the proper format (see Section 2) the metrics can be calculated rather quickly.  More than 80 benthic macroinvertebrate metrics are included in the BIBI package.  The `wide` function transforms the prepared data, which is in a long data format (*long*), to a wide data format representing a specified taxonomic rank (*rank*):
+
+    wide(long, rank)
+
+For example, if rank = "ORDER" then the data frame is transformed to represent taxonomic counts observed during each sampling event aggregated at the order level.  Therefore, each column representes a unique taxonomic order.  *EVENT_ID*, *STATION_ID*, *DATE*, *AGENCY_CODE*, and *SAMPLE_NUMBER* are carried over to identify the sampling event.
+
+```{r echo = FALSE}
+knitr::kable(iris[1:3, 1:3])
+```
+
+The wide data format is required for most metric functions.  If a wide data frame of a specific taxonomic rank is required, the function will specify the need taxonomic rank (e.g., Order, Family, Genus) or the function will state `wide.df`.  `wide.df` allows the user to specify at which taxonomic rank they would like to function to use to calculate the metric.  Below are three functions in the BIBI2 package with different taxonomic rank entries.
+
+    pct_ept(Order)
+    pct_hydro_ept(Order, Family)
+    pct_dom1(wide.df)
+
+
+  `pct_ept()` is the percentage of Ephemeroptera, Plecoptera, and Trichoptera (EPT) individuals in the sample.  This metric aggregates the data at the Order level.  It would be inappropriate to enter a genus level wide data frame into this metric.  `pct_hydro_ept()` requires wide taxonomic data frames (i.e., Order and Family).  This function calculates the percentage of EPT consisting of Hydropsychidae individuals.  Therefore, the function first uses the order level data frame to find the number of EPT individuals. The family level data frame is then used to find how many Hydropsychidae individuals were observed during a sampling event.  These values are then used to find the perecentage.  **Note:** the data frames must be entered in the appropriate order (Order, Family not Family, Order).  The last metric is more flexable.  `pct_dom1()` is the percentage of the sample that is made up of the most abundant taxon or the perecentage of the dominant taxon.  This function simply finds the largest number in each row and calculates what percentage of the assemblage this number represents, and therefore, could be used to calculate the percentage of the dominant taxon at the phylum level all the way down to the species level.  
+
+
+The development of an IBI is a linear process:
+
+
+1. Site Classification (e.g., Reference, Mixed, or Degraded)
+1. Metric Calculation
+1. Redundancy Test
+1. Metric Sensitivity
+1. Final metric selection and scoring
+
+
+Due to the complexity of the analyses, the functions require the data to be in a specific format. This section

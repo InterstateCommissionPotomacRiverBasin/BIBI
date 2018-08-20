@@ -1,0 +1,26 @@
+Package: BIBI
+Type: Package
+Title: Basin-Wide Index of Biotic Integrity for the Chesapeake Bay Watershed
+Version: 0.2
+Date: 2015-11-02
+Author: Zachary M. Smith
+Maintainer: Zachary M. Smith <zsmith@icprb.org>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 6.0.1
+Imports: ggplot2,
+    MASS,
+    plyr,
+    reshape,
+    reshape2,
+    tidyr,
+    vegan,
+    zoo,
+    data.table,
+    gmp,
+    lubridate
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

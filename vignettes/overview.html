@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="Zachary M. Smith" />
+
+<meta name="date" content="2017-02-03" />
+
+<title>BIBI</title>
+
+
+
+
+
+
+<link href="data:text/css;charset=utf-8,body%20%7B%0Abackground%2Dcolor%3A%20%23fff%3B%0Amargin%3A%201em%20auto%3B%0Amax%2Dwidth%3A%20700px%3B%0Aoverflow%3A%20visible%3B%0Apadding%2Dleft%3A%202em%3B%0Apadding%2Dright%3A%202em%3B%0Afont%2Dfamily%3A%20%22Open%20Sans%22%2C%20%22Helvetica%20Neue%22%2C%20Helvetica%2C%20Arial%2C%20sans%2Dserif%3B%0Afont%2Dsize%3A%2014px%3B%0Aline%2Dheight%3A%201%2E35%3B%0A%7D%0A%23header%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0A%23TOC%20%7B%0Aclear%3A%20both%3B%0Amargin%3A%200%200%2010px%2010px%3B%0Apadding%3A%204px%3B%0Awidth%3A%20400px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Aborder%2Dradius%3A%205px%3B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Afont%2Dsize%3A%2013px%3B%0Aline%2Dheight%3A%201%2E3%3B%0A%7D%0A%23TOC%20%2Etoctitle%20%7B%0Afont%2Dweight%3A%20bold%3B%0Afont%2Dsize%3A%2015px%3B%0Amargin%2Dleft%3A%205px%3B%0A%7D%0A%23TOC%20ul%20%7B%0Apadding%2Dleft%3A%2040px%3B%0Amargin%2Dleft%3A%20%2D1%2E5em%3B%0Amargin%2Dtop%3A%205px%3B%0Amargin%2Dbottom%3A%205px%3B%0A%7D%0A%23TOC%20ul%20ul%20%7B%0Amargin%2Dleft%3A%20%2D2em%3B%0A%7D%0A%23TOC%20li%20%7B%0Aline%2Dheight%3A%2016px%3B%0A%7D%0Atable%20%7B%0Amargin%3A%201em%20auto%3B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dcolor%3A%20%23DDDDDD%3B%0Aborder%2Dstyle%3A%20outset%3B%0Aborder%2Dcollapse%3A%20collapse%3B%0A%7D%0Atable%20th%20%7B%0Aborder%2Dwidth%3A%202px%3B%0Apadding%3A%205px%3B%0Aborder%2Dstyle%3A%20inset%3B%0A%7D%0Atable%20td%20%7B%0Aborder%2Dwidth%3A%201px%3B%0Aborder%2Dstyle%3A%20inset%3B%0Aline%2Dheight%3A%2018px%3B%0Apadding%3A%205px%205px%3B%0A%7D%0Atable%2C%20table%20th%2C%20table%20td%20%7B%0Aborder%2Dleft%2Dstyle%3A%20none%3B%0Aborder%2Dright%2Dstyle%3A%20none%3B%0A%7D%0Atable%20thead%2C%20table%20tr%2Eeven%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Ap%20%7B%0Amargin%3A%200%2E5em%200%3B%0A%7D%0Ablockquote%20%7B%0Abackground%2Dcolor%3A%20%23f6f6f6%3B%0Apadding%3A%200%2E25em%200%2E75em%3B%0A%7D%0Ahr%20%7B%0Aborder%2Dstyle%3A%20solid%3B%0Aborder%3A%20none%3B%0Aborder%2Dtop%3A%201px%20solid%20%23777%3B%0Amargin%3A%2028px%200%3B%0A%7D%0Adl%20%7B%0Amargin%2Dleft%3A%200%3B%0A%7D%0Adl%20dd%20%7B%0Amargin%2Dbottom%3A%2013px%3B%0Amargin%2Dleft%3A%2013px%3B%0A%7D%0Adl%20dt%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0Aul%20%7B%0Amargin%2Dtop%3A%200%3B%0A%7D%0Aul%20li%20%7B%0Alist%2Dstyle%3A%20circle%20outside%3B%0A%7D%0Aul%20ul%20%7B%0Amargin%2Dbottom%3A%200%3B%0A%7D%0Apre%2C%20code%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0Aborder%2Dradius%3A%203px%3B%0Acolor%3A%20%23333%3B%0Awhite%2Dspace%3A%20pre%2Dwrap%3B%20%0A%7D%0Apre%20%7B%0Aborder%2Dradius%3A%203px%3B%0Amargin%3A%205px%200px%2010px%200px%3B%0Apadding%3A%2010px%3B%0A%7D%0Apre%3Anot%28%5Bclass%5D%29%20%7B%0Abackground%2Dcolor%3A%20%23f7f7f7%3B%0A%7D%0Acode%20%7B%0Afont%2Dfamily%3A%20Consolas%2C%20Monaco%2C%20%27Courier%20New%27%2C%20monospace%3B%0Afont%2Dsize%3A%2085%25%3B%0A%7D%0Ap%20%3E%20code%2C%20li%20%3E%20code%20%7B%0Apadding%3A%202px%200px%3B%0A%7D%0Adiv%2Efigure%20%7B%0Atext%2Dalign%3A%20center%3B%0A%7D%0Aimg%20%7B%0Abackground%2Dcolor%3A%20%23FFFFFF%3B%0Apadding%3A%202px%3B%0Aborder%3A%201px%20solid%20%23DDDDDD%3B%0Aborder%2Dradius%3A%203px%3B%0Aborder%3A%201px%20solid%20%23CCCCCC%3B%0Amargin%3A%200%205px%3B%0A%7D%0Ah1%20%7B%0Amargin%2Dtop%3A%200%3B%0Afont%2Dsize%3A%2035px%3B%0Aline%2Dheight%3A%2040px%3B%0A%7D%0Ah2%20%7B%0Aborder%2Dbottom%3A%204px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Apadding%2Dbottom%3A%202px%3B%0Afont%2Dsize%3A%20145%25%3B%0A%7D%0Ah3%20%7B%0Aborder%2Dbottom%3A%202px%20solid%20%23f7f7f7%3B%0Apadding%2Dtop%3A%2010px%3B%0Afont%2Dsize%3A%20120%25%3B%0A%7D%0Ah4%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23f7f7f7%3B%0Amargin%2Dleft%3A%208px%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Ah5%2C%20h6%20%7B%0Aborder%2Dbottom%3A%201px%20solid%20%23ccc%3B%0Afont%2Dsize%3A%20105%25%3B%0A%7D%0Aa%20%7B%0Acolor%3A%20%230033dd%3B%0Atext%2Ddecoration%3A%20none%3B%0A%7D%0Aa%3Ahover%20%7B%0Acolor%3A%20%236666ff%3B%20%7D%0Aa%3Avisited%20%7B%0Acolor%3A%20%23800080%3B%20%7D%0Aa%3Avisited%3Ahover%20%7B%0Acolor%3A%20%23BB00BB%3B%20%7D%0Aa%5Bhref%5E%3D%22http%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0Aa%5Bhref%5E%3D%22https%3A%22%5D%20%7B%0Atext%2Ddecoration%3A%20underline%3B%20%7D%0A%0Acode%20%3E%20span%2Ekw%20%7B%20color%3A%20%23555%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Edt%20%7B%20color%3A%20%23902000%3B%20%7D%20%0Acode%20%3E%20span%2Edv%20%7B%20color%3A%20%2340a070%3B%20%7D%20%0Acode%20%3E%20span%2Ebn%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Efl%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Ech%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Est%20%7B%20color%3A%20%23d14%3B%20%7D%20%0Acode%20%3E%20span%2Eco%20%7B%20color%3A%20%23888888%3B%20font%2Dstyle%3A%20italic%3B%20%7D%20%0Acode%20%3E%20span%2Eot%20%7B%20color%3A%20%23007020%3B%20%7D%20%0Acode%20%3E%20span%2Eal%20%7B%20color%3A%20%23ff0000%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%0Acode%20%3E%20span%2Efu%20%7B%20color%3A%20%23900%3B%20font%2Dweight%3A%20bold%3B%20%7D%20%20code%20%3E%20span%2Eer%20%7B%20color%3A%20%23a61717%3B%20background%2Dcolor%3A%20%23e3d2d2%3B%20%7D%20%0A" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+
+
+
+<h1 class="title toc-ignore">BIBI</h1>
+<h4 class="author"><em>Zachary M. Smith</em></h4>
+<h4 class="date"><em>2017-02-03</em></h4>
+
+
+
+<div id="disclaimer" class="section level2">
+<h2><strong>Disclaimer</strong></h2>
+<p>The BIBI package is currently in the early stages of development. Therefore, be aware that BIBI package will be constantly updated and major changes may occur. Additionaly, there are most likely errors in the functions that have not yet been identified. I ask that if you do find an error please send me an email (<a href="mailto:zsmith@icprb.org">zsmith@icprb.org</a>) and that you bare with me while I continue to correct these issues.</p>
+</div>
+<div id="abstract" class="section level2">
+<h2><strong>Abstract</strong></h2>
+<p>The BIBI package is useful for the general assessment of benthic macroinverterbate assemblages. More than 80 functions have been written to quickly assess common assemblage metrics. Users interested in re-creating their existing Index of Biotic Integrity (IBI) in R will be able to adopt the applicable BIBI functions. Additionally, functions exist for common steps in the IBI development for users interested in creating a new IBI or updating their current IBI. This document provides an overview of the functions contained within the package and their intended use. </p>
+</div>
+<div id="introduction" class="section level2">
+<h2><strong>1. Introduction</strong></h2>
+<p>The functions within the BIBI package are intended for the analysis of benthic macroinvertebrate data and the development of an IBI. The package was created to aid in the refinement of the Non-Tidal Chesapeake Basin Index of Biotic Integrity, “Chessie” BIBI (Buchannan et al. 2011). However, the functions contained in the package are generic and will not be influenced by the “Chessie” BIBI. For any of the functions to be useful the user must first properly prepare their data using the provided functions outlined in Section 2: Data Preperation.</p>
+</div>
+<div id="data-preperation" class="section level2">
+<h2><strong>2. Data Preperation</strong></h2>
+<p>Most macroinverterbate assemblage data is formated in a similar manner. However, rarely will two seperate entities be able to join their data sets without manipulating their data to some extent (eg., changing column/row names or changing the order of the columns). The data preperation functions in BIBI manipulated the data to meet the formating requirements necessary for using the contained functions. Several columns must exist or the data preperation will fail. All column names will be converted to all capital letters in the BIBI package to reduce name variability. <em>STATION_ID</em>, <em>DATE</em>, <em>FINAL_ID</em>, and <em>REPORTING_VALUE</em> must be included in every file uploaded. If these four column headings are not present the <em>data_prep</em> function will fail. The package relies on a standard data format. <em>EVENT_ID</em>, <em>STATION_ID</em>, <em>DATE</em>, <em>AGENCY_CODE</em>, and <em>SAMPLE_NUMBER</em> will be carried throughout the process to identify unique samples. If <em>AGENCY_CODE</em> and <em>SAMPLE_NUMBER</em> are not found in the uploaded file, these columns will be created and filled with 1’s. Additionaly, if the column heading <em>EVENT_ID</em> does not already exist, the <em>STATION_ID</em>, <em>DATE</em>, <em>AGENCY_CODE</em>, and <em>SAMPLE_NUMBER</em> are concatenated to form the <em>EVENT_ID</em>. The <em>EVENT_ID</em> is unique to each sampling event and will prevent data from being incorrectly aggregated together. For example, data collected at the same station but on different dates will not be aggregated together during the preperation process because the <em>EVENT_ID</em>’s will be different due to the inclusion of <em>DATE</em> in the conncatenation that forms the <em>EVENT_ID</em>.</p>
+<p><em>FINAL_ID</em> refers to the lowest taxonomic resolution each taxa was identified in each sample. The <em>FINAL_ID</em> is used to link the taxonomic counts with the associate taxonomic ranks and attributes. It is important that the taxa in the <em>FINAL_ID</em> column do not contain odd characters that would prevent a match with the Master Taxa List. For example, if the user attempts to join thier taxonomic counts to the <code>master</code> table and the <em>FINAL_ID</em> contains “STENENOMA?” or “STENENOMA SPP.” the counts will not be properly joined with the <code>master</code> table. It is not possible to predict all of the possible ways that taxa could be reported. Therefore, the user must make an effort to standarize thier <em>FINAL_ID</em> column, associated with thier taxonomic counts, with the <em>FINAL_ID</em> column, associated with their Master Taxa List. <em>REPORTING_VALUE</em> refers to the taxonomic count associated with the <em>FINAL_ID</em>.</p>
+<p>An example of a long data frame containing taxonomic counts is included within the BIBI package. The example data set can be called on with:</p>
+<pre><code>taxa.counts &lt;- BIBI::example_counts</code></pre>
+<p>Note that this file contains only the required fields(i.e., <em>STATION_ID</em>, <em>DATE</em>, <em>FINAL_ID</em>, and <em>REPORTING_VALUE</em>) but extra columns will not influence the <code>data_prep</code> function.</p>
+</div>
+<div id="supporting-table" class="section level2">
+<h2><strong>3. Supporting Table</strong></h2>
+<p>This package relies on heavily on a Master Taxa List to perform the majority of calculations. The Master Taxa List can be imported by the user but it is recommended that the Master Taxa List provided in the BIBI package (i.e., <code>master</code>) be utilized. The table can be accesses with the following script after the BIBI package has been loaded into the library:</p>
+<pre><code>BIBI::master</code></pre>
+<p>The Master Taxa List must contain each of the following taxonomic ranks: Phylum, Subphylum, Class, Subclass, Order, Suborder, Family, Subfamily, Tribe, Genus, Species. Additionally, the table must also contain a <em>FINAL_ID</em> column indicating the lowest taxonomic rank represented in a given row. The majority of the taxonomic information in <code>master</code> was acquired from ITIS.gov. The Integrated Taxonomic Information System (ITIS) is an online database managed by federal agencies that attempt to provide the current taxonomic nomenclature. The Taxonomic Serial Number (TSN), a unique identification number assigned to each taxon, was also adopted from ITIT.gov. If the taxon was not found in ITIS but was valid based on a review of the literature the taxon was assigned a unique negative integer. The negative integers will never overlap with the positive integers used by ITIS, allowing the table to accommedate additional taxa from ITIS without issue.</p>
+<p>Additionally, the Master Taxa List must contain Tolerance Values, Functional Feeding Groups (FFG), Habits, and Beck’s Scores if the user wants to calculate any of the metrics related to these taxonomic attributes. The <code>master</code> table contains taxonomic attributes from a variety of Federal and State Agencies (NEED TO PROVIDE A TABLE OF SOURCES).</p>
+<p>Currently, the <code>master</code> table was created specifically for the Chesapeake Basin and only represents taxa that have been reported in the “Chessie” BIBI database. The <code>master</code> table can easily be exported and updated to incorporate taxa that are not currently represented in the table. If you update the table please contact the author, who will incorporate the updates in the package. The goal is to continue to add taxa and taxonomic attributes to the table, expanding the reach of the <code>mater</code> table beyond the Chesapeake Basin.</p>
+</div>
+<div id="metric-calculation" class="section level2">
+<h2><strong>3. Metric Calculation</strong></h2>
+<p>Once your data set is in the proper format (see Section 2) the metrics can be calculated rather quickly. More than 80 benthic macroinvertebrate metrics are included in the BIBI package. The <code>wide</code> function transforms the prepared data, which is in a long data format (<em>long</em>), to a wide data format representing a specified taxonomic rank (<em>rank</em>):</p>
+<pre><code>wide(long, rank)</code></pre>
+<p>For example, if rank = “ORDER” then the data frame is transformed to represent taxonomic counts observed during each sampling event aggregated at the order level. Therefore, each column representes a unique taxonomic order. <em>EVENT_ID</em>, <em>STATION_ID</em>, <em>DATE</em>, <em>AGENCY_CODE</em>, and <em>SAMPLE_NUMBER</em> are carried over to identify the sampling event.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right">Sepal.Length</th>
+<th align="right">Sepal.Width</th>
+<th align="right">Petal.Length</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">5.1</td>
+<td align="right">3.5</td>
+<td align="right">1.4</td>
+</tr>
+<tr class="even">
+<td align="right">4.9</td>
+<td align="right">3.0</td>
+<td align="right">1.4</td>
+</tr>
+<tr class="odd">
+<td align="right">4.7</td>
+<td align="right">3.2</td>
+<td align="right">1.3</td>
+</tr>
+</tbody>
+</table>
+<p>The wide data format is required for most metric functions. If a wide data frame of a specific taxonomic rank is required, the function will specify the need taxonomic rank (e.g., Order, Family, Genus) or the function will state <code>wide.df</code>. <code>wide.df</code> allows the user to specify at which taxonomic rank they would like to function to use to calculate the metric. Below are three functions in the BIBI2 package with different taxonomic rank entries.</p>
+<pre><code>pct_ept(Order)
+pct_hydro_ept(Order, Family)
+pct_dom1(wide.df)</code></pre>
+<p><code>pct_ept()</code> is the percentage of Ephemeroptera, Plecoptera, and Trichoptera (EPT) individuals in the sample. This metric aggregates the data at the Order level. It would be inappropriate to enter a genus level wide data frame into this metric. <code>pct_hydro_ept()</code> requires wide taxonomic data frames (i.e., Order and Family). This function calculates the percentage of EPT consisting of Hydropsychidae individuals. Therefore, the function first uses the order level data frame to find the number of EPT individuals. The family level data frame is then used to find how many Hydropsychidae individuals were observed during a sampling event. These values are then used to find the perecentage. <strong>Note:</strong> the data frames must be entered in the appropriate order (Order, Family not Family, Order). The last metric is more flexable. <code>pct_dom1()</code> is the percentage of the sample that is made up of the most abundant taxon or the perecentage of the dominant taxon. This function simply finds the largest number in each row and calculates what percentage of the assemblage this number represents, and therefore, could be used to calculate the percentage of the dominant taxon at the phylum level all the way down to the species level.</p>
+<p>The development of an IBI is a linear process:</p>
+<ol style="list-style-type: decimal">
+<li>Site Classification (e.g., Reference, Mixed, or Degraded)</li>
+<li>Metric Calculation</li>
+<li>Redundancy Test</li>
+<li>Metric Sensitivity</li>
+<li>Final metric selection and scoring</li>
+</ol>
+<p>Due to the complexity of the analyses, the functions require the data to be in a specific format. This section</p>
+</div>
+
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

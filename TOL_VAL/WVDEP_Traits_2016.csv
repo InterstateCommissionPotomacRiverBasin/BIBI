@@ -1,0 +1,1561 @@
+FINAL_ID,WAB_TV,WAB TV Source,WAB_FFG,WAB_HABIT
+Bryozoa,,,,
+Spongillidae,2,Original WAB Value-Organism Table,CF,
+Hydroida,5,Original WAB Value-Organism Table,,
+Platyhelminthes,,,,
+Turbellaria,4,Original WAB Value-Organism Table,PR,SP
+Plagiostomidae,,,,
+Hydrolimax,4,Turbellaria TV,PR,
+Hydrolimax grisea,,,,
+Tricladida,4,RBP TV,CG,SP
+Dendrocoelidae,8,Original WAB Value-Organism Table,,
+Dugesiidae,7,Cura TV,,
+Cura,7,PA TV,CG,SP
+Cura foremanii,,,,
+Planariidae,8,Original WAB Value-Organism Table,OM,SP
+Dugesia,7,MD & PA TV,CG,SP
+Dugesia tigrina,,,PR,
+Phagocata,7,PA TV,CG,
+Planaria,9,PA TV,CG,
+Nemertea,6,Original WAB Value-Organism Table,PR,
+Tetrastemmatidae,6,Nemertea TV,,
+Prostoma,6,"NCDENR, 2003",PR,CN
+Prostoma graecense,,,PR,
+Nematoda,5,Original WAB Value-Organism Table,PA,
+Nematomorpha,,,PA,BU
+Gordea,,,,
+Gordiidae,,,,
+Gordius,9,PA TV,PA,BU
+Mollusca,,,,
+Gastropoda,,,SC,CB
+Architaenioglossa,,,,
+Ampullariidae,,,,
+Pomacea,,,SC,CB
+Pomacea paludosa,,,,
+Viviparidae,3,Original WAB Value-Organism Table,SC,CB
+Cipangopaludina,,,,
+Cipangopaludina chinensis,,,,
+Cipangopaludina japonica,,,,
+Lioplax,,,SC,
+Lioplax subcarinata,,,,
+Lioplax sulculosa,,,,
+Campeloma,7,PA TV,SH,CB
+Campeloma crassulum,,,SH,
+Campeloma decisum,,,SH,
+Viviparus,1,MD & PA TV,SC,CB
+Mesogastropoda,,,,
+Pomatiopsidae,7.2,Pomatiopsis TV,SC,CB
+Pomatiopsis,7.2,NRSA & WSA TV,SC,
+Pomatiopsis lapidaria,,,SC,
+Basommatophora,,,,
+Ancylidae,6,Original WAB Value-Organism Table,SC,CB
+Ferrissia,7,MD & PA TV,SC,CB
+Ferrissia fragilis,,,SC,
+Ferrissia rivularis,,,SC,
+Ferrissia walkeri,,,SC,
+Laevapex,7,PA TV,SC,CB
+Laevapex fuscus,,,SC,
+Lymnaeidae,7,Original WAB Value-Organism Table,SC,CB
+Fossaria,7,KY & PA TV,SC,CB
+Fossaria exigua,,,,
+Fossaria obrussa,,,,
+Fossaria parva,,,,
+Fossaria rustica,,,,
+Lymnaea,7,"KY, MD & PA TV",SC,CB
+Pseudosuccinea,7,PA TV,SC,CB
+Pseudosuccinea columella,,,SC,
+Radix,,MD TV,CG,CB
+Stagnicola,7,MD & PA TV,SC,CB
+Stagnicola elodes,,,,
+Physidae,8,Original WAB Value-Organism Table,SC,CB
+Physa,8,PA TV,SC,CB
+Physella,8,MD & PA TV,SC,CB
+Physella acuta,,,,
+Physella gyrina,,,SC,
+Physella integra,,,SC,
+Planorbidae,7,Original WAB Value-Organism Table,SC,CB
+Armiger,,,SC,CB
+Gyraulus,6,PA TV,SC,CB
+Gyraulus circumstriatus,,,SC,
+Gyraulus deflectus,,,,
+Gyraulus parvus,,,SC,
+Helisoma,7,PA TV,SC,CB
+Helisoma anceps,,,SC,
+Helisoma anceps anceps,,,SC,
+Menetus,6,PA TV,SC,CB
+Menetus dilatatus,,,SC,
+Menetus brogniartianus,,,,
+Micromenetus dilatatus,,,,
+Planorbella,7,MD TV,SC,CB
+Planorbella armigera,,,,
+Planorbella trivolvis,,,,
+Planorbella truncata,,,,
+Planorbula,7,PA TV,SC,CB
+Planorbula armigera,,,,
+Promenetus,7,MD TV,SC,CB
+Promenetus exacuous,,,,
+Stylommatophora,,,,
+Limacidae,,,,
+Deroceras,,,,
+Neotaenioglossa,,,,
+Bithyniidae,,DE TV,,
+Hydrobiidae,3,Original WAB Value-Organism Table,SC,CB
+Amnicola,8,MD & PA TV,SC,CB
+Amnicola granum,,,,
+Amnicola limosus,,,,
+Birgella,,,,
+Birgella subglobosus,,,,
+Probythinella,,,SC,
+Probythinella emarginata,,,,
+Pyrgophorus,,PA TV,,
+Pleuroceridae,4,Original WAB Value-Organism Table,SC,CB
+Elimia,5,WV TV (JB Adjusted),SC,CB
+Elimia catenaria,,,,
+Elimia livescens,,,,
+Elimia proxima,,,,
+Elimia semicarinata,,,,
+Elimia simplex,,,,
+Elimia virginica,,,,
+Goniobasis,,PA TV,SC,CB
+Leptoxis,6,WV TV (JB Adjusted),SC,CB
+Leptoxis carinata,,,,
+Leptoxis dilatata,,,,
+Leptoxis praerosa,,,,
+Lithasia,3,KY (SC) TV,SC,CB
+Lithasia armigera,,,,
+Lithasia obovata,,,,
+Lithasia verrucosa,,,,
+Pleurocera,7,PA TV,SC,CB
+Pleurocera canaliculata,,,,
+Heterostropha,,,,
+Valvatidae,8,Original WAB Value-Organism Table,SC,CB
+Valvata,2,PA TV,SC,CB
+Pelecypoda,8,Original WAB Value-Organism Table,CF,
+Bivalvia,8,Pelecypoda TV,CF,BU
+Unionidae,4,Original WAB Value-Organism Table,CF,BU
+Ligumia,,,CF,BU
+Ligumia nasuta,,,,
+Quadrula,,,CF,BU
+Quadrula cylindrica,,,CF,
+Strophitus,,PA TV,,
+Utterbackia,4,Unionidae TV,CF,BU
+Utterbackia imbecillis,,,CF,
+Veneroida,,,CF,BU
+Corbiculoidea,,,,
+Corbiculidae,8,Original WAB Value-Organism Table,CF,BU
+Corbicula,6,MD TV,CF,BU
+Corbicula fluminea,,,CF,
+Sphaeriidae (Mollusca),8,Original WAB Value-Organism Table,CF,
+Corbiculidae/Pisidiidae,,,,
+Pisidiidae,8,Sphaeriidae (Mollusca) TV,CF,BU
+Musculium,5,PA TV,CF,BU
+Musculium lacustre,,,CF,
+Musculium partumeium,,,,
+Musculium securis,,,CF,
+Musculium transversum,,,CF,
+Pisidium,8,MD & PA TV,CF,BU
+Pisidium adamsi,,,CF,
+Pisidium casertanum,,,CF,
+Pisidium compressum,,,CF,
+Pisidium dubium,,,,
+Pisidium fallax,,,CF,
+Pisidium lilljeborgi,,,CF,
+Pisidium nitidum,,,,
+Pisidium punctatum,,,CF,
+Pisidium walkeri,,,CF,
+Sphaerium,8,MD & PA TV,CF,BU
+Sphaerium fabale,,,,
+Sphaerium simile,,,CF,
+Sphaerium striatinum,,,CF,
+Dreissenidae,5,KY TV for Dreissena polymorpha,,
+Dreissena,5,KY TV for Dreissena polymorpha,CF,
+Dreissena polymorpha,,,CF,
+Annelida,9,Original WAB Value-Organism Table,CG,
+Polychaeta,,,,
+Sabellidae,9,Original WAB Value-Organism Table,CF,
+Manayunkia,,,CG,
+Manayunkia speciosa,,,,
+Aeolosomatidae,,,,
+Clitellata,,,,
+Oligochaeta,10,Original WAB Value-Organism Table,CG,BU
+Branchiobdellida,,,CG,
+Branchiobdellidae,5,Original WAB Value-Organism Table,CG,CB
+Branchiobdella,6,PA TV,CG,
+Xironogiton,,PA TV,,
+Haplotaxida,,,CG,BU
+Haplotaxidae,8,Original WAB Value-Organism Table,SC,BU
+Lumbricina,,,,
+Lumbricidae,8,PA TV,CG,BU
+Tubificina,,,,
+Enchytraeidae,10,Original WAB Value-Organism Table,CG,BU
+Naididae,8,Original WAB Value-Organism Table,CG,BU
+Arcteonais,8,KY Arcteonais lomondi TV,CG,BU
+Arcteonais lomondi,,,,
+Chaetogaster,,KY & PA TV,CG,BU
+Chaetogaster diaphanus,,,PR,
+Chaetogaster limnaei,,,CG,
+Dero,10,EDAS TV,CG,BU
+Dero digitata,,,CG,
+Haemonais,,NRSA TV,CG,BU
+Haemonais waldvogeli,,,CG,
+Nais,8,PA TV,CG,BU
+Nais behningi,,,CG,
+Nais bretscheri,,,CG,
+Nais communis,,,CG,
+Nais pseudobtusa,,,CG,
+Nais variabilis,,,CG,
+Ophidonais,9,PA TV,CG,BU
+Ophidonais serpentina,,,CG,
+Pristina,10,Pristinella TV,CG,BU
+Pristina osborni,,,,
+Pristinella,10,EDAS TV,CG,BU
+Pristinella osborni,,,CG,
+Slavina,9,PA TV,CG,BU
+Slavina appendiculata,,,CG,
+Specaria,,PA TV,CG,BU
+Stylaria,8,Stylaria lacustris EDAS TV,CG,SW
+Stylaria fossularis,,,CG,
+Stylaria lacustris,,,CG,
+Uncinais,,,CG,BU
+Uncinais uncinata,,,,
+Opistocystidae,9,Original WAB Value-Organism Table,CG,
+Tubificidae,10,Original WAB Value-Organism Table,CG,CN
+Aulodrilus,10,PA TV,CG,SP
+Aulodrilus limnobius,,,CG,
+Aulodrilus pigueti,,,CG,
+Aulodrilus pluriseta,,,CG,
+Branchiura,10,Branchiura sowerbyi EDAS TV,CG,CB
+Branchiura sowerbyi,,,CG,
+Ilyodrilus,,NRSA TV,CG,
+Ilyodrilus templetoni,,,CG,
+Isochaetides,,PA TV,CG,
+Isochaetides curvisetosus,,,CG,
+Limnodrilus,10,MD & PA TV,CG,CN
+Limnodrilus hoffmeisteri,,,CG,
+Limnodrilus udekemianus,,,CG,
+Peloscolex,,,,
+Peloscolex ferox,,,,
+Quistradrilus,10,NRSA TV,CG,
+Quistradrilus multisetosus,,,CG,
+Rhyacodrilus,10,PA TV,CG,
+Spirosperma,10,MD & PA TV,CG,CN
+Spirosperma carolinensis,,,CG,
+Spirosperma nikolskyi,,,,
+Lumbriculida,,,,
+Lumbriculidae,8,Original WAB Value-Organism Table,CG,BU
+Eclipidrilus,8,DE & EDAS TV,CG,
+Lumbriculus,8,PA TV,CG,BU
+Lumbriculus variegatus,,,CG,
+Rhynchelmis,,PA TV,,
+Stylodrilus,,PA TV,CG,
+Hirudinea,7,Original WAB Value-Organism Table,PR,SP
+Hirudinidae,8,Original WAB Value-Organism Table,PR,SP
+Erpobdellidae,8,Original WAB Value-Organism Table,PR,SP
+Erpobdella,8,PA TV,CG,SP
+Erpobdella punctata,,,CG,
+Mooreobdella,,KY (NC) TV,CG,SP
+Mooreobdella melanostoma,,,CG,
+Haemopidae,,,,
+Haemopis,8.2,KY (SC) TV,PC,SP
+Haemopis grandis,,,,
+Glossiphoniidae,8,Original WAB Value-Organism Table,PR,SP
+Alboglossiphonia,,NRSA & WSA TV,PR,SP
+Alboglossiphonia heteroclita,,,PC,
+Helobdella,8,PA TV,PC,SP
+Helobdella fusca,,,PC,
+Desserobdella,,,PR,SP
+Desserobdella phalera,,,PC,
+Glossiphonia,8,PA TV,PR,SP
+Placobdella,,KY (SC) TV,PC,SP
+Placobdella multilineata,,,PC,
+Placobdella ornata,,,PC,
+Placobdella papillifera,,,PC,
+Piscicolidae,7,Original WAB Value-Organism Table,,
+Piscicolaria,8,KY TV,PC,SP
+Arachnida,,,PR,
+Acari,,,PR,
+Acarina,,,PR,
+Acariformes,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,
+Trombidiformes,8,NRSA & WSA TV,PR,
+Hydracarina,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,
+Hydrachnidia,,,,
+Arrenuridae,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,CB
+Arrenurus,8,NRSA TV,PR,CB
+Mideopsidae,8,NRSA & WSA TV,PR,SW
+Mideopsis,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,
+Hydrodromidae,,NRSA & WSA TV,PR,SW
+Diplodontidae,6,Original WAB Value-Organism Table,,
+Hydryphantidae,8,NRSA & WSA TV,PR,"CB,SW"
+Protzia,8,NRSA TV,PR,CB
+Eylaidae,,,PR,
+Eylais,,,PR,SW
+Hydrachnidae,6,Original WAB Value-Organism Table,PR,SW
+Hygrobatidae,6,Original WAB Value-Organism Table,PR,CB
+Atractides,6,Hygrobatidae TV,PR,CB
+Hygrobates,6,Hygrobatidae TV,PR,CB
+Limnesiidae,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,CB
+Pionidae,8,NRSA & WSA TV,PR,CB
+Piona,,,PR,
+Wettina,6,Hygrobatidae TV,PR,CB
+Unionicolidae,8,NRSA & WSA TV,PR,CB
+Neumania,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,SW
+Unionicola,,KY (NC) TV,PC,"CB,SW"
+Lebertioidea,,,,
+Lebertiidae,6,Original WAB Value-Organism Table,PR,CB
+Lebertia,8,RBP TV,PR,CB
+Oxidae,8,NRSA & WSA TV,PR,CN
+Oxus,,,PR,CB
+Sperchonidae,6,Original WAB Value-Organism Table,PR,CB
+Sperchon,7,PA TV,PR,CB
+Sperchonopsis,8,NRSA TV,PR,CB
+Torrenticolidae,6,"Diplodontidae, Hydrachnidae, & Hygrobatidae TV",PR,CB
+Torrenticola,6,Torrenticolidae TV,PR,CB
+Eremaeidae,,,,
+Crustacea,,,CG,
+Branchiopoda,,,,
+Cladocera,8,Original WAB Value-Organism Table,CF,
+Daphnidae,8,Cladocera TV,,
+Ostracoda,,,CG,
+Copepoda,,,CG,
+Malacostraca,,,,
+Isopoda,,,CG,SP
+Asellidae,8,Original WAB Value-Organism Table,CG,SP
+Asellus,8,PA TV,CG,SP
+Caecidotea,7,WV TV (JB Adjusted),CG,SP
+Caecidotea attenuata,,,,
+Caecidotea forbesi,,,,
+Caecidotea nodula,,,,
+Caecidotea racovitzai,,,,
+Conasellus,,,,
+Conasellus communis,,,,
+Lirceus,8,MD & PA TV,CG,SP
+Lirceus fontinalis,,,CG,
+Oniscidae,,,,
+Oniscus,,,,
+Oniscus asellus,,,,
+Mysida,,,,
+Mysidae,,,,
+Mysis,,,,
+Amphipoda,6,Original WAB Value-Organism Table,CG,SP
+Crangonyctidae,4,Original WAB Value-Organism Table,CG,SP
+Crangonyx,6,WV TV (JB Adjusted),CG,SP
+Crangonyx serratus,,,CG,
+Gammaridae,4,Original WAB Value-Organism Table,CG,SP
+Gammarus,6,MD TV,OM,SP
+Gammarus fasciatus,,,CG,
+Stygobromus,6,MD & PA TV,PR,SP
+Stygobromus tenuis,,,,
+Synurella,4,DE TV,CG,SP
+Synurella chamberlaini,,,CG,
+Talitridae,8,Original WAB Value-Organism Table,CG,
+Hyalellidae,8,NRSA & WSA TV,CG,SP
+Hyalella,8,PA TV,CG,SP
+Hyalella azteca,,,CG,
+Decapoda,,,SH,SP
+Portunidae,,,,
+Palaemonidae,5,Original WAB Value-Organism Table,CG,SP
+Palaemonetes,7,MD TV,CG,SP
+Palaemonetes kadiakensis,,,CG,
+Palaemonetes paludosus,,,CG,
+Cambaridae,5,Original WAB Value-Organism Table,"CG,SH",SP
+Procambarus,6,PA TV,SH,SP
+Procambarus acutus,,,SH,
+Cambarus,6,MD & PA TV,CG,SP
+Orconectes,6,MD & PA TV,"SH,CG",SP
+Orconectes limosus,,,SH,
+Orconectes sanbornii,,,,
+Orconectes sanbornii erismorphorous,,,,
+Collembola,9,PA TV,CG,
+Poduridae,,,,
+Podura,,,CG,
+Odontellidae,,,,
+Odontella,,,CG,"SP,SK"
+Isotomidae,,,OM,"SK,SP"
+Agrenia,,,CG,SK
+Isotoma,,,CG,
+Isotoma viridis,,,,
+Isotomurus,,,CG,
+Isotomurus palustris,,,CG,
+Entomobryidae,,,CG,
+Cyphoderus,,,,
+Sminthuridae,,,,
+Ephemeroptera,,,CG,
+Ameletidae,0,Original WAB Value-Organism Table,,
+Ameletus,2,"TMDL TV Data & Pond, 2002",SC,SW
+Ameletus lineatus,,,SC,
+Siphlonuridae,7,Original WAB Value-Organism Table,CG,"CB,SW"
+Siphlonisca,7,PA TV,,
+Siphlonurus,7,MD & PA TV,CG,SW
+Metretopodidae,2,Original WAB Value-Organism Table,"PR,CG","SW,CN"
+Baetidae,4,Original WAB Value-Organism Table,"CG,SC","SW,CN"
+Acentrella,4.5,"TMDL TV Data & Pond, 2002",CG,SW
+Acentrella ampla,6,"Bode, et.al., 1996",CG,
+Acentrella turbida,,,CG,
+Acentrella/Plauditus,4.75,Acentrella & Plauditus TV,CG,SW
+Acerpenna,5,"TMDL TV Data & Bode, et.al., 1996",CG,SW
+Acerpenna pygmaea,4,"Bode, et.al., 1996",CG,
+Baetis,6,"TMDL TV Data & Bode, et.al., 1996",CG,SW
+Baetis brunneicolor,4,"Bode, et.al., 1996",CG,
+Baetis flavistriga,4,"Bode, et.al., 1996",CG,
+Baetis intercalaris,5,"Bode, et.al., 1996",CG,
+Baetis tricaudatus,6,"Bode, et.al., 1996",CG,
+Barbaetis,10,MD TV,CG,SW
+Callibaetis,9,MD & PA TV,CG,SW
+Centroptilum,6,"TMDL TV Data & Pond, 2002",CG,"SW,CN"
+Centroptilum/Procloeon,6,Centroptilum & Procloeon TV,"CG,OM",SW
+Procloeon,6,"TMDL TV Data & Pond, 2002",CG,SW
+Cloeon,5,WV TV (JB Adjusted),CG,SW
+Diphetor,5,"TMDL TV Data & Pond, 2002",CG,SW
+Diphetor hageni,1.6,"Pond, 2002",CG,
+Heterocloeon,2,"PA TV & Bode, et.al., 1996",SC,"SW,CN"
+Heterocloeon curiosum,,,,
+Iswaeon,4,Baetidae TV,"CG,SC","SW,CN"
+Labiobaetis,6,RBP TV,CG,SW
+Plauditus,5,"TMDL TV Data & Pond, 2002",CG,SW
+Plauditus cestus,,,CG,
+Pseudocloeon,5.5,"TMDL TV Data & Bode, et.al., 1996",CG,SW
+Pseudocloeon frondale,,,,
+Pseudocloeon propinquum,6,"Bode, et.al., 1996",,
+Oligoneuriidae,2,Original WAB Value-Organism Table,CF,BU
+Isonychiidae,2,Original WAB Value-Organism Table,,
+Isonychia,4,WV TV (JB Adjusted),CF,SW
+Heptageniidae,4,Original WAB Value-Organism Table,SC,CN
+Cinygmula,1,PA TV,SC,CN
+Cinygmula subaequalis,,,,
+Epeorus,0,MD & PA TV,SC,CN
+Epeorus dispar,,,SC,CN
+Epeorus pleuralis,,,,
+Epeorus rubidus,,,,
+Epeorus rubidus/subpallidus,,,SC,CN
+Epeorus subpallidus,,,,
+Epeorus vitreus,,,,
+Heptagenia,3,WV TV (JB Adjusted),SC,CN
+Leucrocuta,2,"Pond, 2002 & NCDENR, 2003",SC,CN
+Leucrocuta/Nixe,2.5,Leucrocuta TV,SC,CN
+Macdunnoa,4,Heptageniidae TV,SC,CN
+Nixe,2,MD & PA TV,SC,CN
+Rhithrogena,0,PA TV,SC,CN
+Stenacron,4,"KY, MD & PA TV",CG,CN
+Stenacron interpunctatum,,,CG,CN
+Stenonema,3,PA TV,SC,CN
+Stenonema femoratum,,,SC,CN
+Stenonema ithaca,,,SC,CN
+Stenonema mediopunctatum,,,SC,CN
+Stenonema modestum,,,SC,CN
+Stenonema pudicum,,,SC,CN
+Stenonema terminatum,,,SC,CN
+Stenonema vicarium,,,SC,CN
+Maccaffertium,3,Stenonema TV,SC,CN
+Maccaffertium ithaca,,,SC,CN
+Maccaffertium mediopunctatum,,,SC,CN
+Maccaffertium modestum,,,SC,CN
+Maccaffertium pudicum,,,SC,CN
+Maccaffertium terminatum,,,SC,CN
+Maccaffertium vicarium,,,SC,CN
+Leptophlebiidae,2,Original WAB Value-Organism Table,CG,SW
+Choroterpes,2,PA TV,SC,CN
+Habrophlebia,4,PA TV,OM,SW
+Habrophlebia vibrans,,,,
+Habrophlebiodes,4,WV TV (JB Adjusted),SC,SW
+Leptophlebia,4,MD & PA TV,CG,SW
+Paraleptophlebia,1,PA TV,CG,SW
+Tricorythidae,4,Original WAB Value-Organism Table,CG,
+Tricorythodes,4,PA TV,CG,SP
+Potamanthidae,4,Original WAB Value-Organism Table,,
+Anthopotamus,4,PA TV,CG,BU
+Anthopotamus myops,,,CG,
+Ephemeridae,4,Original WAB Value-Organism Table,CG,BU
+Ephemera,2,PA TV,CG,BU
+Ephemera simulans,,,CG,
+Hexagenia,6,MD & PA TV,CG,BU
+Hexagenia limbata,,,CG,
+Litobrancha,,PA TV,CG,BU
+Litobrancha recurvata,,,,
+Pentagenia,,KY (SC) TV,CG,BU
+Polymitarcyidae,2,Original WAB Value-Organism Table,CG,BU
+Ephoron,2,PA TV,CG,BU
+Ephoron leukon,,,CG,
+Ephemerellidae,3,Original WAB Value-Organism Table,"CG,SC",CN
+Attenella,2,PA TV,CG,CN
+Dannella,2,PA TV,CG,CN
+Dannella lita,,,,
+Dentatella,3,Ephemerellidae TV,CG,"CN,SP"
+Drunella,1,MD & PA TV,SC,CN
+Drunella lata,,,SC,CN
+Drunella cornutella,,,SC,CN
+Ephemerella,1,MD & PA TV,CG,CN
+Ephemerella dorothea,,,CG,CN
+Ephemerella invaria,,,CG,CN
+Ephemerella septentrionalis,,,CG,CN
+Eurylophella,4,MD & PA TV,CG,CN
+Eurylophella bicolor,,,CG,CN
+Eurylophella funeralis,,,SH,CN
+Eurylophella temporalis,,,CG,CN
+Penelomax,2,KY TV for Ephemerella septentrionalis,CG,CN
+Penelomax septentrionalis,,,CG,CN
+Serratella,2,MD & PA TV,CG,CN
+Serratella deficiens,,,CG,CN
+Teloganopsis,2,MD & PA TV,CG,CN
+Teloganopsis deficiens,,Serratella deficiens TV,CG,CN
+Timpanoga,2,KY & MD TV,CG,CN
+Leptohyphidae,4,Tricorythidae & Leptophyphes TV,CG,CN
+Leptohyphes,4,PA TV,CG,CN
+Neoephemeridae,3,Original WAB Value-Organism Table,,
+Neoephemera,3,PA TV,CG,SP
+Caenidae,7,Original WAB Value-Organism Table,CG,SP
+Brachycercus,3,PA TV,CG,SP
+Caenis,6,WV TV (JB Adjusted),CG,SP
+Caenis amica,,,CG,
+Caenis diminuta,,,CG,
+Caenis macafferti,,,CG,
+Caenis punctata,,,CG,
+Caenis youngi,,,,
+Baetiscidae,3,Original WAB Value-Organism Table,CG,CN
+Baetisca,4,MD & PA TV,SC,SP
+Baetisca berneri,,,,
+Baetisca callosa,,,,
+Baetisca carolina,,,,
+Baetisca gibbera,,,,
+Baetisca lacustris,,,,
+Baetisca laurentina,,,,
+Baetisca rubescens,,,,
+Odonata,,,PR,CB
+Anisoptera,,,,SP
+Petaluridae,5,Original WAB Value-Organism Table,,
+Gomphidae,3,Original WAB Value-Organism Table,PR,BU
+Aphylla,,PA TV,"CG,PR",BU
+Arigomphus,4,PA TV,PR,BU
+Dromogomphus,4,MD & PA TV,PR,BU
+Erpetogomphus,5,PA TV,PR,BU
+Gomphus,5,MD & PA TV,PR,BU
+Gomphus lividus,,,PR,
+Hagenius,3,PA TV,PR,SP
+Hagenius brevistylus,,,PR,SP
+Lanthus,3,WV TV (JB Adjusted),PR,BU
+Lanthus parvulus,,,PR,
+Octogomphus,,PA TV,PR,BU
+Ophiogomphus,3,WV TV (JB Adjusted),PR,BU
+Ophiogomphus/Erpetogomphus,5,Ophiogomphus & ErpetogomphusTV,PR,BU
+Progomphus,5,MD & PA TV,PR,BU
+Progomphus obscurus,,,PR,BU
+Stylogomphus,4,PA TV,PR,BU
+Stylogomphus albistylus,,,PR,
+Stylurus,,KY (SC) TV,PR,BU
+Aeshnidae,3,Original WAB Value-Organism Table,PR,CB
+Aeshna,5,PA TV,PR,CB
+Anax,5,PA TV,PR,CB
+Anax junius,,,PR,CB
+Basiaeschna,6,WV TV (JB Adjusted),PR,CB
+Basiaeschna janata,,,PR,CB
+Boyeria,5,WV TV (JB Adjusted),PR,CB
+Boyeria grafiana,,,,
+Boyeria vinosa,,,PR,CB
+Coryphaeshna,,,PR,CB
+Nasiaeschna,,,"CF,CG,PR",CB
+Nasiaeschna pentacantha,,,PR,CB
+Cordulegastridae,3,Original WAB Value-Organism Table,PR,BU
+Cordulegaster,3,MD & PA TV,PR,BU
+Cordulegaster maculata,,,PR,BU
+Corduliidae,5,Original WAB Value-Organism Table,PR,CB
+Macromiidae,3,Original WAB Value-Organism Table,,
+Macromiinae,,,,
+Didymops,5.9,KY (SC) TV,PR,SP
+Didymops transversa,,,PR,SP
+Macromia,3,MD TV,PR,SP
+Corduliinae,,,,
+Epitheca,4,EDAS TV,PR,CB
+Epitheca (Epicordulia),,,,
+Epitheca princeps,,,,
+Epitheca princeps princeps,,,,
+Epicordulia,,,,
+Epicordulia princeps,,,,
+Neurocordulia,2,PA TV,PR,CB
+Somatochlora,4,WV TV (JB Adjusted),PR,SP
+Libellulidae,9,Original WAB Value-Organism Table,PR,SP
+Erythemis,5,PA TV,PR,SP
+Erythemis simplicicollis,,,PR,SP
+Libellula,,KY (NC) TV,PR,SP
+Libellula lydia,,,,
+Pachydiplax,,EDAS TV,PR,SP
+Pachydiplax longipennis,,,PR,SP
+Perithemis,,KY (NC) TV,PR,SP
+Plathemis,10,KY (NC) TV,PR,SP
+Sympetrum,7.29,KY (NC) TV,PR,SP
+Tramea,4,EDAS TV,PR,
+Zygoptera,,,,CB
+Calopterygidae,5,Original WAB Value-Organism Table,PR,CB
+Calopteryx,6,MD & PA TV,PR,CB
+Calopteryx maculata,,,PR,CB
+Hetaerina,6,PA TV,PR,CB
+Lestidae,9,Original WAB Value-Organism Table,PR,CB
+Lestes,9,PA TV,PR,CB
+Protoneuridae,5,Original WAB Value-Organism Table,,
+Coenagrionidae,9,Original WAB Value-Organism Table,PR,CB
+Amphiagrion,5,PA TV,PR,CB
+Argia,6,PA TV,PR,CN
+Argia apicalis,,,PR,
+Argia fumipennis,,,PR,
+Argia sedula,,,PR,
+Argia tibialis,,,PR,CB
+Argia fumipennis violacea,,,PR,CB
+Chromagrion,,PA TV,PR,CB
+Coenagrion,,PA TV,PR,CB
+Coenagrion/Enallagma,,,PR,CB
+Enallagma,8,MD & PA TV,PR,CB
+Enallagma antennatum,,,,
+Enallagma hageni,,,PR,
+Enallagma signatum,,,PR,CB
+Ischnura,9,MD & PA TV,PR,CB
+Anomalagrion,,,,
+Plecoptera,3,Original WAB Value-Organism Table,PR,CN
+Taeniopterygidae,2,Original WAB Value-Organism Table,SH,SP
+Taeniopteryx,2,MD & PA TV,SH,SP
+Taeniopteryx metequi,,,SH,SP
+Taeniopteryx nivalis,,,,
+Oemopteryx,3,PA TV,SH,SP
+Strophopteryx,3,PA TV,SC,SP
+Strophopteryx fasciata,,,,
+Taenionema,3,PA TV,SC,SP
+Nemouridae,2,Original WAB Value-Organism Table,SH,SP
+Amphinemura,3,MD & PA TV,SH,SP
+Amphinemura delosa,,,SH,SP
+Nemoura,1,MD & PA TV,SH,SP
+Ostrocerca,2,PA TV,SH,SP
+Paranemoura,2,PA TV,SH,SP
+Prostoia,2,PA TV,SH,SP
+Shipsa,2,PA TV,SH,SP
+Soyedina,0,PA TV,SH,SP
+Leuctridae,3,WV TV (JB Adjusted),SH,SP
+Leuctra,2,WV TV (JB Adjusted),SH,SP
+Paraleuctra,0,PA TV,SH,SP
+Zealeuctra,0,EDAS TV,SH,SP
+Capniidae/Leuctridae,2,WV TV (JB Adjusted),SH,SP
+Capniidae,1,Original WAB Value-Organism Table,SH,SP
+Allocapnia,3,MD & PA TV,SH,CN
+Allocapnia granulata,,,,
+Allocapnia nivicola,,,,
+Capnia,,MD & PA TV,SH,SP
+Nemocapnia,,PA TV,SH,SP
+Paracapnia,1,MD & PA TV,SH,SP
+Utacapnia,,PA TV,,
+Pteronarcyidae,0,Original WAB Value-Organism Table,SH,CN
+Pteronarcys,0,PA TV,SH,CN
+Pteronarcys biloba,,,,
+Pteronarcys comstocki,,,,
+Pteronarcys proteus,,,SH,CN
+Peltoperlidae,2,Original WAB Value-Organism Table,SH,CN
+Peltoperla,2,PA TV,SH,CN
+Peltoperla arcuata,,,SH,CN
+Tallaperla,0,PA TV,SH,CN
+Tallaperla maria,,,,
+Viehoperla,,PA TV,,
+Perlidae,1,Original WAB Value-Organism Table,PR,CN
+Agnetina,2,PA TV,PR,CN
+Agnetina annulipes,,,,CN
+Agnetina capitata,,,PR,CN
+Agnetina/Paragnetina,1.5,Agnetina & Paragnetina TV,PR,CN
+Phasganophora,,,,
+Neoperla,3,MD & PA TV,PR,CN
+Paragnetina,1,MD & PA TV,PR,CN
+Paragnetina immarginata,,,PR,CN
+Paragnetina media,,,PR,CN
+Acroneuria,2,WV TV (JB Adjusted),PR,CN
+Acroneuria abnormis,,,PR,CN
+Acroneuria carolinensis,,,PR,CN
+Acroneuria evoluta,,,PR,CN
+Acroneuria frisoni,,,PR,CN
+Acroneuria lycorias,,,PR,CN
+Acroneuria mela,,,PR,CN
+Anacroneuria,,,,
+Attaneuria,3,PA TV,PR,CN
+Beloneuria,3,PA TV,PR,CN
+Eccoptura,2,PA TV,PR,CN
+Eccoptura xanthenes,,,PR,CN
+Hansonoperla,3,PA TV,PR,CN
+Perlesta,4,MD & PA TV,PR,CN
+Perlesta placida,,,PR,CN
+Perlinella,,KY (SC) TV,PR,CN
+Perlodidae,2,Original WAB Value-Organism Table,PR,CN
+Arcynopteryx,,PA TV,,
+Cultus,2,PA TV,PR,CN
+Cultus decisus,,,PR,CN
+Diploperla,2,PA TV,PR,CN
+Diploperla robusta,,,PR,CN
+Diura,,PA TV,PR,CN
+Helopicus,,PA TV,PR,CN
+Hydroperla,,PA TV,,CN
+Isogenoides,0,PA TV,PR,CN
+Malirekus,2,PA TV,PR,CN
+Malirekus hastatus,,,PR,CN
+Malirekus/Yugus,2,Malirekus & Yugus TV,PR,CN
+Yugus,2,PA TV,PR,CN
+Yugus bulbosus,,,,
+Yugus kirchneri,,,,
+Oconoperla,,PA TV,,
+Remenus,2,PA TV,PR,CN
+Remenus bilobatus,,,PR,CN
+Clioperla,2,MD & PA TV,PR,CN
+Clioperla clio,,,PR,CN
+Isoperla,2,MD & PA TV,PR,CN
+Isoperla marlynia,,,,
+Perlodidae/Chloroperlidae,1.5,Perlodidae & Chloroperlidae TV,PR,CN
+Chloroperlidae,1,Original WAB Value-Organism Table,PR,CN
+Utaperla,0,PA TV,PR,CN
+Alloperla,1,WV TV (JB Adjusted),PR,CN
+Haploperla,0,PA TV,PR,CN
+Haploperla brevis,,,PR,CN
+Plumiperla,,,PR,CN
+Rasvena,0,Chloroperlidae Proposed TV,PR,CN
+Suwallia,0,PA TV,PR,CN
+Sweltsa,0,KY & PA TV,PR,CN
+Sweltsa onkos,,,,
+Hemiptera,,,PR,CB
+Nepidae,6,Original WAB Value-Organism Table,PR,
+Ranatra,8,PA TV,PR,CB
+Ranatra buenoi,,,PR,
+Ranatra kirkaldyi,,,PR,
+Belostomatidae,5,Original WAB Value-Organism Table,PR,CB
+Belostoma,10,MD TV,PR,CB
+Belostoma flumineum,,,PR,
+Corixidae,5,Original WAB Value-Organism Table,PR,SW
+Cenocorixa,,DE TV,PR,SW
+Graptocorixa,,PA TV,PR,SW
+Hesperocorixa,,KY (NC) TV,PH,SW
+Palmacorixa,,KY (NC) TV,PH,SW
+Sigara,,KY (NC) TV,PH,SW
+Trichocorixa,8,PA TV,PR,SW
+Gelastocoridae,5,Original WAB Value-Organism Table,PR,SP
+Naucoridae,5,Original WAB Value-Organism Table,PR,CB
+Pelocoris,7,DE & EDAS TV,PR,CB
+Notonectidae,5,Original WAB Value-Organism Table,PR,SW
+Notonecta,8.71,KY (NC) TV,PR,SW
+Notonecta irrorata,,,PR,
+Notonecta raleighi,,,,
+Notonecta uhleri,,,PR,SW
+Pleidae,9,KY TV,PR,SW
+Neoplea,9,KY TV,PR,SW
+Mesoveliidae,6,Original WAB Value-Organism Table,PR,CN
+Mesovelia,9,PA TV,PR,SK
+Hydrometridae,4,Original WAB Value-Organism Table,,
+Hydrometra,,KY & PA TV,PR,SK
+Hebridae,5,Original WAB Value-Organism Table,,
+Hebrus,,,PR,CB
+Merragata,,KY (SC) TV,PR,SK
+Macroveliidae,9,PA TV,PC,
+Veliidae,6,Original WAB Value-Organism Table,PR,SK
+Microvelia,9,KY & PA TV,PR,SK
+Microvelia paludicola,,,PR,
+Microvelia pulchella,,,PR,
+Platyvelia,8,Veliidae Proposed TV,PR,SK
+Rhagovelia,9,KY & PA TV,PR,SK
+Rhagovelia obesa,,,PR,
+Trochopus,,,PR,SK
+Gerridae,8,Original WAB Value-Organism Table,PR,SK
+Gerris,9,KY (SC) TV,PR,SK
+Limnoporus,9,KY & PA TV,PR,SK
+Neogerris,,KY & PA TV,PR,SK
+Metrobates,9,KY & PA TV,PR,SK
+Trepobates,9,KY & PA TV,PR,SK
+Trepobates pictus,,,PR,CB
+Rheumatobates,,KY (SC) TV,PR,SK
+Saldidae,8,PA TV,PR,CB
+Coleoptera,,,PR,
+Sphaeriidae (Insecta),8,PA & VA TV,,
+Carabidae,0,Original WAB Value-Organism Table,PR,CN
+Haliplidae,5,Original WAB Value-Organism Table,PH,CN
+Haliplus,5,MD & PA TV,PH,CB
+Haliplus fasciatus,,,PH,CB
+Haliplus immaculicollis,,,,
+Haliplus pantherinus,,,,
+Peltodytes,5,MD & PA TV,PH,CB
+Peltodytes bradleyi,,,,
+Peltodytes duodecimpuntatus,,,,
+Peltodytes lengi,,,PH,
+Peltodytes muticus,,,PH,
+Peltodytes oppositus,,,PH,
+Peltodytes sexmaculatus,,,PH,
+Noteridae,5,Original WAB Value-Organism Table,PR,CB
+Pronoterus,,DE TV,,
+Dytiscidae,5,Original WAB Value-Organism Table,PR,SW
+Acilius,,KY TV,PR,SW
+Agabetes,5,PA TV,PR,SW
+Agabus,5,MD & PA TV,PR,SW
+Celina,5,DE & EDAS TV,PR,SW
+Colymbetes,,DE TV,PR,SW
+Copelatus,,KY (NC) TV,PR,SW
+Cybister,,KY (SC) TV,PR,SW
+Dytiscus,5,PA TV,PR,SW
+Hoperius,,DE TV,,
+Hydaticus,5,DE TV,PR,SW
+Hydroporinae,,,,
+Heterosternuta,5,Dytiscidae TV,PR,SW
+Heterosternuta pulchra,,,,
+Hydrocolus,8.9,KY TV,PR,SW
+Hydrocolus oblitus,,,PR,
+Hydroporus,5,MD & PA TV,PR,SW
+Hydrovatus,5,Dytiscidae TV,PR,SW
+Ilybius,5,DE & EDAS TV,PR,SW
+Laccophilus,5,PA TV,PR,SW
+Laccophilus fasciatus,,,,
+Laccophilus fasciatus rufus,,,,
+Laccophilus maculosus,,,,
+Lioporeus,9,KY TV,PR,SW
+Deronectes,,EDAS TV,PR,SW
+Neoporus,8.9,KY (SC) TV,PR,SW
+Neoporus carolinus,,,,
+Neoporus clypealis,,,,
+Neoporus mellitus,,,,
+Oreodytes,5,DE TV,PR,SW
+Rhantus,,KY (NC) TV,PR,SW
+Stictotarsus,,MD TV,PR,SW
+Thermonectus,,DE TV,PR,SW
+Gyrinidae,4,Original WAB Value-Organism Table,PR,SW
+Dineutus,4,MD & PA TV,PR,SW
+Dineutus assimilis,,,PR,
+Dineutus discolor,,,PR,
+Dineutus nigrior,,,PR,
+Gyrinus,4,MD & PA TV,PR,SW
+Gyrinus aeneolus,,,PR,
+Gyrinus parcus,,,,
+Staphylinidae,8,RBP TV,PR,CN
+Bledius,8,Staphylinidae TV,PR,CN
+Carpelimus,8,Staphylinidae TV,PR,CN
+Stenus,,,,SK
+Hydraenidae,6,PA TV,PR,CN
+Hydraena,5,KY & RBP TV,PR,CN
+Limnebius,,PA TV,,CN
+Ochthebius,6,Hydraenidae TV,SC,CN
+Georyssidae,,,,
+Helophoridae,5,Original WAB Value-Organism Table,,
+Helophorus,5,PA TV,SH,SW
+Helophorus linearis,,,,
+Hydrochidae,5,Hydrophilidae TV,,SW
+Hydrochus,5,PA TV,SH,CB
+Hydrochus rugosus,,,,
+Hydrochus squamifer,,,,
+Hydrophilidae,5,Original WAB Value-Organism Table,PR,SW
+Anacaena,,,PR,BU
+Berosus,6,WV TV (JB Adjusted),PH,SW
+Cercyon,5,Hydrophilidae TV,PR,SW
+Crenitis,5,Hydrophilidae TV,PR,BU
+Cymbiodyta,5,MD TV,PR,BU
+Cymbiodyta blanchardi,,,,
+Enochrus,5,MD & PA TV,PR,BU
+Enochrus ochraceus,,,PH,
+Helobata,5,Hydrophilidae TV,CG,SW
+Helochares,5,PA TV,PR,SW
+Helocombus,8.5,KY TV,CG,SW
+Hydrobius,5,MD & PA TV,PH,CB
+Hydrochara,8.3,KY (SC) TV,PR,SW
+Hydrophilus,5,MD TV,PR,SW
+Laccobius,5,EDAS TV,PR,SW
+Paracymus,5,PA TV,PR,CN
+Paracymus subcupreus,,,,
+Sperchopsis,5,MD TV,PR,CN
+Tropisternus,5,PA TV,CG,CB
+Tropisternus lateralis,,,CG,
+Georyssus,,,,
+Histeridae,,PA TV,,
+Scirtidae,7,?,SC,CB
+Helodidae,7,EDAS TV,SC,CB
+Cyphon,8,PA TV,SC,CB
+Sarabandus,7,Scirtidae TV,SC,CB
+Scirtes,5,KY (SC) TV,SH,CB
+Ptilodactylidae,5,Original WAB Value-Organism Table,SH,CN
+Anchytarsus,4,MD & PA TV,SH,CN
+Anchytarsus bicolor,,,SH,CN
+Limnichidae,5,Original WAB Value-Organism Table,SC,
+Dryopidae,5,Original WAB Value-Organism Table,"CG,SC","CN,CB"
+Helichus,5,MD & PA TV,SC,CN
+Helichus basalis,,,SC,CN
+Helichus fastigiatus,,,SC,CN
+Helichus lithophilus,,,SC,CN
+Helichus striatus,,,SC,CN
+Elmidae,4,Original WAB Value-Organism Table,"SC,CG",CN
+Ancyronyx,2,MD & PA TV,CG,CN
+Ancyronyx variegatus,,,SC,CN
+Dubiraphia,6,MD & PA TV,CG,CN
+Dubiraphia minima,,,,
+Dubiraphia quadrinotata,,,SC,CN
+Dubiraphia vittata,,,SC,CN
+Gonielmis,5,PA TV,SC,CN
+Heterlimnius,,PA TV,CG,CN
+Macronychus,2,PA TV,CG,CN
+Macronychus glabratus,,,CG,CN
+Microcylloepus,2,PA TV,SC,CN
+Microcylloepus pusillus,,,SC,CN
+Optioservus,4,MD & PA TV,SC,CN
+Optioservus fastiditus,,,SC,
+Optioservus immunis,,,SC,CN
+Optioservus ovalis,,,SC,CN
+Optioservus trivittatus,,,SC,CN
+Ordobrevia,,PA TV,,CN
+Oulimnius,5,PA TV,SC,CN
+Oulimnius latiusculus,,,SC,CN
+Promoresia,2,MD & PA TV,SC,CN
+Promoresia elegans,,,SC,CN
+Promoresia tardella,,,SC,CN
+Rhizelmis,,PA TV,SC,CN
+Stenelmis,5,PA TV,SC,CN
+Stenelmis antennalis,,,OM,
+Stenelmis crenata,,,SC,CN
+Stenelmis decorata,,,SC,CN
+Stenelmis humerosa,,,OM,
+Stenelmis lateralis,,,SC,CN
+Stenelmis markeli,,,SC,CN
+Psephenidae,4,Original WAB Value-Organism Table,SC,CN
+Psephenus,4,MD & PA TV,SC,CN
+Psephenus herricki,,,SC,CN
+Dicranopselaphus,4,Psephenidae TV,SC,CN
+Ectopria,5,MD & PA TV,SC,CN
+Ectopria nervosa,,,SC,CN
+Lampyridae,,,,
+Tenebrionidae,,,,
+Chrysomelidae,5,Original WAB Value-Organism Table,SH,CN
+Agasicles,,,,CN
+Curculionidae,5,Original WAB Value-Organism Table,SH,CN
+Tanysphyrus,,,SH,CN
+Megaloptera,,,PR,
+Sialidae,4,Original WAB Value-Organism Table,PR,BU
+Sialis,6,PA TV,PR,BU
+Corydalidae,5,Original WAB Value-Organism Table,PR,CN
+Corydalinae,,,,
+Corydalus,5,WV TV (JB Adjusted),PR,CN
+Corydalus cornutus,,,PR,CN
+Chauliodinae,,,,
+Chauliodes,4,MD & PA TV,PR,CN
+Chauliodes pectinicornis,,,,
+Chauliodes rastricornis,,,PR,CN
+Neohermes,2,PA TV,PR,CN
+Neohermes concolor,,,,
+Nigronia,5,WV TV (JB Adjusted),PR,CN
+Nigronia fasciatus,,,PR,CN
+Nigronia serricornis,5,WV TV (JB Adjusted),PR,CN
+Neuroptera,,,,
+Sisyridae,3,Original WAB Value-Organism Table,PR,"CB,CN,BU"
+Climacia,8,KY (SC) TV,PR,CB
+Trichoptera,,,CG,SP
+Rhyacophilidae,3,WV TV (JB Adjusted),PR,CN
+Rhyacophila,3,WV TV (JB Adjusted),PR,CN
+Rhyacophila acutiloba,,,,
+Rhyacophila carolina,,,PR,CN
+Rhyacophila fuscula,,,PR,CN
+Rhyacophila melita,,,,
+Rhyacophila mainensis,,,,
+Rhyacophila minor,,,PR,CN
+Rhyacophila nigrita,,,,
+Hydroptilidae,4,Original WAB Value-Organism Table,PH,CB
+Palaeagapetus,1,PA TV,SH,SP
+Palaeagapetus celsus,,,,
+Agraylea,8,PA TV,PH,CN
+Dibusa,4,PA TV,SC,CN
+Hydroptila,6,MD & PA TV,PH,CN
+Hydroptila waubesiana,,,PH,CN
+Ochrotrichia,4,MD & PA TV,CG,CN
+Orthotrichia,6,PA TV,CG,CN
+Oxyethira,3,MD & PA TV,PH,CN
+Stactobiella,2,EDAS TV,SH,CN
+Leucotrichia,6,PA TV,SC,CN
+Leucotrichia pictipes,,,SC,CN
+Mayatrichia,4,PA TV,SC,CN
+Neotrichia,2,KY & PA TV,SC,CN
+Glossosomatidae,0,Original WAB Value-Organism Table,SC,CN
+Glossosoma,1,WV TV (JB Adjusted),SC,CN
+Glossosoma nigrior,,,SC,CN
+Agapetus,0,KY & PA TV,SC,CN
+Culoptila,,PA TV,PR,CN
+Protoptila,1,PA TV,SC,CN
+Philopotamidae,3,Original WAB Value-Organism Table,CF,CN
+Dolophilodes,1,WV TV (JB Adjusted),CF,CN
+Dolophilodes distinctus,,,CF,CN
+Wormaldia,1,WV TV (JB Adjusted),CF,CN
+Chimarra,4,MD & PA TV,CF,CN
+Chimarra aterrima,,,CF,CN
+Chimarra obscura,,,CF,CN
+Chimarra socia,,,,
+Psychomyiidae,2,Original WAB Value-Organism Table,CG,CN
+Lype,2,MD & PA TV,SC,CN
+Lype diversa,,,SC,CN
+Psychomyia,2,MD & PA TV,CG,CN
+Psychomyia flavida,,,CG,CN
+Dipseudopsidae,6,Original WAB Value-Organism Table,,
+Phylocentropus,5,MD TV,CF,BU
+Polycentropodidae,6,Original WAB Value-Organism Table,CF,CN
+Cernotina,6,PA TV,PR,CN
+Cyrnellus,8,PA TV,CF,CN
+Neureclipsis,7,MD & PA TV,CF,CN
+Nyctiophylax,4,WV TV (JB Adjusted),CF,CN
+Nyctiophylax celta,,,PR,CN
+Nyctiophylax visitus,,,,
+Polycentropus,6,PA TV,PR,CN
+Hydropsychidae,5,Original WAB Value-Organism Table,CF,CN
+Parapsyche,0,PA TV,PR,CN
+Diplectrona,4,KY TV,CF,CN
+Diplectrona metaquiI,,,CF,CN
+Diplectrona modesta,3,WV TV (JB Adjusted),CF,CN
+Homoplectra,5,PA TV,CF,CN
+Homoplectra flinti,,,,
+Ceratopsyche,6,WV TV (JB Adjusted),CF,CN
+Ceratopsyche bronta,,,CF,CN
+Ceratopsyche morosa,,,CF,CN
+Ceratopsyche slossonae,,,CF,CN
+Ceratopsyche sparna,,,CF,CN
+Ceratopsyche ventura,,,CF,CN
+Cheumatopsyche,6,PA TV,CF,CN
+Cheumatopsyche sordida,,,,
+Hydropsyche,5,PA TV,CF,CN
+Hydropsyche bifida,,,CF,CN
+Hydropsyche betteni,,,CF,CN
+Hydropsyche demora,,,CF,CN
+Hydropsyche dicantha,,,CF,CN
+Hydropsyche hoffmani,,,,
+Hydropsyche morosa,,,,
+Hydropsyche simulans,,,CF,CN
+Hydropsyche slossonae,,,,
+Hydropsyche sparna,,,CF,CN
+Hydropsyche ventura,,,,
+Potamyia,,PA TV,CF,CN
+Macrostemum,3,PA TV,CF,CN
+Macrostemum zebratum,,,CF,CN
+Phryganeidae,4,Original WAB Value-Organism Table,SH,CB
+Agrypnia,4,Phryganeidae TV,SH,CB
+Fabria,,PA TV,,
+Oligostomis,2,EDAS TV,PR,CB
+Phryganea,6,KY (SC) TV,"SH,PR",CB
+Ptilostomis,5,MD & PA TV,SH,CB
+Brachycentridae,1,Original WAB Value-Organism Table,CF,CN
+Adicrophleps,2,PA TV,SH,CN
+Brachycentrus,1,MD & PA TV,CF,CN
+Brachycentrus numerosus,,,CF,CN
+Micrasema,2,MD & PA TV,PH,CN
+Lepidostomatidae,1,Original WAB Value-Organism Table,SH,"CB,CN,SP"
+Lepidostoma,1,PA TV,SH,CB
+Theliopsyche,,PA TV,,
+Limnephilidae,4,Original WAB Value-Organism Table,SH,SP
+Ironoquia,3,MD & PA TV,SH,SP
+Pseudostenophylax,0,PA TV,SC,SP
+Frenesia,,PA TV,,
+Homophylax,,PA TV,SH,"CN,SP"
+Psychoglypha,,PA TV,CG,SP
+Anabolia,,PA TV,SH,SP
+Hesperophylax,,PA TV,SH,SP
+Limnephilus,,MD & PA TV,SH,CB
+Nemotaulius,,PA TV,SH,SP
+Platycentropus,,MD & PA TV,SH,CB
+Hydatophylax,2,MD & PA TV,SH,SP
+Hydatophylax argus,,,SH,SP
+Hydatophylax/Pycnopsyche,,,SH,SP
+Pycnopsyche,4,MD & PA TV,SH,SP
+Apataniidae,4,Family split from Limnephilidae by Wiggins (1998),SC,CN
+Apatania,3,PA TV,SC,CN
+Uenoidae,4,Original WAB Value-Organism Table,SC,CN
+Neophylax,3,MD & PA TV,SC,CN
+Neophylax concinnus,,,SC,CN
+Neophylax consimilis,,,SC,CN
+Goeridae,4,Limnephiliae TV,,CN
+Goera,0,PA TV,SC,CN
+Goerita,4,PA TV,SC,CN
+Leptoceridae,4,Original WAB Value-Organism Table,CG,CB
+Ceraclea,3,MD & PA TV,CG,CN
+Mystacides,4,MD & PA TV,CG,SP
+Mystacides sepulchralis,,,PR,
+Nectopsyche,3,MD & PA TV,SH,SP
+Setodes,2,PA TV,SC,SP
+Triaenodes,6,MD & PA TV,SH,SW
+Triaenodes marginatus,,,SH,
+Triaenodes melacus,,,PR,
+Triaenodes tardus,,,SH,
+Oecetis,6,WV TV (JB Adjusted),PR,CN
+Oecetis avara,,,PR,
+Oecetis georgia,,,,
+Oecetis inconspicua,,,PR,
+Oecetis persimilis,,,PR,SW
+Molannidae,6,Original WAB Value-Organism Table,SC,SP
+Molanna,6,MD & PA TV,SC,SP
+Calamoceratidae,2,Original WAB Value-Organism Table,SH,SP
+Anisocentropus,1.4,NRSA & WSA TV,SH,SP
+Anisocentropus pyraloides,,,SH,SP
+Heteroplectron,,PA TV,SH,SP
+Heteroplectron americanum,,,SH,SP
+Odontoceridae,0,Original WAB Value-Organism Table,SC,SP
+Marilia,,PA TV,SH,CN
+Psilotreta,0,"KY, MD & PA TV",SC,CN
+Psilotreta frontalis,,,,CN
+Sericostomatidae,1,Original WAB Value-Organism Table,SH,SP
+Agarodes,,MD & PA TV,SH,SP
+Beraeidae,3,Original WAB Value-Organism Table,,
+Beraea,,PA TV,,SP
+Helicopsychidae,3,Original WAB Value-Organism Table,"SC,SH",CN
+Helicopsyche,3,PA TV,SC,CN
+Helicopsyche borealis,,,SC,CN
+Lepidoptera,,,SH,
+Cosmopterygidae,5,Original WAB Value-Organism Table,,
+Cossidae,0,?,,
+Prionoxystus,5,RBP TV,SH,
+Tortricidae,5,Original WAB Value-Organism Table,,"BU,CB"
+Archips,5,PA TV,SH,BU
+Pyralidae,5,Original WAB Value-Organism Table,SH,CB
+Munroessa,,DE TV,SH,CB
+Parapoynx,,KY (SC) TV,SH,CB
+Petrophila,5,PA TV,SH,CN
+Acentria,1,RBP TV,SH,CB
+Crambidae,5,Crambus TV,SH,CB
+Crambus,5,KY TV,SH,BU
+Noctuidae,5,Archanara TV,SH,BU
+Archanara,5,KY (SC) TV,SH,BU
+Diptera,,,CG,CB
+Nematocera,,,,
+Tipulidae,3,Original WAB Value-Organism Table,SH,BU
+Brachypremna,,,SH,BU
+Prionocera,4,RBP TV,SH,CN
+Tipula,6,WV TV (JB Adjusted),SH,BU
+Tipula (Nippotipula),,,,
+Tipula (Yamatotipula),,,,
+Limoniinae,,,,
+Eriopterini,,,,
+Cryptolabis,4,PA TV,SH,BU
+Erioptera,7,MD & PA TV,CG,SP
+Gonomyia,3,DE TV,CG,BU
+Lipsothrix,4,PA TV,SH,BU
+Molophilus,4,PA TV,SH,BU
+Molophilus hirtipennis,,,,
+Ormosia,6,PA TV,CG,BU
+Epiphragma,2,Hexatomini TVs,PR,BU
+Hexatoma,4,WV TV (JB Adjusted),PR,BU
+Limnophila,3,PA TV,PR,BU
+Pilaria,7,MD & PA TV,PR,BU
+Polymera,,PA TV,,
+Pseudolimnophila,3,WV TV (JB Adjusted),PR,BU
+Antocha,4,WV TV (JB Adjusted),CG,CN
+Dicranoptycha,4,Helius TV,CG,BU
+Helius,4,MD TV,CG,"SP,BU"
+Limonia,7,WV TV (JB Adjusted),SC,BU
+Dicranota,3,PA TV,PR,"SP,BU"
+Pedicia,6,PA TV,PR,BU
+Blephariceridae,0,Original WAB Value-Organism Table,SC,CN
+Bibiocephala,0,RBP TV,SC,CN
+Blepharicera,0,KY & PA TV,SC,CN
+Pachyneuridae,,,,
+Mycetophilidae,,,,
+Mycetophila,,,,
+Sciaridae,6,EMAP TV,,
+Corynoptera,6,Sciaridae EMAP TV,,
+Psychodidae,10,Original WAB Value-Organism Table,CG,BU
+Pericoma,6,WV TV (JB Adjusted),CG,BU
+Pericoma/Telmatoscopus,7,Pericoma TV,CG,BU
+Psychoda,10,PA TV,CG,BU
+Telmatoscopus,10,Psychodidae TV,CG,BU
+Trichoceridae,,,,
+Tanyderidae,6,Original WAB Value-Organism Table,CG,BU
+Protoplasa,6,PA TV,CG,BU
+Protoplasa fitchii,,,PR,BU
+Ptychopteridae,8,Original WAB Value-Organism Table,CG,BU
+Bittacomorpha,8,DE & EDAS TV,CG,BU
+Bittacomorphella,,DE TV,,
+Ptychoptera,,PA TV,CG,BU
+Dixidae,1,Original WAB Value-Organism Table,CG,SW
+Dixa,1,PA TV,CG,SW
+Dixella,4,WV TV (JB Adjusted),CG,SW
+Chaoboridae,7,Original WAB Value-Organism Table,PR,SP
+Chaoborus,8,PA TV,PR,SP
+Culicidae,8,Original WAB Value-Organism Table,CF,SW
+Anopheles,6,DE & EDAS TV,CF,SW
+Aedes,,MD TV,CF,SW
+Culex,8,DE & EDAS TV,CF,SW
+Simuliidae,6,Original WAB Value-Organism Table,CF,CN
+Cnephia,,"KY, MD, & PA TV",CF,CN
+Greniera,,,CF,CN
+Helodon,,,CF,CN
+Helodon/Prosimulium,,,,
+Prosimulium,4,WV TV (JB Adjusted),CF,CN
+Prosimulium mixtum,,,CF,CN
+Stegopterna,6,PA TV,CF,CN
+Stegopterna mutata,,,,
+Simulium,6,PA TV,CF,CN
+Simulium fibrinflatum,,,,
+Simulium impar,,,,
+Simulium jenningsi,,,CF,
+Simulium jonesi,,,CF,
+Simulium pictipes,,,,
+Simulium rivuli,,,CF,
+Simulium tuberosum,,,CF,CN
+Simulium venustum,,,CF,CN
+Simulium verecundum,,,,
+Simulium vittatum,,,CF,CN
+Ceratopogonidae,6,Original WAB Value-Organism Table,PR,SP
+Dasyhelea,6,PA TV,CG,SP
+Atrichopogon,4,WV TV (JB Adjusted),PR,SP
+Forcipomyia,6,EDAS TV,SC,BU
+Ceratopogoninae,,,PR,BU
+Alluaudomyia,6,EDAS TV,PR,BU
+Ceratopogon,6,MD TV,PR,BU
+Monohelea,6,EDAS TV,PR,BU
+Serromyia,6,DE & EDAS TV,PR,BU
+Stilobezzia,6,PA TV,PR,SP
+Culicoides,10,MD TV,PR,BU
+Bezzia,6,MD & PA TV,PR,BU
+Bezzia/Palpomyia,6,Bezzia & Palpomyia TV,PR,BU
+Bezzia/Probezzia,6,Bezzia & Probezzia TV,PR,BU
+Palpomyia,6,DE & EDAS TV,PR,BU
+Mallochohelea,,PA TV,PR,BU
+Probezzia,6,MD & PA TV,PR,BU
+Sphaeromias,6,DE TV,PR,BU
+Chironomidae,6,Original WAB Value-Organism Table,CG,BU
+Tanypodinae,6,PA TV,PR,BU
+Coelotanypodini,,,,
+Clinotanypus,8,MD TV,PR,BU
+Clinotanypus pinguis,,,PR,
+Coelotanypus,4,PA TV,PR,BU
+Fittkauimyia,3.8,NRSA & WSA TV,,SP
+Macropelopiini,,,,
+Alotanypus,8,Other Macropelopini TV,PR,BU
+Alotanypus aris,,,,
+Apsectrotanypus,,KY (NC) TV,PR,BU
+Apsectrotanypus johnsoni,,,PR,
+Bethbilbeckia,8,Other Macropelopini TV,PR,"BU,SP"
+Brundiniella,9,KY (NC) TV,PR,SP
+Macropelopia,,MD & PA TV,PR,SP
+Macropelopia aris,,,,
+Psectrotanypus,10,KY & PA TV,PR,SP
+Psectrotanypus dyari,,,PR,
+Radotanypus,,,,SP
+Procladiini,,,,
+Djalmabatista,3,EDAS TV,PR,SP
+Djalmabatista pulcher,,,PR,
+Procladius,9,MD & PA TV,PR,SP
+Natarsiini,,,,
+Natarsia,8,MD & PA TV,PR,SP
+Natarsia baltimoreus,,,PR,
+Pentaneurini,,,PR,
+Ablabesmyia,8,MD & PA TV,PR,SP
+Ablabesmyia janta,,,PR,
+Ablabesmyia monilis,,,,
+Ablabesmyia peleensis,,,PR,SP
+Ablabesmyia annulata,,,PR,
+Ablabesmyia parajanta,,,PR,
+Ablabesmyia (Karelia),,,,
+Ablabesmyia (Ablabesmyia),,,,SP
+Ablabesmyia mallochi,,,PR,
+Ablabesmyia rhamphe,,,PR,
+Conchapelopia,6,PA TV,PR,SP
+Conchapelopia flavifrons,,,,
+Conchapelopia/Helopelopia,6,Conchapelopia & Helopelopia TV,PR,SP
+Guttipelopia,6.3,KY (SC) TV,PR,SP
+Helopelopia,6,PA TV,PR,SP
+Hudsonimyia,6,Other Pentaneurini TV,PR,SP
+Krenopelopia,4,"Bode, et.al., 1996",PR,SP
+Labrundinia,7,MD & PA TV,PR,SP
+Labrundinia neopilosella,,,PR,
+Labrundinia pilosella,,,PR,SP
+Labrundinia/Nilotanypus,,,PR,SP
+Larsia,6,MD & PA TV,PR,SP
+Meropelopia,7,EDAS TV,CG,SP
+Monopelopia,6,RBP TV,PR,SP
+Nilotanypus,6,MD & PA TV,PR,SP
+Nilotanypus fimbriatus,,,PR,
+Paramerina,6,PA TV,PR,SP
+Paramerina anomala,,,,
+Pentaneura,6,MD & PA TV,PR,SP
+Rheopelopia,4,MD & PA TV,PR,SP
+Thienemannimyia,6,PA TV,PR,SP
+Hayesomyia,6.2,KY (SC) TV,PR,SP
+Thienemannimyia senata,,,,
+Trissopelopia,6,PA TV,PR,SP
+Zavrelimyia,8,MD & PA TV,PR,SP
+Tanypodini,,Tanypus EDAS TV,PR,SP
+Tanypus,10,MD TV,PR,SP
+Tanypus neopunctipennis,,,PR,
+Tanypus punctipennis,,,PR,SP
+Podonominae,,,CG,BU
+Boreochlini,,,,
+Paraboreochlus,2,Boreochlini TV,CG,SP
+Diamesinae,6,PA TV,CG,SP
+Diamesini,,,,
+Diamesa,6,WV TV (JB Adjusted),CG,SP
+Pagastia,1,MD & PA TV,CG,SP
+Potthastia,4,WV TV (JB Adjusted),CG,SP
+Potthastia gaedii,,,CG,SP
+Potthastia longimana,,,CG,SP
+Pseudodiamesa,1,PA TV,CG,SP
+Sympotthastia,2,MD & PA TV,CG,SP
+Prodiamesinae,,,,
+Monodiamesa,7,EDAS TV,CG,SP
+Odontomesa,4,MD TV,CG,SP
+Prodiamesa,5,WV TV (JB Adjusted),CG,BU
+Prodiamesa olivacea,,,,
+Orthocladiinae,6,PA TV,CG,BU
+Corynoneurini,,,,SP
+Corynoneura,4,PA TV,CG,SP
+Thienemanniella,6,MD & PA TV,CG,SP
+Thienemanniella xena,,,CG,
+Orthocladiini,,,CG,BU
+Acricotopus,,,CG,SP
+Bryophaenocladius,5,NRSA & WSA TV,CG,SP
+Brillia,5,MD & PA TV,SH,BU
+Brillia flavifrons,,,SH,
+Camptocladius,,,CG,
+Cardiocladius,5,PA TV,PR,CN
+Cardiocladius obscurus,,,PR,CN
+Chaetocladius,6,MD & PA TV,CG,SP
+Chaetocladius stamfordi,,,,
+Compterosmittia,,,CG,
+Cricotopus,7,"Pond, 2002",SH,"CN,BU"
+Cricotopus (Cricotopus),,,,
+Cricotopus bicinctus,,,SH,
+Cricotopus festivellus,,,SH,
+Cricotopus tremulus,,,SH,SP
+Cricotopus trifascia,,,SH,
+Cricotopus varipes,,,,
+Cricotopus (Isocladius),,,,
+Cricotopus intersectus,,,SH,
+Cricotopus sylvestris,,,SH,
+Cricotopus/Orthocladius,7,Cricotopus & Orthocladius TV,"SH,CG","CN,SP,BU"
+Orthocladius,6,MD & PA TV,CG,"SP,BU"
+Orthocladius (Euorthocladius),,,,
+Orthocladius rivulorum,,,CG,CN
+Orthocladius (Orthocladius),,,,
+Orthocladius carlatus,,,CG,
+Orthocladius clarkei,,,,
+Orthocladius dorenus,,,CG,
+Orthocladius mallochi,,,CG,
+Orthocladius nigritus,,,CG,
+Orthocladius obumbratus,,,CG,
+Orthocladius oliveri,,,CG,
+Orthocladius (Symposiocladius),,,CG,
+Orthocladius lignicola,,,CG,SP
+Diplocladius,8,PA TV,CG,SP
+Diplocladius cultriger,,,CG,
+Doithrix,4,PA TV,CG,
+Epoicocladius,4,PA TV,CG,AT
+Eukiefferiella,8,MD & PA TV,CG,SP
+Eukiefferiella brehmi,,,CG,
+Eukiefferiella brevicalcar,,,CG,
+Eukiefferiella claripennis,,,CG,
+Eukiefferiella devonica,,,CG,
+Eukiefferiella discoloripes,,,,
+Eukiefferiella gracei,,,CG,
+Eukiefferiella pseudomontana,,,CG,
+Eukiefferiella tirolensis,,,CG,
+Euryhapsis,,,CG,
+Georthocladius,6,PA TV,CG,SP
+Gymnometriocnemus,7,DE & EDAS TV,CG,SP
+Heleniella,0,KY TV,CG,SP
+Heleniella ornaticollis,,,,SP
+Heterotrissocladius,3,WV TV (JB Adjusted),CG,SP
+Heterotrissocladius marcidus,,,CG,
+Hydrobaenus,8,MD & PA TV,SC,SP
+Hydrobaenus pilipes,,,SC,
+Krenosmittia,1,DE & EDAS TV,CG,SP
+Limnophyes,8,PA TV,CG,SP
+Lipurometriocnemus,,,CG,
+Lopescladius,6,PA TV,CG,SP
+Mesocricotopus,5,NRSA TV,CG,SP
+Mesosmittia,4,NRSA & WSA TV,CG,SP
+Metriocnemus,6,PA TV,OM,"BU,SP"
+Nanocladius,5,WV TV (JB Adjusted),CG,SP
+Nanocladius anderseni,,,,
+Nanocladius balticus,,,,
+Nanocladius crassicornus,,,CG,
+Nanocladius distinctus,,,CG,
+Nanocladius rectinervis,,,CG,SP
+Parachaetocladius,2,MD & PA TV,CG,SP
+Parachaetocladius hudsoni,,,,
+Paracladius,,PA TV,CG,SP
+Paracricotopus,6,PA TV,CG,SP
+Parakiefferiella,4,MD & PA TV,CG,SP
+Parakiefferiella triquetra,,,,SP
+Paralimnophyes,,,CG,
+Parametriocnemus,5,MD & PA TV,CG,SP
+Parametriocnemus lundbecki,,,CG,SP
+Paraphaenocladius,4,MD & PA TV,CG,SP
+Paratrichocladius,,PA TV,CG,SP
+Platysmittia,6,PA TV for Orthocladini & Orthocladinae,CG,
+Platysmittia bilyji,,,,
+Psectrocladius,7,WV TV (JB Adjusted),CG,SP
+Pseudorthocladius,0,MD & PA TV,CG,SP
+Pseudosmittia,6,KY (SC) TV,CG,SP
+Psilometriocnemus,6,PA TV,CG,SP
+Rheocricotopus,6,MD & PA TV,CG,SP
+Rheocricotopus effusus,,,,
+Rheocricotopus glabricollis,,,,
+Rheocricotopus pauciseta,,,CG,
+Rheocricotopus robacki,,,CG,
+Rheocricotopus tuberculatus,,,CG,BU
+Rheosmittia,6,PA TV,CG,BU
+Smittia,6,KY (SC) TV,CG,BU
+Stilocladius,7,DE TV,CG,SP
+Stilocladius clinopecten,,,,
+Synorthocladius,2,PA TV,CG,SP
+Synorthocladius semivirens,,,CG,
+Thienemannia,7,DE TV,CG,SP
+Tokunagaia,6,PA TV,CG,SP
+Tvetenia,5,MD & PA TV,CG,SP
+Tvetenia bavarica,,,CG,
+Tvetenia discoloripes,,,CG,
+Tvetenia paucunca,,,,
+Unniella,4,DE & EDAS TV,CG,BU
+Xylotopus,2,MD TV,CG,BU
+Xylotopus par,,,SH,
+Zalutschia,3.5,"NCDENR, 2003; Bode, et.al., 1996",SC,
+Chironominae,6,MD & PA TV,CG,BU
+Chironomini,6,MD & PA TV,CG,
+Apedilum,6,Chironomini TV,CG,
+Chironomus,10,MD & PA TV,CG,BU
+Chironomus plumosus,,,CG,
+Cladopelma,7,MD TV,CG,BU
+Cryptochironomus,8,MD & PA TV,PR,SP
+Cryptochironomus fulvus,,,PR,BU
+Cryptotendipes,6,PA TV,CG,SP
+Demicryptochironomus,5,WV TV (JB Adjusted),CG,BU
+Dicrotendipes,8,PA TV,CG,BU
+Dicrotendipes fumidus,,,CG,
+Dicrotendipes modestus,,,CG,
+Dicrotendipes neomodestus,,,CG,
+Dicrotendipes nervosus,,,CG,
+Dicrotendipes simpsoni,,,CG,
+Einfeldia,8,RBP TV,CG,BU
+Endochironomus,10,MD & PA TV,SH,CN
+Endochironomus subtendens,,,SH,
+Endochironomus/Tribelos,7.5,Endochironomus & Tribelos TV,"SH,CG","CN,BU"
+Endotribelos,,,CG,BU
+Glyptotendipes,10,MD & PA TV,SH,BU
+Glyptotendipes barbipes,,,SH,
+Goeldichironomus,8,DE & EDAS TV,CG,BU
+Goeldichironomus holoprasinus,,,CG,CB
+Harnischia,8,PA TV,CG,CB
+Hyporhygma,6,Chironomini TV,SH,BU
+Kiefferulus,10,MD TV,CG,BU
+Kiefferulus dux,,,CG,CN
+Lauterborniella,6,PA TV,CG,CN
+Lipinella,,,CG,BU
+Microtendipes,6,MD & PA TV,CF,CN
+Microtendipes pedellus,,,CF,
+Microtendipes rydalensis,,,CF,
+Nilothauma,2,PA TV,CG,
+Pagastiella,2.2,KY (NC) TV,CG,SP
+Parachironomus,8,PA TV,PR,SP
+Parachironomus arcuatus,,,,
+Parachironomus carinatus,,,CG,
+Parachironomus monochromus,,,,
+Paracladopelma,7,MD & PA TV,CG,SP
+Paracladopelma undine,,,CG,
+Paralauterborniella,8,MD & PA TV,CG,CN
+Paralauterborniella nigrohalterale,,,CG,
+Paratendipes,8,MD & PA TV,CG,BU
+Paratendipes albimanus,,,CG,CN
+Phaenopsectra,7,MD & PA TV,SC,CN
+Phaenopsectra flavipes,,,SC,
+Phaenopsectra punctipes,,,CG,
+Phaenopsectra/Tribelos,6,Phaenopsectra & Tribelos TV,"SC,CG","CN,BU"
+Polypedilum,6,MD & PA TV,SH,CB
+Polypedilum aviceps,,,SH,
+Polypedilum bergi,,,SC,
+Polypedilum convictum,,,SH,
+Polypedilum fallax,,,SH,
+Polypedilum flavum,,,SH,CB
+Polypedilum halterale,,,SH,
+Polypedilum illinoense,,,SH,
+Polypedilum laetum,,,SH,
+Polypedilum ontario,,,SH,
+Polypedilum scalaenum,,,SH,
+Polypedilum simulans,,,,
+Polypedilum tritum,,,SH,
+Robackia,3,"NCDENR, 2003",CG,BU
+Robackia demeijerei,,,CG,
+Saetheria,4,MD & PA TV,CG,BU
+Saetheria tylus,,,CG,
+Stelechomyia,,DE & EDAS TV,CG,BU
+Stenochironomus,5,MD & PA TV,CG,BU
+Stenochironomus aestivalis,,,,
+Stictochironomus,9,MD & PA TV,CG,BU
+Stictochironomus devinctus,,,CG,
+Tribelos,5,MD & PA TV,CG,BU
+Tribelos ater,,,,
+Tribelos fuscicorne,,,CG,BU
+Tribelos jucundus,,,CG,
+Tribelos atrum,,,CG,
+Xenochironomus,7,KY (SC) TV,PR,BU
+Xenochironomus xenolabis,,,PR,
+Zavreliella,4.7,NRSA & WSA TV,CG,BU
+Pseudochironomini,,,CG,BU
+Pseudochironomus,5,PA TV,CG,BU
+Pseudochironomus fulviventris,,,,"BU,CN"
+Tanytarsini,6,PA TV,CF,"BU,CN"
+Cladotanytarsus,7,MD & PA TV,CG,CB
+Cladotanytarsus mancus,,,,
+Constempellina,4,PA TV,CG,CB
+Micropsectra,7,MD & PA TV,CG,CB
+Micropsectra/Tanytarsus,6.5,Micropsectra & Tanytarsus,CG,CB
+Neostempellina,2,Stempellina TV,CG,CB
+Neozavrelia,6,Other Tanytarsini TV,CG,
+Parapsectra,6,Other Tanytarsini TV,CG,
+Paratanytarsus,6,MD & PA TV,CG,CN
+Paratanytarsus inopertus,,,CG,
+Paratanytarsus tenuis,,,,
+Rheotanytarsus,6,MD & PA TV,CF,CN
+Rheotanytarsus exiguus,,,CF,CN
+Rheotanytarsus pellucidus,,,CG,
+Stempellina,2,PA TV,CG,CB
+Stempellinella,4,MD & PA TV,CG,CB
+Stempellinella/Zavrelia,4,Stempellinella & Zavrelia,CG,"CB,SW"
+Sublettea,6,PA TV,CF,
+Sublettea coffmani,,,,
+Tanytarsus,6,MD & PA TV,CF,CB
+Tanytarsus glabrescens,,,"CF,CG",CB
+Zavrelia,4,MD & PA TV,CG,SW
+Brachycera,,,,
+Orthorrhapha,,,,
+Tabanomorpha,,,,
+Tabanidae,6,Original WAB Value-Organism Table,PR,SP
+Chrysops,7,MD & PA TV,PR,SP
+Chlorotabanus,6,Tabanidae TV,PR,"SP,BU"
+Diachlorus,,PA TV,,
+Hybomitra,6,PA TV,PR,"SP,BU"
+Tabanus,6,WV TV (JB Adjusted),PR,SP
+Athericidae,2,Original WAB Value-Organism Table,PR,SP
+Atherix,2,MD & PA TV,PR,SP
+Atherix lantha,,,PR,
+Stratiomyidae,7,Original WAB Value-Organism Table,CG,"SP,SW"
+Nemotelus,7,Stratiomyidae TV,CG,SP
+Caloparyphus,7,DE TV,CG,SP
+Euparyphus,7,Stratiomyidae TV,CG,SP
+Myxosargus,10,KY (SC) TV,CG,
+Odontomyia,7,DE & EDAS TV,CG,SP
+Stratiomys,5,PA TV,CG,SP
+Cyclorrhapha,,,,
+Muscomorpha,,,,
+Empididae,6,Original WAB Value-Organism Table,PR,SP
+Rhamphomyia,6,PA TV,PR,SP
+Clinocera,6,PA TV,PR,CN
+Dolichocephala,5,PA TV,PR,CN
+Roederiodes,,,PR,CN
+Trichoclinocera,6,Empididae TV,PR,CN
+Wiedemannia,6,PA TV,PR,"CN,SP"
+Chelifera,6,PA TV,PR,SP
+Chelifera/Metachela,6,Empididae TV,PR,"SP,BU"
+Hemerodromia,6,MD & PA TV,PR,SP
+Hemerodromia/Chelifera,6,Empididae TV,PR,SP
+Metachela,,Empididae TV,PR,"SP,BU"
+Neoplasta,6,Empididae TV,PR,SP
+Oreogeton,6,PA TV,PR,SP
+Dolichopodidae,4,Original WAB Value-Organism Table,PR,SP
+Platypezidae,,,,
+Platypeza,,,,
+Phoridae,,PA TV,CG,BU
+Syrphidae,10,Original WAB Value-Organism Table,CG,BU
+Eristalis,,DE & EDAS TV,CG,BU
+Sciomyzidae,10,Original WAB Value-Organism Table,PR,BU
+Tetanocera,,PA TV,"PR,PA",BU
+Ephydridae,7,Original WAB Value-Organism Table,CG,BU
+Ephydrini,,,SH,SP
+Cirrula,7,Ephydridae TV,SH,BU
+Lytogaster,,,,
+Canaceidae,7,Original WAB Value-Organism Table,SC,BU
+Scatophagidae,,,,
+Muscidae,8,Original WAB Value-Organism Table,PR,BU
+Limnophora,6,PA TV,PR,BU
+Limnophora aequifrons,,,,
+Lispoides,6,Limnophora PA TV,PR,BU
+Lispoides aequifrons,,,,SP
+Sarcophagidae,,,CG,BU
+Blaesoxipha,,,CG,BU

@@ -1,0 +1,640 @@
+Parent TSN,TSN,PHYLUM,CLASS,ORDER,FAMILY1,FAMILY,FINAL_ID,EDAS_TV_FINAL,LIMESTONE_IBI_TV,LIMESTONE_IBI_TV_SOURCE,WAB_TV,TV_Checked,WAB_TV_Source,RBP_TV,MACS_TV,PA_TV,MD_TV,NC_TV,DE_TV,WV_TV,ITIS_TV,VA_TV_MAIS,EDAS_TV,EDAS_FAM_TV,KY_TV,KY_Source,FFG_EDAS_FINAL,EDAS_TROPHIC_GROUP,KY_FFG,EDAS_FFG,ITIS_FFG,MAIS_DICTIONARY_FFG,WV_FFG,WV_FFG_SOURCE,FFG_Source,KY_HABIT,EDAS_HABIT,WV_HABIT,WV_Habitat_Source,HABIT_EDAS_FINAL,HABIT_SOURCE
+97306,97336,Arthropoda,Malacostraca,Decapoda ,Cambaridae,Cambaridae,Cambaridae,6,,,8,,RBP TV,8,,,,,,6,6,5,6,6,,,CG,SH,,SH,,,CG,WSA,EDAS,,,SP,WSA,,
+97336,97337,Arthropoda,Malacostraca,Decapoda ,Cambaridae,Cambaridae,Cambarus,6,6,PA TV,6,,PA TV,,,6,6,7.6,6,6,6,5,6,6,4.9,DP,,CG,CG,CG,,CG,CG,WSA,USEPA 1990 Draft,,,SP,WSA,,
+97336,97421,Arthropoda,Malacostraca,Decapoda ,Cambaridae,Cambaridae,Orconectes,8,,,6,,PA TV,,,6,6,2.6,6,8,6,5,8,8,5.49,DP,,SH,CG,SH,,CG,"CG,SH",WSA,EDAS,,,SP,WSA,,
+97336,97490,Arthropoda,Malacostraca,Decapoda ,Cambaridae,Cambaridae,Procambarus,6,,,6,,PA TV,,,6,,7,9.49,6,,,6,6,7.02,DP,,SH,CG,SH,,,CG,WSA,EDAS,,,,,,
+,,Arthropoda,Malacostraca,Decapoda ,Portunidae,Portunidae,Callinectes sapidus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96106,96213,Arthropoda,Malacostraca,Shrimp,Palaemonidae,Palaemonidae,Palaemonidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96213,96383,Arthropoda,Malacostraca,Shrimp,Palaemonidae,Palaemonidae,Palaemonetes,7,,,7,,EDAS TV,,,,7,,4,7,7,,7,7,7.1,SC,,CG,CG,,,,CG,WSA,KY,,,SP,WSA,,
+92650,92657,Arthropoda,Malacostraca,Isopoda,Asellidae,Asellidae,Asellidae,8,,,,,,,,,,,,8,,8,8,8,,,CG,,,,,CG,CG,WSA,,,,SP,WSA,,
+,,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,Crangonyctidae,Crangonyctidae,6,,,,,,,,,,,,6,,6,6,6,,,,,,,,CG,CG,WSA,,,,SP,WSA,,
+95080,95081,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,Crangonyctidae,Crangonyx,6,4,PA TV,4,,PA TV,4,4,4,4,7.9,4,6,4,6,6,6,8,SC,CG,CG,SH,CG,CG,CG,CG,WSA,EDAS,,,SP,WSA,,
+93295,93745,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammaridae,Gammaridae,4,,,,,,,,,,,,4,,6,4,4,,,CG,,,,CG,CG,CG,RBP2 1999,,,,,,,
+93745,93773,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammaridae,Gammarus,8,6,Botts' data,4,,PA TV,4,,4,6,9.1,6,8,6,6,8,8,8,NC,OM,OM,CG,OM,OM,CG,"CG,SH",WSA,EDAS,,,SP,WSA,,
+93295,95032,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitridae,Talitridae,,,,,,,,,,,,,,,8,,,,,CG,,,,CG,CG,,,,,,,,,
+94022,94025,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitridae,Hyalella,6,,,8,,PA TV,8,,8,6,,,6,6,8,6,6,,,CG,CG,,CG,CG,CG,"CG,SH",WSA,EDAS,,,SP,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chrysomelidae,Chrysomelidae,8,,,,,,,,,,,,8,,,,,,,SH,,,,SH,,SH,WSA,,,,CN,WSA,,
+114509,114613,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Chrysomelidae,Agasicles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CN,,,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Curculionidae,Curculionidae,Curculionidae,6,,,,,,,,,,,,6,,5,6,6,,,SH,,,,SH,SH,SH,WSA,,,,CN,WSA,,
+114666,114779,Arthropoda,Insecta,Coleoptera,Curculionidae,Curculionidae,Bagous,,,,,,,,,,,,,,,,,,,,SH,,,,SH,,,,,,,,,,
+114666,114676,Arthropoda,Insecta,Coleoptera,Curculionidae,Curculionidae,Phytobius,,,,,,,,,,,,,,,,,,,,SH,,,,SH,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Curculionidae,Curculionidae,Tanysphyrus,,,,5,,Curculionidae TV,,,,,,,,,,,,,,,SH,,,,,,,M&C 1996,,,,,CN,WAB
+206639,206640,Arthropoda,Insecta,Coleoptera,Curculionidae,Curculionidae,Tyloderma capitale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dryopidae,Dryopidae,Dryopidae,,,,,,,,,,,,,,,5,,,,,,,,,,SC,,,,,,,,,
+,,Porifera,Demospongiae,Haplosclerida,Spongillidae,Spongillidae,Spongilla ,,,,2,,Original WAB Value-Organism Table,,,,,,,,,,,,,,CF,CF,,CF,,,,,EDAS,,,,,,
+76437,76568,Mollusca,Gastropoda,Basommatophora,Ancylidae,Ancylidae,Ancylidae,6,,,,,,,,,,,,6,,7,6,6,,,SC,,,,SC,SC,SC,WSA,,,,CB,WSA,,
+76437,76483,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,Lymnaeidae,Lymnaeidae,6,,,,,,,,,,,,6,6,9,6,6,,,SC,,,,SC,CG,SC,WSA,,,,CB,WSA,,
+76437,76676,Mollusca,Gastropoda,Basommatophora,Physidae,Physidae,Physidae,8,,,,,,,,,,,,8,8,8,8,8,,,SC,,,,SC,CG,SC,WSA,,,,CB,WSA,,
+76437,76591,Mollusca,Gastropoda,Basommatophora,Planorbidae,Planorbidae,Planorbidae,7,,,,,,,,,,,,7,7,7,7,7,,,SC,,,,SC,CG,SC,WSA,,,,CB,WSA,,
+70298,70493,Mollusca,Gastropoda,Basommatophora,Hydrobiidae,Hydrobiidae,Hydrobiidae,5,,,,,,,,,,,,5,8,3,5,5,,,SC,,,,,CG,SC,WSA,,,,CB,WSA,,
+,,Mollusca,Gastropoda,Basommatophora,Pleuroceridae,Pleuroceridae,Pleuroceridae,5,,,,,,,,,,,,5,,2,5,5,,,,,,,,SC,SC,WSA,,,,,,,
+331584,70304,Mollusca,Gastropoda,Basommatophora,Viviparidae,Viviparidae,Viviparidae,,,,,,,,,,,,,,,6,,,,,SC,,,,,CG,,,,,,,,,
+,,Arthropoda,Arachnida,Trombidiformes,Hydracarina,Hydracarina (unknown),Hydracarina,6,,,,,,,,,,5.5,,6,,6,6,6,,,,,,,PR,PR,PR,WSA,,,,CB,WSA,,
+81381,81385,Mollusca,Pelecypoda,Unionida,Corbiculidae,Corbiculidae,Corbicula,6,4,PA TV,4,,PA TV,,,4,6,,,6,6,6,6,6,,,CF,CF,,CF,,CF,CF,WSA,EDAS,,,BU,WSA,,
+      .,81389,Mollusca,Pelecypoda,Unionida,Sphaeriidae ,Sphaeriidae ,Sphaeriidae ,,,,,,,,,,,,,,8,8,,,,,CF,,,,,,,,,,,,,,
+80384,81388,Mollusca,Pelecypoda,Unionida,Pisidiidae,Sphaeriidae,Pisidiidae,8,,,,,,,,,,,,8,,,8,8,,,CG,,,,,CF,CF,RBP2 1999,,,,,,,
+81388,81427,Mollusca,Pelecypoda,Unionida,Pisidiidae,Sphaeriidae,Musculium,5,,,5,,PA TV,5,5,5,,7.5,5,5,5,,5,5,7.7,NC,CF,CF,CF,CF,,CF,CF,WSA,EDAS,,,,,,
+81388,81400,Mollusca,Pelecypoda,Unionida,Pisidiidae,Sphaeriidae,Pisidium,8,,,8,,PA TV,8,8,8,8,6.5,8,8,8,,8,8,6.48,NC,CF,CF,CF,CF,,CF,CF,WSA,EDAS,,,BU,WSA,,
+81388,81391,Mollusca,Pelecypoda,Unionida,Pisidiidae,Sphaeriidae,Sphaerium,8,,,8,,PA TV,8,,8,8,7.6,8,8,8,,8,8,7.58,NC,CG,CF,CF,CG,,CF,"CF,CG",WSA,KY,,,BU,WSA,,
+79912,79913,Mollusca,Pelecypoda,Unionida,Unionidae,Unionidae,Unionidae,7,,,,,,,,,,,,7,,4,,,,,CF,,,,,CF,CF,WSA,,,,BU,WSA,,
+,,Annelida,Oligochaeta,Oligochaeta,Oligochaeta,Oligochaeta (unknown),Oligochaeta,6,,,,,,,,,,,,6,10,8,6,6,,,CG,,,,,CG,CG,WSA,,,,BU,WSA,,
+68439,68440,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,Lumbriculidae,Lumbriculidae,8,,,,,,,,,,,,8,10,8,8,8,,,CG,,,,,CG,CG,WSA,,,,BU,WSA,,
+,,Annelida,Oligochaeta,Tubificida,Enchytraeidae,Enchytraeidae,Enchytraeidae,9,,,,,,,,,,,,9,10,8,9,9,,,CG,,,,,CG,CG,WSA,,,,BU,WSA,,
+68509,68854,Annelida,Oligochaeta,Tubificida,Naididae,Naididae,Naididae,9,,,,,,,,,,,,9,,8,9,9,,,CG,,,,,CG,CG,WSA,,,,BU,WSA,,
+68509,68585,Annelida,Oligochaeta,Tubificida,Tubificidae,Tubificidae,Tubificidae,9,,,,,,,,,,,,9,,,9,9,,,CG,,,,,CG,CG,WSA,,,,CN,WSA,,
+,,Annelida,Clitella,Haplotaxida,Haplotaxidae,Haplotaxidae,Haplotaxidae,,,,,,,,,,,,,,,8,,,,,,,,,,CG,CG,WSA,,,,,,,
+,,Annelida,Hirudinea,Leeches,Hirudinea,Hirudinea (unknown),Hirudinea,8,,,,,,,,,,,,8,,,8,8,,,PR,,,,,,PR,WSA,,,,SP,WSA,,
+69437,69438,Annelida,Hirudinea,Leeches,Erpobdellidae,Erpobdellidae,Erpobdellidae,8,,,,,,,,,,,,8,10,,8,8,,,PR,,,,,,PR,WSA,,,,SP,WSA,,
+69295,69357,Annelida,Hirudinea,Leeches,Glossiphoniidae,Glossiphoniidae,Glossiphoniidae,7,,,,,,,,,,,,7,,,7,7,,,PR,,,,,PR,PR,WSA,,,,SP,WSA,,
+,,Annelida,Hirudinea,Leeches,Hirudinidae,Hirudinidae,Hirudinidae,8,,,,,,,,,,,,8,,8,,,,,PR,,,,,PR,PR,WSA,,,,SP,WSA,,
+,,Annelida,Hirudinea,Leeches,Pisciolidae,Piscicolidae,Piscicolidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69168,69169,Annelida,Oligochaeta,Branchiobdellida,Branchiobdellidae,Branchiobdellidae,Branchiobdellidae,7,,,6,,PA TV,,,6,,,,7,,5,7,7,,,CG,CG,,,CG,CG,CG,WSA,WAB,,,CB,WSA,,
+,,Platyhelminthes,Turbellaria,Tricladida,Tricladida,Tricladida (unknown),Tricladida,5,4,,4,,RBP TV,4,,,,,,5,,,,,,,CG,CG,,CG,,,CG,WSA,EDAS,,,SP,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Dryopidae,Dryopidae,Helichus,4,5,PA TV,5,,PA TV,5,5,5,5,4.6,5,4,,5,4,4,4.6,NC,,SC,SC,SC,,SC,"CG,PR,SC",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Dytiscidae,5,,,,,,,,,,,,5,5,6,5,5,,,PR,,,,PR,PR,PR,WSA,,,,"CB,SW",WSA,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Acilius,,,,5,,PA TV,,,5,,,,,,,,,9,,,PC,PR,,,,PR,WSA,M&C 1996 & KY,,,SW,WSA,SW,M&C 1996
+112072,112073,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Agabetes acuductus,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+111963,111966,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Agabus,6,5,PA TV,5,,PA TV,7,5,5,5,8.9,5,6,5,8,,,8.9,SC,PR,PC,PR,PR,PR,PR,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+111963,112319,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Bidessonotus,5,,,,,,,,,,,,5,,,5,5,,,,,,,,,PR,WSA,,,,SW,WSA,,
+111963,112322,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Bidessus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111963,112362,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Brachyvatus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111963,112136,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Celina,5,,,5,,EDAS TV,5,5,,,8,5,5,5,,5,5,9,SM,PR,PC,PR,PR,PR,,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Colymbetes,,,,,,,,,,,,5,,,,,,,,,PC,PR,,,,,,KY & M&C 1996,SW,,,,SW,KY
+111963,112561,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Copelatus,5,,,5,,EDAS TV,5,5,,,10,5,5,5,,5,5,9.1,NC,PR,PC,PC,PR,PR,,PR,WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+111963,112371,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Coptotomus,9,,,,,,,,,,9.3,,9,,,9,9,,,PR,,,,PR,,PR,WSA,,,,SW,WSA,,
+111963,112364,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Cybister,,,,5,,EDAS TV,,,,5,,,,5,,,,9.1,SC,PR,PC,PR,PR,PR,,,,M&C 1996 & KY,,SW,,,SW,EDAS
+111963,112153,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Deronectes,5,,,5,,EDAS TV,5,,,5,4,5,5,5,,5,5,,,PR,,,,PR,,PR,WSA,,,SW,SW,WSA,SW,EDAS
+111963,112145,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Desmopachria,4,,,,,,,,,,,,4,,,4,4,,,PR,,,,PR,,PR,WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Dytiscus,5,5,PA TV,5,,PA TV,,,5,,,,5,,,5,5,9.1,SC,,PR,PR,,,,PR,WSA,KY,,,SW,WSA,SW,M&C 1996
+111963,112159,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Graphoderus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Heterosternuta,,,,5,,Dytiscidae TV,,,,,,,,,,,,,,,PC,PR,,,,,,M&C 2008 & KY,,,,,SW,M&C 2008
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hoperius planatus,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,
+111963,112172,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hydaticus,5,5,DE TV,5,,DE TV,5,,,,,5,5,,,5,5,9.1,SC,PR,PC,PR,PR,PR,,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hydrocolus,,,,,,,,,,,,,,,,,,8.9,SE,,PC,PR,,,,,,KY & M&C 1996,,,,,SW,Hydroporus Habit
+111963,112390,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hydroporus,5,,,5,,PA TV,5,5,5,5,,5,5,5,6,5,5,8.62,NC,PR,PC,PR,PR,PR,PR,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+111963,112257,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hydrovatus,,,,5,,Dytiscidae TV,,,,,,,,,8,,,10,SC,PR,PC,PR,PR,PR,PR,,,M&C 1996 & KY,,,,,SW,WAB
+111963,112200,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Hygrotus,4,,,,,,,,,,,,4,,,4,4,,,PR,,,,PR,,PR,WSA,,,,SW,WSA,,
+111963,112181,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Ilybius,5,,,5,,EDAS TV,5,,,,,5,5,,,5,5,9,,PR,PC,PR,PR,PR,,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+111963,112268,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Laccodytes,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+111963,112278,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Laccophilus,10,,,5,,PA TV,5,5,5,,,5,10,5,6,10,10,10,NC,PR,PR,PR,PR,PR,PR,PR,WSA,KY,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Laccornis difformis,,,,,,,,,,,,,,,6,,,,,,,,,,PR,,,,,,,,,
+111963,112580,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Liodessus,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,PR,WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Lioporeus,5,,,9,,MV via KY TV,,,,,3,,5,,,5,5,9,MV,,PR,PR,,,,PR,WSA,KY,,,SW,WSA,SW,M&C 1996
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Matus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Nebrioporus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Neoporus,5,,,8.9,,SC via KY TV,,,,,8.6,,5,,,5,5,8.9,SC,,PR,PR,,,,PR,WSA,KY,,SW,SW,WSA,SW,EDAS
+111963,112314,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Oreodytes,,,,5,,DE TV,5,,,,,5,,,,,,,,PR,PC,,PR,PR,,SH,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+111963,112086,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Rhantus,5,,,5,,PA TV,,,5,,3.6,,5,,,5,5,3.61,NC,,PC,PR,PC,,,PR,WSA,M&C 1996 & KY,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Sanfilippodytes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Stictotarsus,,,,,,,5,,,5,,4,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Thermonectus basillaris,5,,,,,,,,,,,5,5,,,5,5,,,PR,,,,,,PR,WSA,,,,SW,WSA,,
+111963,112575,Arthropoda,Insecta,Coleoptera,Dytiscidae,Dytiscidae,Uvarus,5,,,,,,,,,,,,5,5,,5,5,,,,,,,,,"PR,SH",WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Elmidae,4,,,,,,,,,,,,4,5,4,4,4,,,CG,,,,,SC,CG,WSA,,,,CN,WSA,,
+114193,114194,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Ancyronyx variegatus,,,,,,,2,2,,,6.5,,,,6,,,6.49,NC,OM,SC,SC,OM,OM,SC,CG,WSA,KY,CN,CN,CN,WSA,CN,RBP2 1999
+114093,114126,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Dubiraphia,4,,,6,,PA TV,5,6,6,6,5.9,6,4,6,5,4,4,,,CG,CG,,CG,CG,SC,"CG,SC",WSA,EDAS,,CN,CN,WSA,CN,EDAS
+114093,114216,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Gonielmis,0,5,PA TV,5,,PA TV,5,,5,,,,0,,5,0,0,,,CG,SC,SC,CG,CG,SC,CG,WSA,KY (GP),,CN,CN,WSA,CN,EDAS
+114093,114212,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Macronychus glabratus,5,,,2,,PA TV,,,2,4,,,5,4,5,4,4,4.58,NC,OM,CG,CG,OM,OM,SC,CG,WSA,KY & M&C 1996,,CN,CN,WSA,CN,EDAS
+114093,114146,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Microcylloepus,3,6,PA TV,2,,PA TV,4,,2,,,2,3,,3,3,3,2.11,NC,CG,SC,SC,CG,CG,SC,CG,WSA,KY,CN,CN,CN,WSA,CN,EDAS
+114093,114177,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Optioservus,4,4,PA TV,4,,PA TV,4,4,4,4,2.4,4,4,4,5,4,4,2.36,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+114093,114244,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Oulimnius,4,5,PA TV,5,,PA TV,,,5,2,1.8,,4,2,2,4,4,,,,SC,,SC,,SC,SC,WSA,RBP2 1999,,CN,CN,WSA,CN,EDAS
+114093,114229,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Promoresia,2,2,PA TV,2,,PA TV,2,2,2,2,2.4,2,2,2,2,2,2,,,SC,SC,,SC,SC,SC,SC,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+114093,114095,Arthropoda,Insecta,Coleoptera,Elmidae,Elmidae,Stenelmis,1,5,PA TV,5,,PA TV,6,5,5,6,5.1,5,1,6,5,1,1,5.1,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinidae,Gyrinidae,5,,,,,,,,,,,,5,,6,5,5,,,PR,,,,PR,PR,PR,WSA,,,,SW,WSA,,
+112653,112711,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinidae,Dineutus,5,,,4,,PA TV,5,4,4,4,5.5,4,5,4,6,5,5,5.54,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+112653,112654,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinidae,Gyrinus,5,,,4,,PA TV,5,4,4,4,6.2,4,5,4,6,5,5,6.17,NC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinidae,Gyretes,5,,,,,,,,,,,,5,,,5,5,,,,,,,,,PR,WSA,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Haliplidae,Haliplidae,Haliplidae,7,,,,,,,,,,,,7,,8,7,7,,,PH,,,,,PH,PH,WSA,,,,CN,WSA,,
+111857,111858,Arthropoda,Insecta,Coleoptera,Haliplidae,Haliplidae,Haliplus,6,,,5,,PA TV,,,5,5,8.7,5,6,5,,6,6,8.71,NC,,PH,PH,SH,,PH,"PH,SH",WSA,KY & M&C 1996,,CB,CB,WSA,CB,EDAS
+111857,111923,Arthropoda,Insecta,Coleoptera,Haliplidae,Haliplidae,Peltodytes,5,,,5,,PA TV,5,5,5,5,8.7,5,5,5,8,5,5,8.73,NC,SH,PH,PH,SH,,PH,"PH,SH",WSA,KY & M&C 1996,,CB,"CB,CN",WSA,CB,EDAS
+,,Arthropoda,Insecta,Coleoptera,Hydraenidae,Hydraenidae,Hydraenidae,5,,,,,,,,,,,,5,,5,5,5,,,PR,,,,PR,,PR,WSA,,,,CN,WSA,,
+112756,112757,Arthropoda,Insecta,Coleoptera,Hydraenidae,Hydraenidae,Hydraena,5,,,5,,RBP TV,5,,,,,,5,,5,5,5,5,EPA RBP,PR,PR,PR,,PR,,PR,WSA,RBP2 1999,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Hydraenidae,Hydraenidae,Limnebius,,,,6,,PA TV,,,6,,,,,,,,,,,,,,,,,,,,,,,,,
+112756,112777,Arthropoda,Insecta,Coleoptera,Hydraenidae,Hydraenidae,Ochthebius,4,,,6,,Hydraenidae TV,,,,,,,4,,,4,4,,,,SC,,SC,,,SC,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Hydrophilidae,5,,,,,,,,,,,,5,,8,5,5,,,PR,,,,PR,PR,PR,WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Anacaena,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BU,WSA,,
+112811,112812,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Berosus,8,,,5,,PA TV,5,,5,5,8.4,5,8,5,8,8,8,8.43,NC,PR,PH,PH,PR,PR,PH,PH,WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+112811,112845,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Chaetarthria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112811,113220,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Crenitis,,,,5,,Hydrophilidae TV,,,,,,,,,,,,,,PR,PR,,,PR,,PR,RBP2 1999,WAB,,,bu,RBP2 1999,BU,M&C 1996
+112811,113017,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Cymbiodyta,5,,,5,,EDAS TV,,,,5,,5,5,5,,5,5,8.3,SC,,PR,PR,CG,,,CG,WSA,KY,,BU,"BU,SW",WSA,BU,EDAS
+113087,113088,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Derallus altus,,,,,,,,,,,,,,,,,,,,OM,,,,OM,,,,,,,,,,
+112811,112973,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Enochrus,6,,,5,,PA TV,,,5,5,8.8,8.75,6,5,9,6,6,8.75,NC,,PR,PR,CG,,CG,CG,WSA,KY,,BU,BU,WSA,BU,EDAS
+112811,113162,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Helobata,,,,5,,Hydrophilidae TV,,,,,,,,,,,,,,OM,CG,CG,OM,OM,,,,KY,,,,,SW,WAB
+112811,113150,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Helochares,4,,,5,,PA TV,,,5,,,5,4,,,4,4,8.3,SC,OM,PR,PR,OM,OM,,CG,WSA,KY,,,,,SW,WAB
+,,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Helocombus bifidus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112811,113106,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Helophorus,7,,,5,,PA TV,,,5,,,,7,,,,,7.57,NC,SH,SH,SH,SH,,,SH,WSA,EDAS,,SW,SW,WSA,SW,RBP2 1999
+112811,113196,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Hydrobius,4,,,5,,PA TV,8,,5,5,,,4,5,8,4,4,8.3,,PR,PH,PH,PR,PR,SH,"CG,PR",WSA,KY,,CB,"CB,CN",WSA,CB,EDAS
+,,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Hydrochara,,,,8.3,,SC via KY TV,,,,,,,,,,,,8.3,SC,,PR,PR,,,,,,KY,,,,,SW,WAB
+112811,113166,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Hydrochus,6,,,,,,,,,,6.6,,6,,,,,,,SH,,,,SH,,SH,WSA,,,,"CB,SW",WSA,,
+112811,113204,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Hydrophilus,,,,5,,EDAS TV,,,,5,,,,5,7,,,,,,PR,PR,CG,,,,,KY,,SW,,,SW,EDAS
+112811,112858,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Laccobius,7,,,5,,EDAS TV,,,,,7.3,,7,,7,7,7,7.32,NC,PR,PR,PR,PR,PR,PH,PH,WSA,EDAS,,,,,SW,WAB
+112811,112909,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Paracymus,2,,,5,,PA TV,5,,5,,,,2,,8,2,2,8,MV,PR,PR,PR,PR,PR,CG,PR,WSA,EDAS,,CN,CN,WSA,CN,RBP2 1999
+112931,112932,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Sperchopsis tessellata,5,,,5,,EDAS TV,5,,,5,6.1,5,5,5,,6,6,6.5,NC,OM,PR,,PR,OM,,CG,WSA,,CN,CN,"CB,CN",WSA,CN,EDAS
+112811,112938,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Hydrophilidae,Tropisternus,6,,,5,,PA TV,8,10,5,10,9.7,10,6,10,7,6,6,9.68,NC,PR,CG,CG,PR,PR,PR,"CG,PR",WSA,KY,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Coleoptera,Limnichidae/Lutrochidae,Lutrochidae,Lutrochus,4,,,,,,,,,,,,4,,5,4,4,,,,,,,,CG,SC,USEPA 1990 Draft,,,,SP,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Noteridae,Noteridae,Noteridae,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+112606,112623,Arthropoda,Insecta,Coleoptera,Noteridae,Noteridae,Hydrocanthus,7,,,,,,,,,,7.1,,7,,,7,7,,,,,,,,,PR,WSA,,,,CB,WSA,,
+112636,193587,Arthropoda,Insecta,Coleoptera,Noteridae,Noteridae,Suphis inflatus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+112606,112607,Arthropoda,Insecta,Coleoptera,Noteridae,Noteridae,Suphisellus,,,,,,,,,,,,,,,,,,,,OM,,,,OM,,PR,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Psephenidae,Psephenidae,Psephenidae,4,,,,,,,,,,,,4,,4,4,4,,,SC,,,,SC,SC,SC,WSA,,,,CN,WSA,,
+,,Arthropoda,Insecta,Coleoptera,Psephenidae,Psephenidae,Dicranopselaphus,,,,4,,Psephenidae TV,,,,,,,,,,,,,,,SC,,,SC,,,,M&C 1996,,,,,CN,M&C 1996
+114069,114087,Arthropoda,Insecta,Coleoptera,Psephenidae,Psephenidae,Ectopria,4,5,PA TV,5,,PA TV,5,5,5,5,,5,4,5,4,4,4,,,SC,SC,,SC,SC,SC,SC,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+114069,114085,Arthropoda,Insecta,Coleoptera,Psephenidae,Psephenidae,Eubrianax,,,,,,,,,,,,,,,,,,,,SC,,,,SC,,,,,,,,,,
+114069,114070,Arthropoda,Insecta,Coleoptera,Psephenidae,Psephenidae,Psephenus,4,4,PA TV,4,,PA TV,4,,4,4,,,4,4,4,4,4,,,SC,SC,,SC,SC,SC,SC,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Coleoptera,Helodidae,Helodidae,Helodidae,4,,,,,,,,,,,,4,4,,4,4,,,,,,,,,SC,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Hemiptera,Belostomatidae,Belostomatidae,Belostomatidae,5,,,,,,,,,,,,5,,9,5,5,,,PR,,,,,,PR,WSA,,,,CB,WSA,,
+103717,103739,Arthropoda,Insecta,Hemiptera,Belostomatidae,Belostomatidae,Abedus,,,,,,,,,,,,,,,,,,,,PR,,,,,,"CF,CG,PR",WSA,,,,CB,WSA,,
+103683,103684,Arthropoda,Insecta,Hemiptera,Belostomatidae,Belostomatidae,Belostoma,10,,,10,,EDAS TV,,,,10,9.8,9.8,10,10,9,10,10,9.8,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Hemiptera,Belostomatidae,Belostomatidae,Benacus griseus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103683,103699,Arthropoda,Insecta,Hemiptera,Belostomatidae,Belostomatidae,Lethocerus,,,,,,,,,,,,,,,,,,,,PR,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Corixidae,8,,,,,,,,,,9,,8,5,9,8,8,,,PR,,,,,PH,PR,WSA,,,,SW,WSA,,
+103364,103501,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Cenocorixa,,,,,,,,,,,,5,,,,,,,,PR,PR,,PR,,,,,EDAS,,SW,,,SW,EDAS
+103364,103547,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Graptocorixa,,,,5,,PA TV,,,5,,,,,,,,,,,PR,PR,,PR,,,,,EDAS,,SW,,,SW,EDAS
+103364,103444,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Hesperocorixa,5,,,5,,PA TV,,,5,,,5,5,,9,5,5,9,NC,,PH,PH,PH,,,PH,WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+103364,103491,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Palmacorixa,6,,,5,,EDAS TV,5,,,,,5,6,,9,6,6,9,NC,PR,PH,PH,PR,,,PR,WSA,KY,,SW,SW,WSA,SW,EDAS
+103364,103365,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Ramphocorixa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103364,103369,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Sigara,9,,,8,,PA TV,9,,8,,9.1,9.06,9,9,9,9,9,9.06,NC,PR,PH,PH,PR,,PH,PH,WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+103364,103423,Arthropoda,Insecta,Hemiptera,Corixidae,Corixidae,Trichocorixa,8,,,8,,PA TV,5,,8,5,,5,8,5,9,8,8,9,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Hemiptera,Naucoridae,Naucoridae,Naucoridae,5,,,,,,,,,,,,5,,,5,5,,,PR,,,,,,PR,WSA,,,,CB,WSA,,
+103613,103665,Arthropoda,Insecta,Hemiptera,Naucoridae,Naucoridae,Pelocoris,7,,,7,,EDAS TV,7,7,,,7,7,7,7,,7,7,,,PR,PR,,PR,,,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Hemiptera,Nepidae,Nepidae,Nepidae,,,,,,,,,,,,,,,7,,,,,PR,,,,,PR,,,,,,,,,
+,,Arthropoda,Insecta,Hemiptera,Nepidae,Nepidae,Nepa apiculata,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103747,103748,Arthropoda,Insecta,Hemiptera,Nepidae,Nepidae,Ranatra,,,,8,,PA TV,,,8,,7.8,,,,7,,,7.82,NC,PR,PR,PR,PR,,,,,EDAS,,CB,,,CB,EDAS
+,,Arthropoda,Insecta,Hemiptera,Notonectidae,Notonectidae,Notonectidae,,,,,,,,,,,,,,,9,,,,,PR,,,,,PR,,,,,,,,,
+,,Arthropoda,Insecta,Hemiptera,Notonectidae,Notonectidae,Buenoa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103557,103558,Arthropoda,Insecta,Hemiptera,Notonectidae,Notonectidae,Notonecta,10,,,10,,EDAS TV,,,,10,8.7,5,10,10,9,,,8.71,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,,SW,"CB,SW",WSA,SW,EDAS
+,,Arthropoda,Insecta,Megaloptera,Corydalidae,Corydalidae,Corydalidae,2,,,,,,,,,,,,2,,5,2,2,,,PR,,,,,PR,PR,WSA,,,,CN,WSA,,
+115023,115033,Arthropoda,Insecta,Megaloptera,Corydalidae,Corydalidae,Corydalus,5,,,4,,PA TV,,,4,5,,,5,5,5,5,5,,,PR,PR,,PR,,PR,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115023,115024,Arthropoda,Insecta,Megaloptera,Corydalidae,Corydalidae,Chauliodes,6,,,4,,PA TV,,,4,4,,,6,4,9,6,6,,,PR,PR,,PR,,PR,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115023,115048,Arthropoda,Insecta,Megaloptera,Corydalidae,Corydalidae,Neohermes,,,,2,,PA TV,,,2,,,,,,5,,,,,,PR,,,,PR,,,M&C 1996,,CN,,,CN,M&C 1996
+115023,115028,Arthropoda,Insecta,Megaloptera,Corydalidae,Corydalidae,Nigronia,2,2,PA TV,2,,PA TV,,,2,0,,2,2,0,4,2,2,5.3,SC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Megaloptera,Sialidae,Sialidae,Sialidae,4,,,,,,,,,,,,4,4,7,4,4,,,,,,,,PR,PR,WSA,,,,"BU,CB",WSA,,
+115001,115002,Arthropoda,Insecta,Megaloptera,Sialidae,Sialidae,Sialis,6,4,Botts' data,6,,PA TV,4,4,6,4,7.2,4,6,4,7,6,6,7.17,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,BU,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Neuroptera,Sisyridae,Sisyridae,Sisyridae,1,,,,,,,,,,,,1,,3,1,1,,,PR,PR,,,,PR,,,,,,,,,
+100951,100996,Arthropoda,Insecta,Ephemeroptera,Ameletidae,Ameletidae,Ameletus,1,,,3,OK,"TMDL TV Data & Pond, 2002",0,,0,0,,0,1,0,1,1,1,2.38,SC,CG,SC,SC,CG,CG,SC,"CG,SC,SH",WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Baetidae,4,,,,,,,,,,,,4,4,5,4,4,,,CG,,,,,CG,CG,WSA,,,,,,,
+      .,100801,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Acentrella,4,4,PA TV,4.5,OK,"TMDL TV Data & Pond, 2002",4,4,4,4,4,4,4,4,5,4,4,3.6,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Raptoheptagenia cruentata,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Acerpenna,4,6,PA TV,5,OK,"TMDL TV Data & Bode, et.al., 1996",4,4,6,4,3.9,4,4,4,5,4,4,5,MV,SH,CG,CG,SH,OM,CG,"CG,SC",WSA,KY & M&C 1996,,SW,SW,WSA,SW,EDAS
+100755,100800,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Baetis,2,6,PA TV,6,OK,"TMDL TV Data & Bode, et.al., 1996",6,6,6,6,,6,2,6,5,2,2,5.4,SC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SW,CN,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Barbaetis benfieldi,10,,,10,,EDAS TV,,,,10,,,10,10,,10,10,,,,CG,,CG,CG,,CG,WSA,EDAS,,SW,CN,WSA,SW,EDAS
+100755,100903,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Callibaetis,4,,,9,OK,PA TV,9,9,9,9,9.8,9,4,9,10,4,4,9.84,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SW,BU,WSA,SW,EDAS
+100755,100873,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Centroptilum,2,,,6,OK,"TMDL TV Data & Pond, 2002",2,2,2,2,6.6,2,2,,7,2,2,6.6,NC,CG,CG,CG,CG,CG,CG,CG,WSA,KY & M&C 1996,,,SW,WSA,"SW,CN",M&C 1996
+100755,100756,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Cloeon,,,,4,OK,"Bode, et.al., 1996",,,4,,6.6,,,,7,,,7.4,NC,OM,CG,CG,OM,OM,CG,OM,RBP2 1999,KY & RBP2 1999,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Diphetor hageni,4,6,PA TV,1.6,OK,"Pond, 2002",,,6,,1.6,,4,,,4,4,1.62,NC,CG,CG,CG,CG,CG,,CG,WSA,EDAS,,SW,CN,WSA,SW,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Fallceon,,,,,,,,,,,,,,,,,,,,,,,,,,SH,WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Iswaeon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Paracloeodes,6,,,,,,,,,,,,6,,,,,,,,,,,,,"SC,SH",WSA,,,,SW,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Plauditus,5,,,5,OK,"TMDL TV Data & Pond, 2002",,,,,,,5,,,5,5,5.4,SC,,CG,CG,,,,,,KY,,,SW,WSA,SW,WAB
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Procloeon,9,,,6,OK,"TMDL TV Data & Pond, 2002",,,6,4,5,4,9,4,,9,9,5,SC,OM,CG,CG,OM,OM,,CG,WSA,KY & RBP2 1999,,SW,SW,WSA,SW,EDAS
+100755,100771,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Pseudocloeon,4,,,5.5,OK,"TMDL TV Data & Bode, et.al., 1996",4,,4,,4,,4,,,4,4,4.02,NC,SC,CG,CG,SC,SC,,"SC,SH",WSA,KY & M&C 1996,,,SW,WSA,SW,WAB
+101493,101494,Arthropoda,Insecta,Ephemeroptera,Baetiscidae,Baetiscidae,Baetisca,4,,,4,,PA TV,4,4,4,4,3.4,4,4,4,3,4,4,2.1,SC,CG,SC,SC,CG,CG,CG,CG,WSA,KY & M&C 1996,,SP,SW,WSA,SP,EDAS
+101523,101524,Arthropoda,Insecta,Ephemeroptera,Behningiidae,Behningiidae,Dolania americana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenidae,Caenidae,7,,,,,,,,,,,,7,,6,7,7,,,CG,,,,,CG,CG,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenidae,Americaenis,,,,,,,,,,,1,,,,,,,,,,,,,,,SH,WSA,,,,SP,WSA,,
+101467,101468,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenidae,Brachycercus,7,,,3,,PA TV,,,3,,3,,7,,3,7,7,3.01,NC,CG,CG,CG,CG,CG,CG,"CG,SH",WSA,EDAS,,,SP,WSA,SP,M&C 1996
+101467,101478,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenidae,Caenis,3,7,PA TV,7,,PA TV,7,7,7,7,7.4,7,3,7,7,3,3,7.41,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenidae,Cercobrachys,,,,,,,,,,,1,,,,,,,,,,,,,,,CG,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Ephemerellidae,1,,,,,,,,,,,,1,,2,1,1,,,CG,,,,,CG,CG,WSA,,,,CN,WSA,,
+101232,101338,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Attenella ,1,2,PA TV,2,,PA TV,3,,2,,,2,1,,2,1,1,1.56,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,CN,,SP,WSA,CN,KY
+101360,101363,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Dannella,2,,,2,,,,,2,,3.6,,2,,,4,4,,,,CG,,,,,"SC,CG",USEPA 1990 Draft,EDAS,CN,,,,CN,M&C 1996
+101232,101365,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Drunella,1,0,Botts' data,1,,PA TV,0,,1,1,0.1,,1,1,0,1,1,0.7,SC,PR,SC,SC,PR,PR,SC,"PR,SC",WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+101232,101233,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Ephemerella,2,1,PA TV,1,,PA TV,1,,1,2,2,1,2,2,2,2,2,2.04,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+101232,101324,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Eurylophella,4,,,4,,PA TV,4,4,4,4,4.3,4,4,4,4,4,4,4.34,NC,SC,CG,CG,SC,SC,CG,"CG,PR,SC",WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Penelomax septentrionalis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101232,101395,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Serratella,0,2,PA TV,2,,PA TV,2,2,2,2,,2,0,2,2,0,0,2.7,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Teloganopsis deficiens ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101317,101318,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Timpanoga hecuba,2,,,2,OK,MD TV,,,,2,,,2,,,,,2,SC,CG,CG,CG,,CG,,"CG,PR",WSA,KY,CN,,"CN,SP",WSA,CN,KY
+,,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Ephemerellidae,Tsalia berneri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,Ephemeridae,Ephemeridae,5,,,,,,,,,,,,5,,4,5,5,,,CG,,,,CG,CG,CG,WSA,,,,BU,WSA,,
+101525,101526,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,Ephemeridae,Ephemera,4,,,2,,PA TV,4,,2,3,2,,4,3,4,4,4,1.1,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+101525,101537,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,Ephemeridae,Hexagenia,5,,,6,,PA TV,6,6,6,6,4.9,6,5,6,4,5,5,4.9,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Ephemeridae,Ephemeridae,Litobrancha recurvata ,,,,,,,,,,,0,,,,1,,,,,,,,,,CG,CG,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Palingeniidae,Palingeniidae,Pentagenia vittigera,,,,4,,PA TV,,,4,,,,,,4,,,5,SC,,CG,CG,,,CG,,,KY,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Heptageniidae,4,,,,,,,,,,,,4,,3,4,4,,,SC,,,,SC,SC,SC,WSA,,,,CN,WSA,,
+100504,100557,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Cinygmula,,,,1,,PA TV,4,,1,,,,,,1,,,,,SC,SC,,SC,SC,SC,"PR,SC",WSA,EDAS,,CN,CN,WSA,CN,EDAS
+100504,100626,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Epeorus,0,,,0,,PA TV,0,,0,0,1.3,,0,0,1,0,0,1.27,NC,SC,SC,SC,SC,SC,CG,"CG,PR,SC",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+100504,100602,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Heptagenia,3,4,PA TV,4,,PA TV,4,,4,4,2.6,,3,4,3,3,3,2.57,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+100504,100676,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Leucrocuta,4,1,PA TV,2.5,OK,"Pond, 2002 & NCDENR, 2003",,,1,1,2.4,,4,1,2,4,4,2.4,GP,,SC,SC,SC,,SC,SC,WSA,RBP2 1999,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Maccaffertium,,3,Stenonema TV,3,,Stenonema TV,,,,,,,,,,,,,,,SC,SC,SC,,,,,EDAS,CN,CN,,,CN,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Macdunnoa,,4,Heptageniidae TV,4,,Heptageniidae TV,,,,,,,,,,,,,,,SC,,,,,,,M&C 1996,,,,,CN,M&C 1996
+100504,100692,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Nixe,2,,,2,OK,PA TV,4,,2,2,0.1,,2,2,1,2,2,,,SC,SC,CG,SC,SC,SC,"PR,SC",WSA,EDAS & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+100504,100572,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Rhithrogena,5,,,0,,PA TV,0,,0,,0.3,,5,,1,5,5,,,SC,SC,,SC,SC,CG,"PR,SC",WSA,EDAS,,CN,CN,WSA,CN,EDAS
+100504,100713,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Stenacron,4,,,4,,PA TV,4,4,4,4,,4,4,4,4,4,4,4,SC,SC,CG,CG,SC,SC,CG,CG,WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+100504,100507,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Stenonema,3,3,PA TV,3,,PA TV,3,3,3,4,,3,3,4,4,3,3,4.1,SC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+101029,101041,Arthropoda,Insecta,Ephemeroptera,Isonychiidae,Isonychiidae,Isonychia,2,3,PA TV,5,,TMDL TV Data,2,2,3,2,3.5,2,2,2,3,2,2,3.45,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Leptophlebiidae,2,,,,,,,,,,,,2,,2,2,2,,,CG,,,,,CG,CG,WSA,,,,CN,WSA,,
+101183,101184,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Habrophlebia vibrans,1,,,4,,PA TV,,,4,,0,,1,,1,1,1,,,OM,OM,,OM,OM,CG,CG,WSA,,,SW,SW,WSA,SW,EDAS
+101095,101122,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Habrophlebiodes,0,,,6,,PA TV,,,6,,1,,0,,1,0,0,2.3,SC,,SC,SC,SC,,SC,"SC,SH",WSA,USEPA 1990 Draft,,SW,SW,WSA,SW,EDAS
+101095,101148,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Leptophlebia,5,,,4,,PA TV,2,,4,4,6.2,4,5,4,6,5,5,6.23,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+101095,101187,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Paraleptophlebia,1,1,PA TV,1,,PA TV,1,1,1,2,0.9,1,1,2,1,1,1,0.94,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Metretopodidae,Metretopodidae,Siphloplecton,2,,,,,,,,,,3.3,,2,2,,2,2,,,PR,,,,PR,,"CG,SH",WSA,,,,SW,WSA,,
+101460,101461,Arthropoda,Insecta,Ephemeroptera,Neoephemeridae,Neoephemeridae,Neoephemera,,,,3,,PA TV,,,3,,,,,,2,,,,,CG,CG,,CG,CG,CG,,,EDAS,,SP,,,SP,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Oligoneuridae,Oligoneuriidae,Homoeoneuria,,,,,,,,,,,,,,,,,,,,,,,,,,"CF,CG",WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Psuedironidae,Pseudironidae,Pseudiron centralis,,,,,,,,,,,,,,,,,,,,PR,,,,,,,,,,,,,SP,
+,,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,Polymitarcyidae,Polymitarcyidae,2,,,,,,,,,,,,2,,1,2,2,,,CG,,,,CG,CG,CG,WSA,,,,BU,WSA,,
+101569,101570,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,Polymitarcyidae,Ephoron,2,,,2,,PA TV,2,,2,,,,2,,1,2,2,,,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Polymitarcyidae,Polymitarcyidae,Tortopus,0,,,,,,,,,,,,0,,,0,0,,,,,,,,,CG,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Ephemeroptera,Potamanthidae,Potamanthidae,Anthopotamus,,,,4,,PA TV,,,4,,,,,,2,,,1.6,NC,,CG,CG,,,CG,CG,WSA,KY,,,BU,WSA,BU,M&C 1996
+,,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonuridae,Siphlonuridae,,,,,,,,,,,,,,,6,,,,,CG,,,,CG,CG,,,,,,,,,
+100951,100953,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonuridae,Siphlonurus,,,,7,OK,PA TV,7,,7,7,5.8,,,7,6,,,5.81,NC,CG,CG,CG,CG,CG,CG,,,EDAS,,SW,,,SW,EDAS
+,,Arthropoda,Insecta,Ephemeroptera,Leptohyphidae,Leptohyphidae,Leptohyphidae,,,,,,,,,,,,,,,,,,,,,,,,CG,,CG,WSA,,,,,,,
+101404,101405,Arthropoda,Insecta,Ephemeroptera,Leptohyphidae,Leptohyphidae,Tricorythodes,4,4,PA TV,4,,PA TV,5,4,4,,5.1,4,4,4,5,4,4,5.06,NC,CG,CG,CG,CG,CG,CG,"CG,SH",WSA,EDAS,,SP,SP,WSA,SP,EDAS
+101429,101432,Arthropoda,Insecta,Ephemeroptera,Leptohyphidae,Leptohyphidae,Astioplax dolani,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Capniidae,Capniidae,Capniidae,1,,,,,,,,,,,,1,1,1,1,1,,,SH,,,,SH,SH,SH,WSA,,,,SP,WSA,,
+102643,102644,Arthropoda,Insecta,Plecoptera,Capniidae,Capniidae,Allocapnia,1,2,Botts' data,3,,PA TV,3,3,3,3,2.5,3,1,3,1,1,1,2.52,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,CN,"SP,CN",WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Capniidae,Capniidae,Nemocapnia carolina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102788,102804,Arthropoda,Insecta,Plecoptera,Capniidae,Capniidae,Paracapnia,1,,,1,,PA TV,1,,1,1,,,1,1,1,1,1,0.12,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Chloroperlidae,1,,,,,,,,,,,,1,,1,1,1,,,PR,,,,PR,,PR,WSA,,,,CN,WSA,,
+103202,103203,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Alloperla,1,,,0,,PA TV,1,,0,,1.2,,1,,1,1,1,1.22,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+103202,103260,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Haploperla,1,,,0,,PA TV,,,0,,,,1,,1,1,1,,,,PR,PR,SC,,PR,PR,WSA,KY & M&C 1996,,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Rasvena terna,,,,,,,,,,,,,,,1,,,,,,,,,,PR,,,,,,,,,
+103202,103254,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Suwallia,,,,0,,PA TV,1,,0,,1.2,,,,1,,,,,PR,PR,,PR,PR,PR,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+103202,103273,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Sweltsa,,0,PA TV,0,,PA TV,1,,0,,0,,,,0,0,0,0,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperlidae,Utaperla,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctridae,Leuctridae,,,,,,,,,,,,,,,0,1,1,,,SH,,,,SH,SH,SH,WSA,,,,CN,WSA,,
+102840,102844,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctridae,Leuctra,0,2,Botts' data,0,,PA TV,1,0,0,0,2.5,0,0,0,0,0,0,0.67,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,SP,CN,SP,WSA,SP,KY
+,,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctridae,Megaleuctra ,,,,,,,,,,,,,,,0,,,,,SH,,,,SH,SH,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctridae,Paraleuctra,,,,,,,,,,,,,,,0,,,,,SH,,,,SH,SH,SH,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctridae,Zealeuctra,,,,0,,EDAS TV,,,,,,,,,,,,,,,SH,,SH,,,,,EDAS,,,,,SP,WAB
+,,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Nemouridae,2,,,,,,,,,,,,2,,3,2,2,,,SH,,,,SH,SH,SH,WSA,,,,CN,WSA,,
+102517,102540,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Amphinemura,2,3,PA TV,3,,PA TV,2,,3,3,3.3,,2,3,3,2,2,3.33,NC,SH,SH,SH,SH,SH,,SH,WSA,EDAS,SP,SP,"CN,SP",WSA,SP,EDAS
+102517,102622,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Ostrocerca,2,,,2,,PA TV,,,2,,,,2,,,2,2,2.5,GP,,SH,SH,,,,SH,WSA,KY,,SP,SP,WSA,SP,EDAS
+102517,102584,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Prostoia,,,,2,,PA TV,2,,2,,5.8,,,,5,,,5.78,NC,SH,SH,SH,SH,SH,SH,,,EDAS,SP,SP,,,SP,EDAS
+102517,102640,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Shipsa ,2,,,2,,PA TV,,,2,,,,2,,,,,,,,SH,,SH,,,SH,WSA,USEPA 1990 Draft,,SP,SP,WSA,SP,EDAS
+102517,102556,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Soyedina,2,,,0,,PA TV,2,,0,,0,,2,,,2,2,,,SH,SH,,SH,SH,,SH,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Zapada,1,,,,,,,,,,,,1,,,,,,,SH,,,,,,SH,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Plecoptera,Peltoperlidae,Peltoperlidae,Peltoperlidae,2,,,,,,,,,,,,2,,1,2,2,,,SH,,,,SH,SH,SH,WSA,,,,CN,WSA,,
+102488,102489,Arthropoda,Insecta,Plecoptera,Peltoperlidae,Peltoperlidae,Peltoperla,2,,,2,,PA TV,,,2,,,,2,,1,2,2,1,SC,,SH,SH,SH,,SH,SH,WSA,USEPA 1990 Draft,CN,CN,CN,WSA,CN,EDAS
+102488,102500,Arthropoda,Insecta,Plecoptera,Peltoperlidae,Peltoperlidae,Tallaperla,2,,,0,,PA TV,,,0,,1.2,0,2,,1,2,2,1.2,NC,,SH,SH,SH,,SH,SH,WSA,USEPA 1990 Draft,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Peltoperlidae,Peltoperlidae,Viehoperla ada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Perlidae,1,,,,,,,,,,,,1,1,1,1,1,,,PR,,,,PR,PR,PR,WSA,,,,CN,WSA,,
+102914,102917,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Acroneuria,1,,,0,,PA TV,1,0,0,0,,0,1,0,,1,1,1.4,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+102914,102975,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Agnetina,0,,,2,,PA TV,2,2,2,,0,2,0,2,0,0,0,1.5,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+102954,102955,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Attaneuria ruralis,,,,,,,,,,,,,,,1,,,,,PR,,,,PR,PR,,,,,,,,,
+102914,102934,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Beloneuria,0,,,3,,PA TV,3,,3,,0,,0,,0,0,0,0,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,SP,WSA,CN,EDAS
+102939,102940,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Eccoptura xanthenes,3,,,,,,2,,,,3.7,3.74,3,,3,3,3,3.74,NC,,PR,PR,,,PR,PR,WSA,KY,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Hansonoperla,,,,3,,PA TV,,,3,,,,,,0,,,,,,PR,,,,PR,PR,WSA,WAB,,,CN,WSA,CN,WAB
+102914,102942,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Neoperla,1,,,3,,PA TV,2,,3,3,1.5,,1,3,1,1,1,5,GP,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+102914,102962,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Paragnetina,0,,,1,,PA TV,2,,1,1,1.5,,0,1,2,0,0,1.54,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Perlesta,2,,,4,,PA TV,1,,4,4,4.7,4,2,,5,2,2,4.7,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlidae,Perlidae,Perlinella,5,,,2,,PA TV,2,,2,,,,5,,1,5,5,1.3,SC,PR,PR,PR,PR,,,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Perlodidae,2,,,,,,,,,,,,2,2,2,2,2,,,PR,,,,,PR,PR,WSA,,,,CN,WSA,,
+103118,103119,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Clioperla clio,2,,,1,,EDAS TV,2,,,,4.7,1,2,,4,2,2,4.72,NC,,PR,PR,PR,,PR,PR,WSA,USEPA 1990 Draft,CN,CN,CN,WSA,CN,RBP2 1999
+102994,103137,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Cultus,1,,,2,,PA TV,2,,2,,,,1,,2,1,1,,,PR,PR,,PR,PR,PR,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+102994,103166,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Diploperla,2,,,2,,PA TV,,,2,,,2,2,,2,2,2,,,,PR,PR,,,PR,PR,WSA,KY,CN,CN,CN,WSA,CN,EDAS
+102994,103084,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Helopicus,,,,2,,PA TV,1,,2,,0.8,,,,0,,,,,,,,,,PR,,,,,CN,,,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Hydroperla,,,,1,,PA TV,,,1,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Isogenoides,1,,,0,,PA TV,,,0,,,,1,,1,1,1,,,PR,,,,,PR,PR,WSA,,,,CN,WSA,,
+102994,102995,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Isoperla,2,2,PA TV,2,,PA TV,2,2,2,2,,2,2,2,2,2,2,1.8,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Malirekus hastatus,2,,,,,,,,,,1.2,,2,,1,2,2,1.15,NC,,PR,PR,,,PR,PR,WSA,KY,CN,,CN,WSA,CN,KY
+,,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Oconoperla innubila,,,,2,,PA TV,,,2,,,,,,,,,,,,,,,,,,,,,,,,,
+102994,103197,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Yugus,2,,,2,,PA TV,2,,2,,0,,2,,0,2,2,0,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+102470,102471,Arthropoda,Insecta,Plecoptera,Pteronarcyidae,Pteronarcyidae,Pteronarcys,2,,,0,,PA TV,1,,0,2,1.7,,2,2,1,2,2,1.67,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Taeniopterygidae,2,,,,,,,,,,,,2,2,3,2,2,,,SH,,,,SH,,SH,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Bolotoperla rossi,,,,,,,,,,,,,,,3,,,,,,,,,,SC,,,,,,,,,
+102788,102830,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Oemopteryx contorta,,,,3,,PA TV,,,3,,,,,,3,,,,,,SH,,SH,,SC,,,USEPA 1990 Draft,,SP,,,SP,EDAS
+102788,102808,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Strophopteryx,,,,3,,PA TV,,,3,,2.7,,,,3,,,2.7,NC,,SC,SC,,,SC,,,KY,SP,SP,,,SP,EDAS
+102788,102816,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Taenionema atlanticum,,,,3,,PA TV,2,,3,,,,,,3,,,,,,SC,,SC,,SC,,,EDAS,,SP,,,SP,EDAS
+102788,102789,Arthropoda,Insecta,Plecoptera,Taeniopterygidae,Taeniopterygidae,Taeniopteryx,2,,,2,,PA TV,2,2,2,2,5.4,2,2,2,5,2,2,5.37,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,SP,SP,"CN,SP",WSA,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Apataniidae,Apataniidae,Apataniidae,,,,,,,,,,,,,,,1,,,,,SC,,,,,SC,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Apataniidae,Apataniidae,Apatania,3,,,3,,PA TV,1,,3,,0.6,,3,,1,3,3,,,SC,SC,,SC,,SC,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Apataniidae,Apataniidae,Manophylax,,,,,,,,,,,,,,,,,,,,SC,,,,,,,,,,,,,,
+116489,116490,Arthropoda,Insecta,Trichoptera,Beraeidae,Beraeidae,Beraea,,,,3,,PA TV,,,3,,,,,,,,,,,,,,,,,,,,,SP,,,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Brachycentridae,Brachycentridae,Brachycentridae,2,,,,,,,,,,,,2,1,1,2,2,,,CF,,,,CF,CF,CF,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Brachycentridae,Brachycentridae,Adicrophleps hitchcocki,,,,2,,PA TV,,,2,,,,,,1,,,,,,,,,,SH,,,,,,,,,
+116905,116906,Arthropoda,Insecta,Trichoptera,Brachycentridae,Brachycentridae,Brachycentrus,2,,,1,,PA TV,1,,1,1,2.1,1,2,1,1,2,2,2.08,NC,CF,CF,CG,CF,CF,CF,CF,WSA,EDAS & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+116905,116958,Arthropoda,Insecta,Trichoptera,Brachycentridae,Brachycentridae,Micrasema,1,2,PA TV,2,,PA TV,2,2,2,2,,2,1,2,1,1,1,1,SM,PH,PH,SH,PH,,SH,SH,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratidae,Calamoceratidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116530,116531,Arthropoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratidae,Anisocentropus pyraloides,1,,,,,,2,2,,,0.9,2,1,,,1,1,0.85,NC,SH,SH,SH,SH,SH,,SH,WSA,EDAS,,SP,SP,WSA,SP,RBP2 1999
+,,Arthropoda,Insecta,Trichoptera,Calamoceratidae,Calamoceratidae,Heteroplectron americanum,2,,,5,,PA TV,,,5,3,,,2,3,,2,2,,,SH,SH,,SH,SH,,SH,WSA,M&C 1996,,SP,SP,WSA,SP,M&C 1996
+115334,115361,Arthropoda,Insecta,Trichoptera,Dipseudopsidae,Dipseudopsidae,Phylocentropus,5,,,5,,EDAS TV,5,5,,5,6.2,5,5,5,,5,5,4.5,,CF,CF,CF,CF,CF,,"CF,CG",WSA,EDAS,,BU,CN,WSA,BU,EDAS
+,,Arthropoda,Insecta,Trichoptera,Goeridae,Goeridae,Goeridae,1,,,,,,,,,,,,1,,0,1,1,,,SC,,,,,SC,SC,WSA,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Goeridae,Goeridae,Goera,1,0,PA TV,0,,PA TV,0.3,,0,,0.1,,1,,0,1,1,0.13,NC,,SC,SC,SC,,SC,SC,WSA,USEPA 1990 Draft,,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Goeridae,Goeridae,Goerita,,,,4,,PA TV,,,4,,,,,,,,,,,,SC,,,,,,,M&C 1996,,,,,CN,M&C 1996
+,,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Glossosomatidae,1,,,,,,,,,,,,1,,1,1,1,,,SC,,,,SC,SC,SC,WSA,,,,CN,WSA,,
+117120,117121,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Agapetus,2,0,PA TV,0,,PA TV,0,,0,2,0,0,2,2,0,2,2,0,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Culoptila,,,,1,,PA TV,,,1,,,,,,0,,,,,,,,,,SC,PR,WSA,,,,CN,WSA,,
+117120,117159,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Glossosoma,0,0,PA TV,0,,PA TV,0,,0,0,1.6,0,0,0,0,0,0,1.55,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Matroptila jeanae,1,,,,,,,,,,0,,1,,,1,1,,,,,,,,,SC,WSA,,,,CN,WSA,,
+115096,115221,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosomatidae,Protoptila,1,,,1,,PA TV,1,,1,,2.6,,1,,3,1,1,2.55,NC,SC,SC,SC,SC,,SC,"PR,SC",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+117015,117016,Arthropoda,Insecta,Trichoptera,Helicopsychidae,Helicopsychidae,Helicopsyche borealis,3,,,3,,PA TV,3,,3,,0,,3,,5,3,3,5,GP,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Hydropsychidae,3,,,,,,,,,,,,3,4,6,3,3,,,CF,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+115398,115529,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Arctopsyche,2,,,,,,,,,,,,2,,,2,2,,,CF,,,,CF,,PR,WSA,,,,CN,WSA,,
+115398,115570,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Ceratopsyche,1,,,5,,PA TV,,,5,,,4,1,,,1,1,1.4,SC,CF,CF,CF,CF,CF,,"CF,PR",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115398,115408,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Cheumatopsyche,6,5,Botts' data,6,,PA TV,5,5,6,5,6.2,5,6,5,6,6,6,6.22,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115398,115399,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Diplectrona,6,0,PA TV,0,,PA TV,0,,0,2,,,6,2,2,6,6,4,,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115398,115618,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Homoplectra,,,,5,,PA TV,,,5,,,,,,,,,,,,CF,CF,,,CF,,,KY & M&C 1996,,CN,,,CN,EDAS
+115398,115453,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Hydropsyche,5,4,Botts' data,5,,PA TV,3,4,5,6,,4,5,6,6,5,5,4,SC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115398,115603,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Macrostemum,3,,,3,,PA TV,3,3,3,,3.5,3,3,3,3,3,3,3.6,NC,CF,CF,CF,CF,CF,CF,"CF,PR",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115398,115556,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Parapsyche,2,,,0,,PA TV,1,,0,1,,,2,1,,2,2,,,PR,PR,,PR,PR,,CF,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115551,115552,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Potmayia flava,4,,,,,,,,,,,,4,,6,4,4,,,,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Hydroptilidae,4,,,,,,,,,,,,4,4,6,4,4,,,,,,,,PH,PH,WSA,,,,CB,WSA,,
+115629,115635,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Agraylea,4,,,8,,PA TV,8,,8,,,8,4,,5,4,4,5.9,SC,,PH,PH,PH,,PH,"CF,CG",WSA,KY & M&C 1996,CN,CB,CB,WSA,CN,KY
+,,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Dibusa angata,0,,,,,,,,,,,,0,,8,0,0,,,,,,,,SC,SC,WSA,,,,CN,WSA,,
+115629,115641,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Hydroptila,3,6,PA TV,6,,PA TV,5,6,6,6,6.2,6,3,6,6,3,3,6.22,NC,SC,PH,PH,SC,SC,PH,"PH,PR,SC",WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Ithytrichia,,,,,,,,,,,,,,,,,,,,,,,,,,PR,WSA,,,,CN,WSA,,
+115629,115630,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Leucotrichia,6,6,PA TV,6,,PA TV,6,,6,,,,6,,7,6,6,,,SC,SC,,SC,SC,,"PR,SC",WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115629,115811,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Mayatrichia,2,,,4,,PA TV,6,,4,,,,2,,,2,2,,,SC,SC,,SC,SC,,PR,WSA,EDAS,,CN,CN,WSA,CN,EDAS
+115629,115833,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Neotrichia,0,,,2,,PA TV,,,2,,,,0,,8,0,0,2,RH,SC,SC,SC,SC,SC,SC,"PR,SC",WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115629,115714,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Ochrotrichia,4,4,PA TV,4,,PA TV,4,,4,4,4,,4,4,4,4,4,3.95,NC,CG,CG,CG,CG,CG,CG,"CG,PR,SC",WSA,EDAS,CN,CN,"CN,CB",WSA,CN,EDAS
+115629,115828,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Orthotrichia,4,,,6,,PA TV,6,,6,,8.3,,4,,8,4,4,5,RH,SC,CG,CG,SC,SC,PH,"PH,PR,SC",WSA,KY & RBP2 1999,CN,CN,CN,WSA,CN,EDAS
+115629,115779,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Oxyethira,6,,,3,,PA TV,3,3,3,3,2.2,3,6,3,2,6,6,2.22,NC,PH,PH,CG,PH,,PH,CG,WSA,EDAS & M&C 1996,CN,CB,"CB,CN",WSA,CN,KY
+,,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Palaeagapetus ,,,,1,,PA TV,,,1,,,,,,,,,,,,SH,,,,,,,M&C 1996,,,CN,WSA,SP,M&C 1996
+,,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Paucicalcaria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115629,115817,Arthropoda,Insecta,Trichoptera,Hydroptilidae,Hydroptilidae,Stactobiella,5,,,2,,EDAS TV,,,,,1.3,,5,,1,5,5,1.29,NC,SH,SH,CG,SH,SH,SH,"PR,SH",WSA,EDAS & M&C 1996,CN,CN,CB,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Lepidostomatidae,Lepidostomatidae,Lepidostomatidae,3,,,,,,,,,,,,3,,1,3,3,,,SH,,,,SH,SH,SH,WSA,,,,"CB,CN,SP",WSA,,
+116793,116794,Arthropoda,Insecta,Trichoptera,Lepidostomatidae,Lepidostomatidae,Lepidostoma,3,1,PA TV,1,,PA TV,1,1,1,3,0.9,1,3,3,1,3,3,0.9,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Trichoptera,Lepidostomatidae,Lepidostomatidae,Theliopsyche,,,,1,,PA TV,,,1,,,,,,1,,,,,,,,,,SH,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Leptoceridae,3,,,,,,,,,,,,3,4,4,3,3,,,CG,,,,CG,CG,CG,WSA,,,,CB,WSA,,
+116547,116684,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Ceraclea,4,,,3,,PA TV,4,3,3,3,2,3,4,3,4,4,4,2.01,NC,CG,CG,PR,CG,CG,CG,CG,WSA,EDAS,CN,SP,CN,WSA,CN,KY
+,,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Leptocerus americanus,4,,,,,,,,,,,,4,,,4,4,,,,,,,,,SH,WSA,,,,SW,WSA,,
+116547,116598,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Mystacides,3,,,4,,PA TV,4,4,4,4,,4,3,4,3,3,3,2.5,RH,CG,CG,PR,CG,CG,CG,CG,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+116547,116651,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Nectopsyche,4,,,3,,PA TV,3,3,3,3,2.9,3,4,3,4,4,4,2.94,NC,SH,SH,PR,SH,SH,SH,SH,WSA,EDAS,,SP,"CB,SP",WSA,SP,EDAS
+116547,116607,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Oecetis,3,,,8,,PA TV,7,8,8,8,4.7,8,3,8,4,3,3,4.7,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CN,"CN,SP",WSA,CN,EDAS
+116547,116548,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Setodes,8,,,2,,PA TV,,,2,,0,,8,,0,8,8,0,NC,OM,SC,SC,OM,OM,CG,"CG,SH",WSA,KY,,SP,SP,WSA,SP,EDAS
+116547,116565,Arthropoda,Insecta,Trichoptera,Leptoceridae,Leptoceridae,Triaenodes,2,,,6,,PA TV,6,6,6,6,4.5,6,2,6,4,2,2,4.46,NC,PH,SH,PR,PH,,SH,SH,WSA,M&C 1996,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Limnephilidae,4,,,,,,,,,,,,4,4,4,4,4,,,SH,,,,SH,SH,SH,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Anabolia,5,,,5,,PA TV,,,5,,,,5,,,5,5,,,,,,,,,SH,RBP2 1999,,,,SP,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Frenesia,,,,4,,PA TV,,,4,,,,,,,,,,,,,,,,,,,,,,,,,
+115933,116001,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Hesperophylax,6,,,4,,PA TV,5,,4,,,,6,,,6,6,,,SH,SH,,SH,SH,,SH,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+115995,115997,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Hydatophylax argus,2,,,2,,EDAS TV,2,2,,,2.2,2,2,2,,2,2,2.17,NC,SH,SH,SH,SH,SH,,SH,WSA,EDAS,,SP,SP,WSA,SP,RBP2 1999
+115933,116382,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Ironoquia,5,,,3,,PA TV,,,3,3,,3,5,3,8,5,5,7.7,SC,,SH,SH,SH,,SH,SH,WSA,USEPA 1990 Draft,,SP,"CB,CN,SP",WSA,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Leptophylax gracilis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115933,116069,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Limnephilus,4,,,3,,PA TV,5,,3,3,,3,4,3,4,4,4,,,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,CB,"SP,CB",WSA,CB,EDAS
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Nemotaulius hostilis,,,,3,,PA TV,,,3,,,,,,,,,,,,,,,,,,,,,,,,,
+115933,116407,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Platycentropus,,,,4,,PA TV,,,4,4,,,,4,4,,,,,,SH,,SH,,SH,,,USEPA 1990 Draft,,CB,,,CB,EDAS
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Pseudostenophylax,,,,0,,PA TV,,,0,,,,,,,,,2,,,SC,SC,,,,,,KY,,,,,SP,M&C 1996
+115933,115974,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Psychoglypha,1,,,0,,PA TV,1,,0,,,,1,,4,1,1,,,CG,CG,,CG,CG,CG,SH,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+115933,116409,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Pycnopsyche,2,4,PA TV,4,,PA TV,4,4,4,4,2.5,4,2,4,4,2,2,2.52,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Molannidae,Molannidae,Molannidae,,,,,,,,,,,,,,,6,,,,,,,,,,SC,,,,,,,,,
+116473,116474,Arthropoda,Insecta,Trichoptera,Molannidae,Molannidae,Molanna,5,,,6,,PA TV,6,6,6,6,,6,5,6,6,5,5,2,RH,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Odontoceridae,Odontoceridae,Odontoceridae,0,,,,,,,,,,,,0,,0,0,0,,,,,,,,SC,SC,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Odontoceridae,Odontoceridae,Pseudogoera singularis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116496,116497,Arthropoda,Insecta,Trichoptera,Odontoceridae,Odontoceridae,Psilotreta,0,,,0,,PA TV,0,0,0,0,0,0,0,0,0,0,0,0,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,SP,SP,WSA,CN,KY
+,,Arthropoda,Insecta,Trichoptera,Philopotamidae,Philopotamidae,Philopotamidae,3,,,,,,,,,,,,3,3,2,3,3,,,CF,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+115257,115273,Arthropoda,Insecta,Trichoptera,Philopotamidae,Philopotamidae,Chimarra,3,4,PA TV,4,,PA TV,3,4,4,4,2.8,4,3,4,3,3,3,2.76,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+115257,115319,Arthropoda,Insecta,Trichoptera,Philopotamidae,Philopotamidae,Dolophilodes,3,0,PA TV,0,,PA TV,1,,0,0,0.8,0,3,0,1,3,3,0.81,NC,CG,CF,CF,CG,CG,CF,CF,WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+115257,115258,Arthropoda,Insecta,Trichoptera,Philopotamidae,Philopotamidae,Wormaldia,1,,,0,,PA TV,3,,0,,0.7,,1,,1,1,1,0.65,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Philopotamidae,Philopotamidae,Fumonta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Phryganeidae,4,,,,,,,,,,,,4,4,5,4,4,,,SH,,,,SH,SH,SH,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Agrypnia,,,,4,,Phryganeidae TV,,,,,,,,,6,,,,,,SH,,,,SH,SH,WSA,M&C 1996,,,CB,WSA,CB,M&C 1996
+,,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Banksiola,2,,,,,,,,,,,,2,,4,2,2,,,,,,,,SH,SH,USEPA 1990 Draft,,,,CB,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Oligostomis,2,,,2,,EDAS TV,,,,,,,2,,1,2,2,,,,PR,,PR,,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+115867,115868,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Ptilostomis,4,,,5,,PA TV,5,5,5,5,6.4,5,4,5,6,4,4,6.37,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,CB,CN,WSA,CB,EDAS
+,,Arthropoda,Insecta,Trichoptera,Phryganeidae,Phryganeidae,Phyrganea,,,,,,,,,,,,,,,4,,,,,,,,,,SH,OM,RBP2 1999,,,,CB,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Polycentropodidae,5,,,,,,,,,,,,5,,5,5,5,,,CF,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+,,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Cernotina,4,,,6,,PA TV,,,6,,,,4,,4,4,4,4,SC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+117091,117092,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Cyrnellus fraternus,6,,,,,,,,,,7.3,,6,,7,6,6,,,CF,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+117043,117095,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Neureclipsis,4,,,7,,PA TV,7,7,7,7,4.2,7,4,7,4,4,4,4.19,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+117043,117104,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Nyctiophylax,2,,,5,,PA TV,5,,5,5,0.9,,2,5,3,2,2,0.85,NC,CF,CF,PR,CF,CF,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+117043,117044,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Polycentropus,4,6,PA TV,6,,PA TV,5,6,6,5,3.5,6,4,5,4,4,4,3.53,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiidae,Psychomyiidae,2,,,,,,,,,,,,2,,3,2,2,,,CG,,,,CG,CG,CG,WSA,,,,CN,WSA,,
+115391,115392,Arthropoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiidae,Lype diversa,3,,,2,,EDAS TV,2,2,,,4.1,2,3,,4,3,3,4.05,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,,SP,WSA,CN,KY
+115334,115335,Arthropoda,Insecta,Trichoptera,Psychomyiidae,Psychomyiidae,Psychomyia,3,2,PA TV,2,,PA TV,2,,2,2,,,3,2,3,3,3,2.47,,SC,CG,CG,SC,SC,CG,"CG,PR,SC",WSA,KY & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Rhyacophilidae,Rhyacophilidae,Rhyacophilidae,1,,,,,,,,,,,,1,,1,1,1,,,PR,,,,PR,PR,PR,WSA,,,,CN,WSA,,
+115096,115097,Arthropoda,Insecta,Trichoptera,Rhyacophilidae,Rhyacophilidae,Rhyacophila,0,1,PA TV,1,,PA TV,0,,1,1,,1,0,1,1,0,0,0.8,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Trichoptera,Sericostomatidae,Sericostomatidae,Sericostomatidae,3,,,,,,,,,,,,3,,1,3,3,,,SH,,,,SH,SH,SH,WSA,,,,SP,WSA,,
+116982,116983,Arthropoda,Insecta,Trichoptera,Sericostomatidae,Sericostomatidae,Agarodes,2,,,3,,PA TV,,,3,3,0.7,,2,3,1,2,2,0.69,NC,,SH,SH,SH,,SH,SH,WSA,USEPA 1990 Draft,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Trichoptera,Sericostomatidae,Sericostomatidae,Fattigia pele,,,,,,,,,,,,,,,1,,,,,,,,,,SH,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Uenoidae,Uenoidae,Uenoidae,0,,,,,,,,,,,,0,,2,0,0,,,SC,,,,,SC,SC,WSA,,,,CN,WSA,,
+115933,116046,Arthropoda,Insecta,Trichoptera,Uenoidae,Uenoidae,Neophylax ,2,,,,,,,,,,2.2,3,2,3,2,2,2,,,SC,SC,SC,,SC,SC,SC,WSA,KY,CN,,CN,WSA,CN,KY
+130928,130929,Arthropoda,Insecta,Diptera,Athericidae,Athericidae,Atherix,2,2,PA TV,2,,PA TV,2,2,2,2,2.1,2,2,2,2,2,2,2.1,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+121229,121255,Arthropoda,Insecta,Diptera,Blephariceridae,Blephariceridae,Blepharicera,0,,,0,,PA TV,0,,0,,2,,,,0,,,0,NC,SC,SC,SC,SC,SC,SC,SC,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Diptera,Canacidae,Canacidae,Canace,,,,,,,,,,,,,,,,,,,,SC,,,,SC,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Ceratopogonidae,6,,,,,,,,,,,,6,,6,6,6,,,PR,,,,PR,PR,PR,WSA,,,,SP,WSA,,
+127526,127533,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Alluaudomyia,6,,,6,,EDAS TV,,,,,6,5.99,6,,,6,6,6.8,SC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+127112,127113,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Atrichopogon,6,,,2,,PA TV,6,,2,,6.5,2,6,,6,6,6,6.49,NC,PR,PR,PR,PR,PR,CG,"CG,PR",WSA,EDAS,,,CN,WSA,SP,M&C 1996
+127774,127778,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Bezzia,6,,,6,OK,PA TV,6,6,6,6,,6,6,6,,6,6,6.9,NC,CG,PR,PR,CG,CG,PR,"CG,PR",WSA,M&C 1996,,BU,SP,WSA,BU,EDAS
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Bezzia/Palpomyia,6,6,Bezzia & Palpomyia PA TVs ,6,OK,Bezzia & Palpomyia TV,,,,,6.9,,6,,6,6,6,6.9,NC,,PR,PR,PR,,PR,PR,WSA,KY,,,SP,WSA,BU,Bezzia & Palpomyia
+127526,127564,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Ceratopogon,6,,,6,OK,EDAS TV,6,6,,6,,6,6,6,,6,6,6.8,SC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,BU,BU,WSA,BU,RBP2 1999
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Clinohelea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127339,127340,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Culicoides,6,,,10,,EDAS TV,10,10,,10,7.7,10,6,10,8,6,6,7.7,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+127277,127278,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Dasyhelea,6,6,PA TV,6,,PA TV,6,,6,,,,6,,6,6,6,6.7,SC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SP,SP,WSA,SP,RBP2 1999
+127112,127152,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Forcipomyia,4,,,6,,EDAS TV,,,,,,,4,,6,4,4,6.8,SC,SC,SC,SC,SC,SC,SC,SC,RBP2 1999,EDAS,,BU,BU,WSA,BU,RBP2 1999
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Jenkinshelea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Mallochohelea,,,,6,,PA TV,,,6,,,6,,,,,,,,,,,,,,PR,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Monohelea,6,,,6,,EDAS TV,,,,,,,6,,,6,6,6.8,SC,,PR,PR,,,,,,KY,,,,,BU,WAB
+127683,127720,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Nilobezzia,10,,,,,,,,,,,,10,,,10,10,,,,,,,,,PR,WSA,,,,BU,WSA,,
+127774,127859,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Palpomyia,6,,,6,OK,EDAS TV,6,,,,,6,6,,7,6,6,6.86,NC,PR,PR,PR,PR,PR,PR,PR,WSA,M&C 1996,,BU,BU,WSA,BU,RBP2 1999
+127683,127729,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Probezzia,6,,,6,OK,PA TV,6,6,6,6,,6,6,6,,6,6,6.9,NC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+127526,127614,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Serromyia,6,,,6,,EDAS TV,6,,,,,6,6,,,6,6,,,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,BU,BU,WSA,BU,RBP2 1999
+127683,127761,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Sphaeromias,6,,,6,,DE TV,,,,,,6,6,,,6,6,6.9,NC,,PR,PR,PR,,,PR,WSA,RBP2 1999,,BU,BU,WSA,BU,EDAS
+127526,127619,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogonidae,Stilobezzia,,,,6,,PA TV,,,6,,,,,,6,,,6.9,NC,,PR,PR,PR,,PR,PR,WSA,RBP2 1999,,SP,SP,WSA,SP,RBP2 1999
+,,Arthropoda,Insecta,Diptera,Chaoboridae,Chaoboridae,Chaoboridae,7,,,,,,,,,,,,7,,7,7,7,,,PR,,,,PR,PR,PR,WSA,,,,SP,WSA,,
+125892,125904,Arthropoda,Insecta,Diptera,Chaoboridae,Chaoboridae,Chaoborus,8,,,8,,PA TV,,,8,,8.5,,8,,7,8,8,8.5,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Diptera,Culicidae,Culicidae,Culicidae,8,,,,,,,,,,,,8,,8,8,8,,,CG,,,,CG,CF,CG,WSA,,,,SW,WSA,,
+125955,125956,Arthropoda,Insecta,Diptera,Culicidae,Culicidae,Anopheles,8,,,6,OK,EDAS TV,6,6,,,8.6,6,8,6,8,8,8,8.58,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+126233,126234,Arthropoda,Insecta,Diptera,Culicidae,Culicidae,Aedes,8,,,8,,EDAS TV,8,8,,8,,8,8,8,8,8,8,,,CF,CF,,CF,CF,CG,"CF,CG",WSA,EDAS,,SW,SW,WSA,SW,EDAS
+126233,126455,Arthropoda,Insecta,Diptera,Culicidae,Culicidae,Culex,6,,,8,,EDAS TV,8,8,,,10,8,6,8,8,6,6,10,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,,SW,SW,WSA,SW,EDAS
+,,Arthropoda,Insecta,Diptera,Dixidae,Dixidae,Dixidae,3,,,,,,,,,,,,3,1,3,3,3,,,CG,,,,CG,CG,CG,WSA,,,,SW,WSA,,
+125809,125810,Arthropoda,Insecta,Diptera,Dixidae,Dixidae,Dixa,1,,,1,,PA TV,1,,1,4,2.6,1,1,4,3,1,1,2.55,NC,CG,CG,CG,CG,CG,CG,"CG,PR",WSA,EDAS,,SW,CB,WSA,SW,EDAS
+125809,125854,Arthropoda,Insecta,Diptera,Dixidae,Dixidae,Dixella,3,,,1,,EDAS TV,,,,,,1,3,,,3,3,5,SC,CG,CG,PR,CG,CG,,CG,WSA,EDAS & M&C 1996,,,SW,WSA,SW,M&C 1996
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Dolichopodidae,5,,,,,,,,,,,,5,,4,5,5,,,PR,,,,PR,PR,PR,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Achradocera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Amblypsilopus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Chrysptimus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Diostracus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137952,137953,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Dolichopus,4,,,,,,,,,,,,4,,,4,4,,,,,,,,,PR,USEPA 1990 Draft,,,,SP,WSA,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Enlinia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Harmstonis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Hercostomus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Liancalus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Nematoproctus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Nepalomyia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Paraclius,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Peloropeodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Plagionerus univittatus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Rhaphium,,,,,,,,,,,,,,,4,,,,,,,,,,PR,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Sympycnus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Dolichopodidae,Dolichopodidae,Telmaturgus parvus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Empididae,6,,,,,,,,,,7.6,,6,,6,6,6,,,PR,,,,PR,PR,PR,WSA,,,,SP,WSA,,
+136304,136305,Arthropoda,Insecta,Diptera,Empididae,Empididae,Chelifera,4,6,PA TV,6,,PA TV,6,,6,,,,4,,6,4,4,8.1,NC,CG,PR,PR,CG,CG,PR,"CG,PR",WSA,KY,,,"BU,SP",WSA,SP,M&C 1996
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Chelipoda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135844,135849,Arthropoda,Insecta,Diptera,Empididae,Empididae,Clinocera,6,6,PA TV,6,,PA TV,6,,6,,,6,6,,6,6,6,8.1,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Dolichocephala,,,,5,,PA TV,,,5,,,,,,,,,,,,PR,,PR,,,,,EDAS,,CN,,,CN,EDAS
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Heleodromia pullata,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136304,136327,Arthropoda,Insecta,Diptera,Empididae,Empididae,Hemerodromia,6,6,PA TV,6,,PA TV,6,6,6,6,,6,6,6,6,6,6,8.1,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Neoplasta,,,,6,,Empididae TV,,,,,,,,,,,,,,,PR,,,,,,,M&C 1996,,,SP,WSA,SP,M&C 1996
+136361,136377,Arthropoda,Insecta,Diptera,Empididae,Empididae,Oreogeton,,,,6,,PA TV,5,,6,,,,,,6,,,,,PS,PR,,PS,,PR,PS,RBP2 1999,M&C 1996,,,,NEIWPCC,SP,M&C 1996
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Proclinopyga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135930,136123,Arthropoda,Insecta,Diptera,Empididae,Empididae,Rhamphomyia,,6,PA TV,6,,PA TV,6,,6,,,,,,6,,,,,PR,PR,,PR,PR,PR,PR,RBP2 1999,EDAS,,SP,SP,RBP2 1999,SP,RBP2 1999
+,,Arthropoda,Insecta,Diptera,Empididae,Empididae,Trichoclinocera,,,,6,,Empididae TV,,,,,,,,,,,,,,,PR,PR,,,,,,KY & M&C 1996,,,CN,WSA,CN,M&C 1996
+135844,135920,Arthropoda,Insecta,Diptera,Empididae,Empididae,Wiedemannia,6,,,6,,PA TV,6,,6,,,6,6,,6,6,6,,,PR,PR,,PR,PR,PR,PR,WSA,EDAS,,,"CN,SP",WSA,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Ephydridae,6,,,,,,,,,,,,6,,6,6,6,,,CG,,,,CG,CG,CG,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Callinapaea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Ephydra,,,,,,,,,,,,,,,,,,,,,,,,,,SH,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Lytogaster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Parydra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Ephydridae,Ephydridae,Setacera,,,,,,,,,,,,,,,6,,,,,,,,,,SH,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Muscidae,6,,,,,,,,,,,,6,7,8,6,6,,,PR,,,,PR,PR,PR,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Caricea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150729,150730,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Limnophora,6,,,6,,PA TV,,,6,,8.4,,6,,8,6,6,8.4,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Lispe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Lispoides aequifrons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Muscidae,Muscidae,Spilogona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Nymphomyiidae,Nymphomyiidae,Nymphomyia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130914,130915,Arthropoda,Insecta,Diptera,Pelecorhynchidae,Pelecorhynchidae,Glutops,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Psychodidae,,,,,,,,,,,,,,,10,,,,,CG,,,,CG,CG,CG,WSA,,,,BU,WSA,,
+125391,125514,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Pericoma,1,,,4,,PA TV,4,4,4,4,,4,1,4,10,1,1,10,SC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Philosepedon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125391,125468,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Psychoda,4,,,10,,PA TV,,,10,,9.6,10,4,,10,4,4,9.9,NC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,,BU,WSA,BU,M&C 1996
+,,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Telmatoscopus,10,,,10,,Psychodidae TV,,,,,,,10,,10,10,10,,,,CG,,,,CG,CG,WSA,M&C 1996,,,BU,WSA,BU,M&C 1996
+,,Arthropoda,Insecta,Diptera,Ptychopteridae,Ptychopteridae,Ptychopteridae,6,,,,,,,,,,,,6,,7,6,6,,,CG,,,,CG,CG,CG,WSA,,,,BU,WSA,,
+125764,125765,Arthropoda,Insecta,Diptera,Ptychopteridae,Ptychopteridae,Bittacomorpha,7,,,8,,EDAS TV,,,,,,8,7,,,7,7,7,,,CG,CG,,,,CG,WSA,KY,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Diptera,Ptychopteridae,Ptychopteridae,Bittacomorphella,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,,,,,,
+125785,125786,Arthropoda,Insecta,Diptera,Ptychopteridae,Ptychopteridae,Ptychoptera,,,,8,,PA TV,7,,8,,,8,,,,,,7,ID,CG,CG,CG,CG,CG,,CG,WSA,EDAS,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Sciomyzidae,Sciomyzidae,Sciomyzidae,6,,,,,,,,,,,,6,,6,6,6,,,PR,,,,PR,PR,PR,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Simuliidae,Simuliidae,Simuliidae,6,,,,,,,,,,,,6,7,6,6,6,,,CF,,,,CF,CF,CF,WSA,,,,CN,WSA,,
+,,Arthropoda,Insecta,Diptera,Simuliidae,Simuliidae,Cnephia,,,,4,,PA TV,,,4,4,,,,,6,,,4,SC,,CF,CF,,,CF,,,KY,CN,,,,CN,KY
+126648,126703,Arthropoda,Insecta,Diptera,Simuliidae,Simuliidae,Prosimulium,7,,,2,,PA TV,3,,2,7,6,2,7,7,4,7,7,4.01,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+126648,126761,Arthropoda,Insecta,Diptera,Simuliidae,Simuliidae,Stegopterna,,,,6,,PA TV,,,6,7,,,,7,6,,,,,,CF,,CF,CF,CF,CF,USEPA 1990 Draft,EDAS,,CN,,,CN,EDAS
+126773,126774,Arthropoda,Insecta,Diptera,Simuliidae,Simuliidae,Simulium,3,6,PA TV,6,,PA TV,5,6,6,7,6,6,3,7,6,3,3,4.4,NC,CF,CF,CF,CF,CF,CF,CF,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Stratiomyidae,7,,,,,,,,,,,,7,,10,7,7,,,CG,,,,CG,CG,CG,WSA,,,,SP,WSA,,
+130155,130160,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Allognosta,8,,,,,,,,,,,,8,,,8,8,,,CG,,,,CG,,CG,RBP2 1999,,,,,,,
+130408,130409,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Caloparyphus,7,,,7,,DE TV,7,7,,,,7,7,,,7,7,10,MV,CG,CG,CG,CG,CG,,CG,WSA,EDAS,,SP,SP,WSA,SP,RBP2 1999
+130408,130436,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Euparyphus,,,,7,,Stratiomyidae TV,,,,,,,,,,,,,,CG,CG,,,CG,,,,M&C 1996,,,,,SP,M&C 1996
+,,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Hedriodiscus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Labostigmina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Myxosargus,,,,10,,SC (via KY),,,,,,,,,,,,10,,,CG,CG,,,,,,KY,,,,,,
+130685,130694,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Nemotelus,4,,,7,,Stratiomyidae TV,,,,,,,4,,,4,4,,,,CG,,CG,,,CG,WSA,M&C 1996,,SP,SP,WSA,SP,M&C 1996
+130483,130573,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Odontomyia,7,,,7,,EDAS TV,6,7,,,,7,7,7,10,7,7,10,SC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+130408,130461,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Oxycera,,,,,,,,,,,,,,,10,,,,,,,,,,CG,,,,,,,,,
+130483,130627,Arthropoda,Insecta,Diptera,Stratiomyidae,Stratiomyidae,Stratiomys,,,,5,,PA TV,,,5,,8.1,8.08,,,8,,,8.08,NC,FG,CG,CG,CG,,CG,CG,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Diptera,Syrphidae,Syrphidae,Syrphidae,10,,,,,,,,,,,,10,,,10,10,,,CG,,,,CG,,CG,WSA,,,,,,,
+,,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Tabanidae,7,,,,,,,,,,,,7,8,7,7,7,,,PR,,,,PR,PR,PR,WSA,,,,SP,WSA,,
+131061,131078,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Chrysops,8,7,PA TV,7,,PA TV,7,7,7,7,6.7,7,8,7,7,8,8,6.73,NC,CG,PC,PR,CG,CG,CG,PR,WSA,KY & M&C 1996,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Diachlorus,,,,6,,PA TV,,,6,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Hybomitra,7,,,6,,PA TV,,,6,,,,7,,,7,7,5,SC,,PR,PR,,,,PH,WSA,KY,"SP,BU",,SP,WSA,"SP,BU",KY
+,,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Merycomyia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+131318,131527,Arthropoda,Insecta,Diptera,Tabanidae,Tabanidae,Tabanus,7,5,PA TV,5,,PA TV,5,5,5,5,9.2,5,7,5,9,7,7,9.22,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+125800,125801,Arthropoda,Insecta,Diptera,Tanyderidae,Tanyderidae,Protoplasa fitchii,4,,,6,,PA TV,5,,6,,4.3,,4,,7,4,4,4.33,NC,,PR,PR,CG,CG,CG,CG,,KY,,,SP,WSA,BU,M&C 1996
+,,Arthropoda,Insecta,Diptera,Thaumaleidae,Thaumaleidae,Thaumaleidae,,,,,,,,,,,,,,,,,,,,SC,,,,OM,,,,M&C 2008,,,,,CN,M&C 2008
+,,Arthropoda,Insecta,Diptera,Thaumaleidae,Thaumaleidae,Androprosopa,,,,,,,,,,,,,,,,,,,,SC,,,,,,,,M&C 2008,,,,,CN,M&C 2008
+,,Arthropoda,Insecta,Diptera,Thaumaleidae,Thaumaleidae,Trichothaumalea,,,,,,,,,,,,,,,,,,,,SC,,,,,,,,M&C 2008,,,,,CN,M&C 2008
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Tipulidae,4,,,,,,,,,,,,4,,4,4,4,,,SH,,,,SH,SH,SH,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Antocha,4,3,PA TV,3,,PA TV,3,,3,5,4.3,3,4,5,3,4,4,4.25,NC,CG,CG,PR,CG,CG,CG,CG,WSA,EDAS & M&C 1996,CN,CN,CN,WSA,CN,EDAS
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Arctoconopa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Brachypremna dispellens,,,,4,,Prionocera & Tipula TV,,,,,,,,,,,,,,,SH,,,,,,,WAB,,,,,BU,M&C 1996
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Cryptolabis,3,4,PA TV,4,,PA TV,,,4,,,,3,,,3,3,4.9,SC,,SH,SH,,,,SH,WSA,KY,,,BU,WSA,BU,M&C 1996
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Dactylolabis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Dicranoptycha,,,,4,,Helius TV,,,,,,,,,,,,,,,CG,,,,,,,WAB,,,,,BU,WAB
+121026,121027,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Dicranota,4,,,3,,PA TV,3,,3,4,0,3,4,4,3,4,4,0,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,,"BU,SP",WSA,"SP,BU",M&C 1996
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Epiphragma,,,,2,,Hexatomini TVs,,,,,,,,,,,,,,,PR,,,,,,,WAB,,,,,BU,WAB
+120397,120503,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Erioptera,6,,,7,,PA TV,3,,7,7,4.6,,6,7,3,6,6,5,,CG,CG,PR,CG,CG,CG,CG,WSA,EDAS & M&C 1996,,,"BU,SP",WSA,SP,M&C 1996
+120397,120640,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Gonomyia,3,,,3,,DE TV,,,,,,3,3,,8,3,3,5,SC,,CG,,CG,,CG,CG,WSA,RBP2 1999,,BU,BU,WSA,BU,RBP2 1999
+119655,119690,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Helius,4,,,4,,EDAS TV,4,4,,4,,4,4,4,,4,4,5.3,SC,CG,CG,CG,CG,CG,,"CG,PR",WSA,EDAS,,SP,BU,WSA,"SP,BU",EDAS;RBP2 1999
+120397,120732,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Hesperoconopa,4,,,,,,,,,,,,4,,,4,4,,,CG,,,,CG,,CG,RBP2 1999,,,,BU,WSA,,
+120030,120094,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Hexatoma,1,,,2,,PA TV,2,2,2,4,4.3,2,1,4,3,1,1,4.31,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+120030,120164,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Limnophila,4,,,3,,PA TV,4,,3,4,,3,4,4,4,4,4,4.9,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+119655,119704,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Limonia,4,6,PA TV,6,,PA TV,,3,6,6,9.6,,4,6,6,4,4,9.64,NC,SH,SC,SC,SH,SH,SH,SH,WSA,KY,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Lipsothrix,,4,PA TV,4,,PA TV,,,4,,,,,,3,,,,,,SH,,,,SH,,,M&C 1996,,,,,BU,M&C 1996
+120397,120758,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Molophilus,3,,,4,,PA TV,,,4,,,,3,,3,3,3,5,SC,,SH,SH,SH,,CG,SH,WSA,RBP2 1999,,BU,BU,WSA,BU,EDAS
+120397,120830,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Ormosia,4,,,6,,PA TV,3,3,6,,6.3,3,4,3,4,4,4,4.9,SC,CG,CG,CG,CG,CG,CG,CG,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+121026,121118,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Pedicia,6,,,6,,PA TV,6,,6,,,6,6,,4,6,6,4.9,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,RBP2 1999
+120030,120335,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Pilaria,6,,,7,,PA TV,5,7,7,7,,7,6,7,3,6,6,4.9,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+118841,119008,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Prionocera,,,,4,,RBP TV,4,,,,,,,,,,,4.9,SC,,SH,SH,SH,,,,,RBP2 1999,,CN,,,CN,RBP2 1999
+120030,120365,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Pseudolimnophila,7,,,2,,PA TV,2,2,2,2,7.2,2,7,2,7,7,7,7.22,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+120397,120968,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Rhabdomastix,2,,,,,,,,,,,,2,,,2,2,,,PR,,,,PR,,PR,RBP2 1999,,,,"BU,SP",WSA,,
+118841,119037,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Tipula,4,4,PA TV,4,,PA TV,4,4,4,4,7.2,4,4,4,5,4,4,7.33,NC,SH,SH,SH,SH,SH,SH,SH,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+120030,120387,Arthropoda,Insecta,Diptera,Tipulidae,Tipulidae,Ulomorpha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Zygoptera,Calopterygidae,Calopterygidae,Calopterygidae,5,,,,,,,,,,,,5,5,7,5,5,,,PR,,,,PR,PR,PR,WSA,,,,SW,WSA,,
+102043,102052,Arthropoda,Insecta,Zygoptera,Calopterygidae,Calopterygidae,Calopteryx,5,6,PA TV,6,,PA TV,5,6,6,6,7.8,6,5,6,8,5,5,7.8,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+102043,102048,Arthropoda,Insecta,Zygoptera,Calopterygidae,Calopterygidae,Hetaerina,5,6,PA TV,6,,PA TV,,,6,,5.6,,5,,6,5,5,5.61,NC,PR,PR,PR,PR,PR,PR,"CF,CG,PR",WSA,EDAS,,CB,"CB,CN",WSA,CB,EDAS
+,,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Coenagrionidae,8,,,,,,,,,,,,8,9,9,8,8,,,PR,,,,PR,PR,PR,WSA,,,,CB,WSA,,
+102077,102093,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Amphiagrion,,,,5,,PA TV,5,,5,,,,,,,,,,,PR,PR,,PR,PR,,,,EDAS,,CB,,,CB,EDAS
+102077,102139,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Argia,5,6,PA TV,6,,PA TV,5,6,6,8,8.2,6,5,8,8,5,5,8.17,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CN,CB,WSA,CN,EDAS
+,,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Chromagrion conditum,,,,4,,PA TV,6,,4,,,,,,,,,,,,PR,,PR,PR,,"CF,CG,PR",WSA,EDAS,,CB,CB,WSA,CB,EDAS
+102077,102102,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Enallagma,8,,,8,,PA TV,9,8,8,8,8.9,8,8,8,9,6,6,8.91,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+102077,102078,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Ischnura,9,,,9,,PA TV,9,9,9,9,9.5,9,9,9,10,9,9,9.52,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+102058,102061,Arthropoda,Insecta,Zygoptera,Lestidae,Lestidae,Lestes,9,,,9,,PA TV,9,,9,,9.4,,9,,9,9,9,9.42,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Aeshnidae,4,,,,,,,,,,,,4,,3,4,4,,,PR,,,,PR,PR,PR,WSA,,,,"CB,CN",WSA,,
+,,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Aeshna,3,,,5,,PA TV,,,5,,,,3,,3,3,3,7.1,SC,,PR,PR,,,PR,"CF,CG,PR",WSA,KY,,,CB,WSA,CB,M&C 1996
+101596,101597,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Anax,5,,,5,,PA TV,7,5,5,,,5,5,5,,5,5,7.1,SC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,,CB,CN,WSA,CB,EDAS
+101648,101649,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Basiaeschna janata,5,,,6,,EDAS TV,2,2,2,6,7.4,2,5,6,3,5,5,7.35,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CB,CB,CN,WSA,CB,EDAS
+101596,101645,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Boyeria,2,,,2,,PA TV,2,,2,2,,,2,2,3,2,2,6,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,CB,CN,WSA,CB,EDAS
+101639,101640,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Coryphaeschna ingens,,,,,,,,,,,,,,,,,,,,PR,PR,,,PR,,,,M&C 2008,,,,,CB,M&C 2008
+101653,101654,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Nasiaeschna pentacantha,8,,,,,,2,2,,,8.1,2,8,,,,,8.14,NC,PR,PR,PR,PR,PR,,PR,WSA,EDAS,CB,CB,"CB,BU",WSA,CB,EDAS
+101637,101638,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Epiaeschna heros,1,,,,,,,,,,,,1,,,,,,,PR,,,,PR,,"CF,CG",WSA,,,,CB,WSA,,
+101634,101635,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Gomphaeschna ,,,,,,,,,,,6,,,,,,,,,,,,,PR,,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Rhionaeschna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Cordulegastridae,Cordulegastridae,Cordulegastridae,3,,,,,,,,,,,,3,,3,3,3,,,PR,,,,PR,PR,PR,WSA,,,,BU,WSA,,
+102026,102027,Arthropoda,Insecta,Anisoptera,Cordulegastridae,Cordulegastridae,Cordulegaster,4,,,3,,PA TV,2,3,3,3,5.7,3,4,3,3,4,4,5.73,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Anisoptera,Cordullidae,Corduliidae,Corduliidae,4,,,,,,,,,,,,4,5,8,4,4,,,PR,,,,PR,PR,PR,WSA,,,,CB,WSA,,
+,,Arthropoda,Insecta,Anisoptera,Cordullidae,Corduliidae,Epitheca,4,,,4,,EDAS TV,4,4,,,,4,4,4,,4,4,,,PR,PR,,PR,,,"CF,CG,PR",WSA,EDAS,,CB,CB,WSA,CB,EDAS
+,,Arthropoda,Insecta,Anisoptera,Cordullidae,Corduliidae,Helocordulia,4,,,,,,,,,,4.8,,4,,,4,4,,,,,,,,,"PR,SH",WSA,,,,SP,WSA,,
+101797,101934,Arthropoda,Insecta,Anisoptera,Cordullidae,Corduliidae,Neurocordulia,5,,,2,,PA TV,,,2,,5,,5,,4,5,5,5.03,NC,PR,PR,PR,PR,PR,PR,,,EDAS,,CB,,,CB,EDAS
+101797,101947,Arthropoda,Insecta,Anisoptera,Cordullidae,Corduliidae,Somatochlora,2,,,1,,PA TV,5,1,1,1,9.2,1,2,1,8,2,2,9.15,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,"SP,CN",WSA,SP,EDAS
+,,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Gomphidae,,,,,,,,,,,,,,1,3,,,,,PR,,,,PR,PR,PR,WSA,,,,BU,WSA,,
+,,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Aphylla williamsoni,5,,,4,,PA TV,,,4,,,,5,,,5,5,,,PR,,,,,,"CG,PR",WSA,,,,BU,WSA,,
+101664,101770,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Arigomphus,,,,4,,PA TV,,,4,,,,,,1,,,,,,PR,,PR,,PR,"CF,CG,PR",WSA,USEPA 1990 Draft,,BU,BU,WSA,BU,EDAS
+101664,101730,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Dromogomphus,5,,,4,,PA TV,,,4,4,5.9,,5,4,1,5,5,5.92,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+,,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Erpetogomphus,4,,,5,,PA TV,,,5,,,,4,,,4,4,,,,PR,,,,,PR,WSA,M&C 1996,,,BU,WSA,BU,M&C 1996
+101664,101665,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Gomphus,2,,,5,,PA TV,4,5,5,5,5.8,5,2,5,6,2,2,5.8,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+101734,101735,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Hagenius brevistylus,3,,,1,,EDAS TV,1,1,,,4,1,3,1,4,3,3,3.99,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,SP,M&C 1996
+101664,101766,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Lanthus,6,,,5,,PA TV,,,5,6,1.8,,6,6,1,6,6,1.77,NC,,PR,PR,PR,,PR,PR,WSA,USEPA 1990 Draft,,BU,BU,WSA,BU,EDAS
+101664,101736,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Octogomphus,,,,5,,PA TV,1,,5,,,,,,,,,,,PR,PR,,PR,PR,,PR,RBP2 1999,EDAS,,BU,bu,RBP2 1999,BU,EDAS
+101664,101738,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Ophiogomphus,1,,,1,,PA TV,1,,1,,5.5,,1,,4,1,1,5.54,NC,PR,PR,PR,PR,PR,PR,"CG,PR",WSA,EDAS,,BU,BU,WSA,BU,EDAS
+101664,101718,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Progomphus,1,,,5,,PA TV,2,,5,5,,5,1,5,8,1,1,8.7,SC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+101664,101761,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Stylogomphus,9,,,4,,PA TV,,,4,,,,9,,4,9,9,,,,PR,PR,PR,,PR,PR,WSA,EDAS,,BU,BU,WSA,BU,EDAS
+101664,206626,Arthropoda,Insecta,Anisoptera,Gomphidae,Gomphidae,Stylurus,5,,,4,,PA TV,4,,4,,,,5,,1,5,5,6.2,SC,PR,PR,PR,PR,PR,PR,"CG,PR",WSA,EDAS,,BU,SP,WSA,BU,EDAS
+,,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Libellulidae,8,,,,,,,,,,,,8,9,9,8,8,,,PR,,,,,PR,PR,WSA,,,,SP,WSA,,
+,,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Celithemis,,,,,,,,,,,,,,,9,,,,,,,,,,PR,,,,,,,,,
+101797,101865,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Erythemis,9,,,5,,PA TV,,,5,,,,9,,10,9,9,,,PR,PR,,PR,PR,PR,PR,WSA,EDAS,,SP,"CB,SP",WSA,SP,EDAS
+101797,101870,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Erythrodiplax,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Ladona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101797,101893,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Libellula,9,,,8,,EDAS TV,9,8,,,9.6,,9,8,10,9,9,9.64,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+101932,101933,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Nannothemis bella,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+101798,101799,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Pachydiplax longipennis,8,,,8,,EDAS TV,,,,,9.9,,8,,9,8,8,,,PR,PR,,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Pantala,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101797,101803,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Perithemis,10,,,4,,PA TV,4,4,4,,9.9,4,10,4,10,10,10,9.85,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+101797,101976,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Sympetrum,8,,,4,,EDAS TV,4,4,,,7.3,4,8,4,7,8,8,7.29,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+101818,101820,Arthropoda,Insecta,Anisoptera,Libelluidae,Libellulidae,Tramea carolina,,,,,,,,,,,,,,,,,,,,PR,,,,PR,,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Macromiidae,Macromiidae,Macromiidae,,,,,,,,,,,,,,,3,,,,,,,,,,PR,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Macromiidae,Macromiidae,Didymops transversa,2,,,4,,EDAS TV,,,,,,,2,,,2,2,5.9,SC,PR,PR,PR,PR,,,"PR,SH",WSA,USEPA 1990 Draft,,,SP,WSA,,
+,,Arthropoda,Insecta,Anisoptera,Macromiidae,Macromiidae,Macromia,4,,,2,,PA TV,2,2,2,3,6.2,2,4,3,3,4,4,6.16,NC,PR,PR,PR,PR,,PR,PR,WSA,EDAS,,SP,SP,WSA,SP,EDAS
+,,Arthropoda,Insecta,Anisoptera,Petaluridae,Petaluridae,Tachopteryx thoreyi,,,,,,,,,,,,,,,4,,,,,PR,,,,,PR,,,,,,,,,
+,,Arthropoda,Insecta,Zygoptera,Zygoptera,Zygoptera (unknown),Zygoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Plecoptera,Plecoptera (unknown),Plecoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Malacostraca,Amphipoda,Amphipoda,Amphipoda (unknown),Amphipoda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetidae,Heterocloeon,,,,2,,"PA TV & Bode, et.al., 1996",,,2,,3.5,,3,,3,3,3,,,SC,SC,,,,SC,"SC,SH",WSA,M&C 1996,,,SW,WSA,CN,M&C1996
+114666,114667,Arthropoda,Insecta,Coleoptera,Ptilodactylidae,Ptilodactylidae,Anchytarsus,4,,,,,,,,,,,,,,,,,,,SH,SH,,,,,,,WSA,,,,,CN,WSA
+117639,117641,Arthropoda,Insecta,Lepidoptera,Pyralidae,Pyralidae,Pyralidae,4,,,,WSA,,,,,,,,,,,,,,,SH,SH,,,,,,,WSA,,,,,SP,WSA
+117641,117682,Arthropoda,Insecta,Lepidoptera,Pyralidae,Pyralidae,Petrophila,5,,,,,WSA,,,,,,,,,,,,,,SC,SC,,,,,,,WSA,,,,,CB,
+,,Arthropoda,Insecta,Diptera,Diptera,Diptera (unknown),Diptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Lepidoptera,Lepidoptera,Lepidoptera (unknown),Lepidoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Coleoptera,Coleoptera (unknown),Coleoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Ephemeroptera,Ephemeroptera (unknown),Ephemeroptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Hemiptera,Hemiptera,Hemiptera (unknown),Hemiptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Anisoptera,Anisoptera,Anisoptera (unknown),Anisoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Trichoptera,Trichoptera (unknown),Trichoptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Megaloptera,Megaloptera,Megaloptera (unknown),Megaloptera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemouridae,Paranemoura,2,,,2,,,,,,,,,,,,,,,,SH,SH,,,,,,,,,,,,SP,WAB
+609866,103099,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodidae,Remenus,0,,,2,,PA TV,,,2,,,,,,0,,,,,PR,PR,,,,PR,,,WAB,,,,,CN,WAB
+,,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsychidae,Hydropsyche/Ceratopsyche,,,,,,,,,,,,,,,,,,,,CF,Cf,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Lepidoptera,Crambidae,Crambidae,Crambidae,,,,,,,,,,,,,,,,,,,,SH,,,,,,,,,,,,,CB,
+,,Arhtropoda,Insecta,Anisoptera,Libellulidae/Corduliidae,Libellulidae/Corduliidae,Libellulidae/Cordullidae,,,,,,,,,,,,,,,,,,,,PR,PR,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Coenagrion/Enallgma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arhtropoda,Insecta,Zygoptera,Coenagrionidae,Coenagrionidae,Coenagrion,,,,8,,PA TV,,,8,,,9,8,,9,,,,,PR,PR,,,,,,,EDAS,,,,,CB,EDAS
+,,Mollusca,Pelecypoda,,,Pelecypoda (unknown),Pelecypoda,,,,,,,,,,,,,,,,,,,,CF,,,,,CF,CF,WSA,,,,BU,WSA,,
+,,Mollusca,Gastropoda,,,Gastropoda (unknown),Gastropoda,,,,,,,,,,,,,,,,,,,,SC,,,,,CG,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebiidae,Choroterpes basalis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Psychodidae,Psychodidae,Pericoma/Telmatoscopus,,,,7,,TV,,,,,,,7,,,7,7,,,CG,CG,,,,CG,CG,WSA,,,,BU,WSA,,
+,,Nemertea,Enopla,Hoplonemertea,Tetrastemmatidae,Tetrastemmatidae,Prostoma,,,,,,,,,,,6.1,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Maccaffertium/Stenonema,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptageniidae,Leucrocuta/Nixe,1.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Trichoptera,Limnephilidae,Limnephilidae,Pycnopsyche/Hydatophylax,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Diptera,Phoridae,Phoridae,Phoridae,6,,,,,,,,6,,,,,,,,,,,,,,,,CG,,,,,,,,,
+,,Mollusca,Gastropoda,Basommatophora,Valvatidae,Valvatidae,Valvatidae,5,,,,,,,,,,,,,,,,5,,,SC,,,,,,,,,,,,,,
+,,Annelida,Oligochaeta,Opisthophora,Lumbricidae,Lumbricidae,Lumbricidae,10,,,,,,,,,,,,,,,,10,,,CG,,,,,,,,,,,,,BU,
+,,Annelida,Oligochaeta,Opisthophora,Sparganophilidae,Sparganophilidae,Sparganophilidae,10,,,,,,,,,,,,,,,,10,,,CG,,,,,,,,,,,,,BU,
+,,Arthropoda,Insecta,Anisoptera,Aeshnidae,Aeshnidae,Remartina luteipennis,,,,,,,,,,,,,,,,,,,,PR,,,,,,,,M&C 2008,,,,,CB,M&C 2008
+,,Arthropoda,Insecta,Neuroptera,Sisyridae,Sisyridae,Climacia,,,,,,,,,,,,,,,,,,,,PR,PR,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Neuroptera,Sisyridae,Sisyridae,Sisyra,,,,,,,,,,,,,,,,,,,,PR,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Scirtidae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Cyphon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Elodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Prionocyphon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Sacodes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Arthropoda,Insecta,Coleoptera,Scirtidae,Scirtidae,Scirtes,,,,,,,,,,,,,,,,,,,,SH,,,,,,,,M&C 2008,,,,,CB,M&C 2008
+,,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropodidae,Polycentropus/Cernotina,4,6,PA TV,6,,PA TV,5,6,6,5,3.5,6,4,5,4,4,4,3.53,NC,PR,PR,PR,PR,PR,PR,PR,WSA,EDAS,CN,CN,CN,WSA,CN,EDAS
+101808,101809,Arthropoda,Insecta,Anisoptera,Libellulidae,Libellulidae,Plathemis lydia,9,,,,,,,,,,,,,,,,,,,PR,PR,,,,PR,,,,,,,,SP,

@@ -1,0 +1,717 @@
+,Index.Name,SITEYR,DATE,TAXON,N_TAXA,N_GRIDS,EXCLUDE,STRATA_R,Phylum,Class,Order,Family,Genus,Other_Taxa,Tribe,FFG,FAM_TV,Habit,FinalTolVal07
+1,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,BEZZIA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+2,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,CAECIDOTEA,7,6,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+3,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,CERATOPOGONIDAE,8,6,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+4,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,CHIRONOMINI,1,6,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Chironomini,Chironominae,Chironomini,,7,,5.9
+5,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,DIPLOCLADIUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+6,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,ERIOPTERA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+7,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,HYALELLA,1,6,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Hyalellidae,Hyalella,Crustacea,,Shredder,8,sp,4.2
+8,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,HYDROBAENUS,2,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+9,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,LIBELLULA,1,6,,COASTAL,Arthropoda,Insecta,Odonata,Libellulidae,Libellula,,,Predator,9,sp,7
+10,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,LUMBRICULIDAE,1,6,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+11,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,MUSCULIUM,3,6,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+12,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,NATARSIA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Natarsia,Tanypodinae,Natarsiini,Predator,7,sp,6.6
+13,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,NEOPOROUS,3,6,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+14,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,ORTHOCLADIINAE,1,6,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+15,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,ORTHOCLADIUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+16,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PARAMETRIOCNEMUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+17,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PARAPHAENOCLADIUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+18,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PARATANYTARSUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus,Chironominae,Tanytarsini,Collector,7,sp,7.7
+19,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PHAENOPSECTRA,8,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Phaenopsectra,Chironominae,Chironomini,Collector,7,cn,8.7
+20,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PHYSA,2,6,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+21,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PISIDIIDAE,19,6,Y,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+22,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PISIDIUM,7,6,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Pisidium,Mollusca,,Filterer,8,bu,5.7
+23,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PSEUDOLIMNOPHILA,3,6,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+24,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,PTILOSTOMIS,1,6,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+25,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,SIALIS,1,6,,COASTAL,Arthropoda,Insecta,Megaloptera,Sialidae,Sialis,,,Predator,4,"bu, cb, cn",1.9
+26,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,SIPHLONURUS,3,6,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,,,Collector,7,"sw, cb",7
+27,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,SOMATOCHLORA,1,6,,COASTAL,Arthropoda,Insecta,Odonata,Corduliidae,Somatochlora,,,Predator,3,sp,1
+28,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,SYNURELLA,3,6,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+29,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,TANYPODINAE,7,6,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+30,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,THIENEMANNIMYIA GROUP,4,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+31,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,TRIBELOS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tribelos,Chironominae,Chironomini,Collector,7,bu,7
+32,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,TUBIFICIDAE,3,6,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+33,MBSS.2005.Bugs,WEST-101-X-2014,4/2/2014,ZAVRELIMYIA,14,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+34,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,CAECIDOTEA,1,21,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+35,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,CERATOPOGONIDAE,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+36,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,CORYNONEURA,10,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+37,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,DIPLOCLADIUS,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+38,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,HYDROBAENUS,2,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+39,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,LIMNEPHILIDAE,1,21,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+40,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,LIMNOPHYES,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes,Orthocladiinae,,Collector,7,sp,8.6
+41,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,MUSCULIUM,2,21,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+42,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,NEMOURIDAE,10,21,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+43,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,NEOPOROUS,1,21,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+44,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,ORTHOCLADIINAE,1,21,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+45,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,PERLODIDAE,1,21,,COASTAL,Arthropoda,Insecta,Plecoptera,Perlodidae,,,,Predator,2,cn,2.2
+46,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,PHYSA,1,21,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+47,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,PILARIA,3,21,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pilaria,,,Predator,4,bu,4.8
+48,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,PISIDIIDAE,3,21,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+49,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,PROSIMULIUM,3,21,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+50,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,RHEOTANYTARSUS,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheotanytarsus,Chironominae,Tanytarsini,Filterer,7,cn,7.2
+51,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,SIPHLONURUS,1,21,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,,,Collector,7,"sw, cb",7
+52,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,SYNURELLA,21,21,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+53,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,TIPULA,11,21,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+54,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,TIPULIDAE,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+55,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,TUBIFICIDAE,11,21,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+56,MBSS.2005.Bugs,WEST-101-X-2015,3/12/2015,ZAVRELIMYIA,27,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+57,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,DIPLOCLADIUS,74,47,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+58,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,ENCHYTRAEIDAE,7,47,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+59,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,LUMBRICULIDAE,5,47,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+60,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,NEMOURIDAE,5,47,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+61,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,ORTHOCLADIINAE,3,47,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+62,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,ORTHOCLADIUS,4,47,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+63,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,PARAKIEFFERIELLA,2,47,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parakiefferiella,Orthocladiinae,,Collector,7,sp,2.1
+64,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,PROSIMULIUM,7,47,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+65,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,SIMULIUM,1,47,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simuliini,Simuliini,Filterer,7,cn,5.7
+66,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,STEGOPTERNA,3,47,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+67,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,STYGOBROMUS,1,47,,COASTAL,Arthropoda,Malacostra,Amphipoda,Crangonyctidae,Stygobromus,na,na,Collector,4,,4
+68,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,SYNURELLA,2,47,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+69,MBSS.2005.Bugs,WEST-101-X-2016,3/10/2016,ZALUTSCHIA,13,47,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zalutschia,Orthocladiinae,,Shredder,7,,6.6
+70,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,AESHNA,1,8,,COASTAL,Arthropoda,Insecta,Odonata,Aeshnidae,Aeshna,,,Predator,,cb,5
+71,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,CERATOPOGONIDAE,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+72,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,CORYNONEURA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+73,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,DIPLOCLADIUS,30,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+74,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,ERIOPTERA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+75,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,HYDROBAENUS,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+76,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,KIEFFERULUS,16,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Kiefferulus,Chironominae,Chironomini,Collector,7,bu,6.6
+77,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,LIMNEPHILIDAE,1,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+78,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,LIMNOPHYES,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes,Orthocladiinae,,Collector,7,sp,8.6
+79,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,NAIDIDAE,5,8,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+80,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,ORTHOCLADIINAE,3,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+81,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,ORTHOCLADIUS,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+82,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,PARAMETRIOCNEMUS,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+83,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,PARATANYTARSUS,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paratanytarsus,Chironominae,Tanytarsini,Collector,7,sp,7.7
+84,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,POLYPEDILUM,5,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+85,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,RHEOCRICOTOPUS,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+86,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,SIMULIUM,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simuliini,Simuliini,Filterer,7,cn,5.7
+87,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,STEGOPTERNA,31,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+88,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,TANYTARSUS,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+89,MBSS.2005.Bugs,WEST-101-X-2017,3/6/2017,TUBIFICIDAE,1,8,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+90,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,AMELETUS,1,8,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Ameletidae,Ameletus,,,Collector,0,"sw, cb",2.6
+91,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,AMPHINEMURA,3,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+92,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CAECIDOTEA,5,8,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+93,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CERATOPOGONIDAE,15,8,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+94,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CHIRONOMINI,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Chironomini,Chironominae,Chironomini,,7,,5.9
+95,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CHRYSOPS,3,8,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+96,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CORYNONEURA,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+97,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,CRYPTOCHIRONOMUS,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Cryptochironomus,Chironominae,Chironomini,Predator,7,"sp, bu",7.6
+98,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,DIPLOCLADIUS,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+99,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,ERIOPTERA,7,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+100,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,GEORTHOCLADIUS,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Georthocladius,Orthocladiinae,,,7,sp,
+101,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,HYDROBAENUS,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+102,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,LIMNEPHILIDAE,5,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+103,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,MESOSMITTIA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesosmittia,Orthocladiinae,,,7,sp,6.6
+104,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,NEOPOROUS,3,8,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+105,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,PARAMETRIOCNEMUS,6,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+106,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,PARAPHAENOCLADIUS,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+107,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,PHYSA,1,8,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+108,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,PISIDIIDAE,2,8,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+109,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,POLYPEDILUM,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+110,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,PSEUDOLIMNOPHILA,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+111,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,RHEOCRICOTOPUS,6,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+112,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,STEGOPTERNA,5,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+113,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,STYGOBROMUS,5,8,,COASTAL,Arthropoda,Malacostra,Amphipoda,Crangonyctidae,Stygobromus,na,na,Collector,4,,4
+114,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,SYNURELLA,11,8,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+115,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,TANYPODINAE,1,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+116,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,THIENEMANNIMYIA GROUP,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+117,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,TUBIFICIDAE,6,8,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+118,MBSS.2005.Bugs,WEST-102-X-2014,4/2/2014,ZAVRELIMYIA,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+119,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,CAECIDOTEA,2,21,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+120,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,CHRYSOPS,3,21,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+121,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,CORYNONEURA,8,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+122,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,DICROTENDIPES,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Dicrotendipes,Chironominae,Chironomini,Collector,7,bu,9
+123,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,DIPLOCLADIUS,7,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+124,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,ISOTOMURUS,1,21,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,Isotomurus,,,,,,4.8
+125,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,LIMNEPHILIDAE,10,21,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+126,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,LYPE,1,21,,COASTAL,Arthropoda,Insecta,Trichoptera,Psychomyiidae,Lype,,,Scraper,2,cn,4.7
+127,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,NEMOURIDAE,10,21,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+128,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,ORTHOCLADIINAE,2,21,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+129,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,ORTHOCLADIUS,2,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+130,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,OSTROCERCA,7,21,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+131,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,PARAMETRIOCNEMUS,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+132,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,PISIDIIDAE,3,21,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+133,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,PTILOSTOMIS,2,21,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+134,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,RHEOCRICOTOPUS,1,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+135,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,STEGOPTERNA,27,21,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+136,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,STYGOBROMUS,2,21,,COASTAL,Arthropoda,Malacostra,Amphipoda,Crangonyctidae,Stygobromus,na,na,Collector,4,,4
+137,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,SYNURELLA,10,21,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+138,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,THIENEMANNIMYIA GROUP,3,21,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+139,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,TIPULA,10,21,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+140,MBSS.2005.Bugs,WEST-102-X-2015,3/12/2015,TIPULIDAE,2,21,Y,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+141,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,AMPHINEMURA,1,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+142,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,BRYOPHAENOCLADIUS,3,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Bryophaenocladius,Orthocladiinae,,Collector,,sp,6
+143,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,CORYNONEURA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+144,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,DIPLOCLADIUS,74,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+145,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,ENCHYTRAEIDAE,1,8,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+146,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,ENOCHRUS,1,8,,COASTAL,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Enochrus,,,Collector,5,"bu, sp",4.1
+147,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,LEPIDOPTERA,3,8,,COASTAL,Arthropoda,Insecta,Lepidoptera,,,,,,6,,6.7
+148,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,NEMOURIDAE,10,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+149,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,ORTHOCLADIINAE,1,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+150,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,PARAMETRIOCNEMUS,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+151,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,PROSIMULIUM,11,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+152,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,STEGOPTERNA,21,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+153,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,STYGOBROMUS,1,8,,COASTAL,Arthropoda,Malacostra,Amphipoda,Crangonyctidae,Stygobromus,na,na,Collector,4,,4
+154,MBSS.2005.Bugs,WEST-102-X-2016,3/10/2016,SYNURELLA,1,8,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+155,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,CHRYSOPS,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+156,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,CORYNONEURA,13,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+157,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,DIAMESINAE,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,,Diamesinae,Diamesini,Collector,7,,7.1
+158,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,DIPLOCLADIUS,11,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+159,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,ERIOPTERA,3,5,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+160,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,HYDROBAENUS,9,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+161,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,NAIDIDAE,1,5,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+162,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,NEMOURIDAE,28,5,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+163,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,ORTHOCLADIINAE,4,5,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+164,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,ORTHOCLADIUS,7,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+165,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,PARAMETRIOCNEMUS,2,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+166,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,PROSIMULIUM,2,5,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+167,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,PSEUDOLIMNOPHILA,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+168,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,PSEUDOSUCCINEA,2,5,,COASTAL,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,Pseudosuccinea,Mollusca,,Collector,6,cb,6.3
+169,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,PTILOSTOMIS,1,5,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+170,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,RHEOCRICOTOPUS,17,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+171,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,SIMULIIDAE,1,5,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+172,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,STEGOPTERNA,8,5,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+173,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,TANYTARSUS,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+174,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,TUBIFICIDAE,1,5,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+175,MBSS.2005.Bugs,WEST-102-X-2017,3/6/2017,ZAVRELIMYIA,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+176,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,AMPHINEMURA,4,9,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+177,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,BEZZIA,2,9,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+178,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,CAECIDOTEA,3,9,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+179,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,CHRYSOPS,1,9,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+180,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,DIPLOCLADIUS,3,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+181,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,IRONOQUIA,1,9,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+182,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,ISOPERLA,2,9,,COASTAL,Arthropoda,Insecta,Plecoptera,Perlodidae,Isoperla,,,Predator,2,"cn, sp",2.4
+183,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,LIMNEPHILIDAE,2,9,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+184,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,NEMOURIDAE,5,9,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+185,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,PARAMETRIOCNEMUS,7,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+186,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,PHAENOPSECTRA,1,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Phaenopsectra,Chironominae,Chironomini,Collector,7,cn,8.7
+187,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,PHRYGANEIDAE,1,9,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,,,,Shredder,5,,4.3
+188,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,PSEUDOLIMNOPHILA,4,9,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+189,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,RHEOCRICOTOPUS,1,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+190,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,STEGOPTERNA,19,9,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+191,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,STYGOBROMUS,1,9,,COASTAL,Arthropoda,Malacostra,Amphipoda,Crangonyctidae,Stygobromus,na,na,Collector,4,,4
+192,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,SYNURELLA,40,9,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+193,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,TANYPODINAE,1,9,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+194,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,THIENEMANNIMYIA GROUP,5,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+195,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,TIPULA,1,9,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+196,MBSS.2005.Bugs,WEST-103-X-2014,4/2/2014,TUBIFICIDAE,1,9,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+197,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,AGABUS,1,11,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Agabus,,,Predator,5,"sw, dv",5.4
+198,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,CAECIDOTEA,6,11,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+199,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,CERATOPOGONIDAE,2,11,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+200,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,CORYNONEURA,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+201,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,DIPLOCLADIUS,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+202,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,DOLICHOPODIDAE,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Dolichopodidae,,,,Predator,4,"sp, bu",7.5
+203,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,LIMNEPHILIDAE,5,11,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+204,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,MUSCULIUM,2,11,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+205,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,NEMOURIDAE,7,11,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+206,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,NEOPOROUS,1,11,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+207,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,ORTHOCLADIUS,2,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+208,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,OSTROCERCA,7,11,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+209,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,PARAPHAENOCLADIUS,2,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+210,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,PROSIMULIUM,18,11,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+211,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,PTILOSTOMIS,1,11,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+212,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,RHEOCRICOTOPUS,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+213,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,SIPHLONURUS,1,11,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,,,Collector,7,"sw, cb",7
+214,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,STEGOPTERNA,18,11,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+215,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,STICTOCHIRONOMUS,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Stictochironomus,Chironominae,Chironomini,Collector,7,bu,9.2
+216,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,SYNURELLA,17,11,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+217,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,TABANIDAE,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,,,,Predator,6,,2.8
+218,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,TIPULA,7,11,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+219,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,TIPULIDAE,5,11,Y,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+220,MBSS.2005.Bugs,WEST-103-X-2015,3/12/2015,ZAVRELIMYIA,5,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+221,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,DIPLOCLADIUS,46,7,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+222,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,ISOTOMIDAE,1,7,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,,,,,,,4.8
+223,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,NEMOURIDAE,19,7,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+224,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,OSTROCERCA,10,7,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+225,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,PROSIMULIUM,13,7,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+226,MBSS.2005.Bugs,WEST-103-X-2016,3/1/2016,STEGOPTERNA,32,7,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+227,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,AMPHINEMURA,1,12,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+228,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,CORYNONEURA,17,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+229,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,DICROTENDIPES,1,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Dicrotendipes,Chironominae,Chironomini,Collector,7,bu,9
+230,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,DIPLOCLADIUS,9,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+231,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,ERIOPTERA,2,12,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+232,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,HYDROBAENUS,1,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+233,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,LIMNEPHILIDAE,1,12,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+234,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,MENETUS,1,12,,COASTAL,Mollusca,Gastropoda,Basommatophora,Planorbidae,Menetus,Mollusca,,Scraper,7,cb,7.6
+235,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,MICROVELIA,1,12,,COASTAL,Arthropoda,Insecta,Hemiptera,Veliidae,Microvelia,,,Predator,6,sk,6
+236,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,MUSCULIUM,2,12,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+237,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,NEMOURIDAE,13,12,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+238,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,NEOPOROUS,3,12,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+239,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,ORTHOCLADIINAE,1,12,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+240,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,ORTHOCLADIUS,7,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+241,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,PARAMETRIOCNEMUS,9,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+242,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,PHYSA,6,12,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+243,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,POLYPEDILUM,1,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+244,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,PTILOSTOMIS,1,12,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+245,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,RHEOCRICOTOPUS,20,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+246,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,STEGOPTERNA,10,12,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+247,MBSS.2005.Bugs,WEST-103-X-2017,3/6/2017,ZAVRELIMYIA,2,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+248,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,AMPHINEMURA,14,6,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+249,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,CAECIDOTEA,9,6,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+250,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,CRYPTOCHIRONOMUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Cryptochironomus,Chironominae,Chironomini,Predator,7,"sp, bu",7.6
+251,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,HEMERODROMIA,2,6,,COASTAL,Arthropoda,Insecta,Diptera,Empididae,Hemerodromia,Hemerodromiini,Hemerodromiini,Predator,6,"sp, bu",7.9
+252,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,MUSCULIUM,4,6,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+253,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,NAIDIDAE,1,6,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+254,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,ORTHOCLADIINAE,4,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+255,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,ORTHOCLADIUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+256,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,PARAMETRIOCNEMUS,13,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+257,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,PROBEZZIA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Probezzia,,,Predator,6,bu,3
+258,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,PSEUDOCHIRONOMUS,11,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Pseudochironomus,Chironominae,Pseudochironomini,Collector,7,,6.6
+259,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,PSEUDOLIMNOPHILA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+260,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,SIMULIUM,6,6,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simuliini,Simuliini,Filterer,7,cn,5.7
+261,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,STEGOPTERNA,3,6,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+262,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,SYNURELLA,32,6,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+263,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,TANYTARSUS,4,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+264,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,THIENEMANNIMYIA GROUP,3,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+265,MBSS.2005.Bugs,WEST-104-X-2014,4/23/2014,TUBIFICIDAE,1,6,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+266,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,AGABUS,1,16,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Agabus,,,Predator,5,"sw, dv",5.4
+267,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,CAECIDOTEA,1,16,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+268,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,CHRYSOPS,3,16,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+269,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,CORDULEGASTER,1,16,,COASTAL,Arthropoda,Insecta,Odonata,Cordulegastridae,Cordulegaster,,,Predator,3,bu,2.4
+270,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,CORYNONEURA,6,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+271,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,DIPLOCLADIUS,4,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+272,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,HYDROBAENUS,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+273,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,LIMNEPHILIDAE,9,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+274,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,MICROTENDIPES,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes,Chironominae,Chironomini,Filterer,7,cn,4.9
+275,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,NEMOURIDAE,5,16,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+276,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,NEOPOROUS,2,16,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+277,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,ORTHOCLADIUS,7,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+278,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,PARAPHAENOCLADIUS,5,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+279,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,PROSIMULIUM,14,16,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+280,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,PTILOSTOMIS,1,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+281,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,SIMULIIDAE,3,16,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+282,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,STEGOPTERNA,14,16,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+283,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,SYNURELLA,47,16,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+284,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,THIENEMANNIMYIA GROUP,2,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+285,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,TIPULA,7,16,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+286,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,TIPULIDAE,2,16,Y,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+287,MBSS.2005.Bugs,WEST-104-X-2015,3/13/2015,ZAVRELIMYIA,3,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+288,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,AMPHINEMURA,1,9,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+289,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,CAECIDOTEA,1,9,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+290,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,CERATOPOGONIDAE,2,9,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+291,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,DIPLOCLADIUS,6,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+292,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,ISOTOMIDAE,1,9,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,,,,,,,4.8
+293,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,LIMNEPHILIDAE,2,9,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+294,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,NEMOURIDAE,11,9,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+295,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,NEOPOROUS,2,9,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+296,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,ORTHOCLADIUS,3,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+297,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,OSTROCERCA,16,9,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+298,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,PARAMETRIOCNEMUS,4,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+299,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,PROSIMULIUM,10,9,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+300,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,STEGOPTERNA,47,9,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+301,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,SYNURELLA,9,9,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+302,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,TUBIFICIDAE,1,9,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+303,MBSS.2005.Bugs,WEST-104-X-2016,3/1/2016,ZAVRELIMYIA,1,9,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+304,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,AMPHINEMURA,3,16,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+305,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,CAECIDOTEA,1,16,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+306,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,CERATOPOGONIDAE,8,16,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+307,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,CHRYSOPS,2,16,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+308,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,CORYNONEURA,4,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+309,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,DIPLOCLADIUS,5,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+310,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,DOLOPHILODES,1,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Philopotamidae,Dolophilodes,,,Filterer,3,cn,1.7
+311,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,ISOTOMIDAE,1,16,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,,,,,,,4.8
+312,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,LIMNEPHILIDAE,14,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+313,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,MUSCULIUM,6,16,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+314,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,NEMOURIDAE,24,16,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+315,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,NEOPOROUS,2,16,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+316,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,ORTHOCLADIUS,3,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+317,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,PARAMETRIOCNEMUS,2,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+318,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,PROSIMULIUM,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+319,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,PSEUDOLIMNOPHILA,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+320,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,PTILOSTOMIS,1,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+321,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,SIPHLONURUS,2,16,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,,,Collector,7,"sw, cb",7
+322,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,STEGOPTERNA,8,16,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+323,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,SYNURELLA,15,16,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+324,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,THIENEMANNIELLA,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemanniella,Orthocladiinae,,Collector,7,sp,5.1
+325,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,THIENEMANNIMYIA GROUP,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+326,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,TIPULA,2,16,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+327,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,TUBIFICIDAE,7,16,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+328,MBSS.2005.Bugs,WEST-104-X-2017,3/6/2017,ZAVRELIMYIA,1,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+329,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,AMPHINEMURA,2,4,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+330,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,BEZZIA,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+331,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,CAECIDOTEA,14,4,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+332,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,IRONOQUIA,2,4,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+333,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,LIMNEPHILIDAE,1,4,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+334,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,NEOPOROUS,1,4,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+335,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,ORTHOCLADIINAE,1,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+336,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,PARAMETRIOCNEMUS,8,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+337,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,PHYLOCENTROPUS,1,4,,COASTAL,Arthropoda,Insecta,Trichoptera,Dipseudopsidae,Phylocentropus,,,Collector,5,bu,5
+338,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,PISIDIUM,4,4,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Pisidium,Mollusca,,Filterer,8,bu,5.7
+339,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,POLYPEDILUM,21,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+340,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,PSEUDOLIMNOPHILA,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+341,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,RHEOCRICOTOPUS,5,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+342,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,SAETHERIA,3,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Saetheria,Chironominae,Chironomini,Collector,7,bu,6.6
+343,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,SIALIS,1,4,,COASTAL,Arthropoda,Insecta,Megaloptera,Sialidae,Sialis,,,Predator,4,"bu, cb, cn",1.9
+344,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,SIMULIUM,2,4,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,Simuliini,Simuliini,Filterer,7,cn,5.7
+345,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,SYNURELLA,27,4,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+346,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,TANYTARSINI,1,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,,Chironominae,Tanytarsini,Collector,7,,3.5
+347,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,TANYTARSUS,15,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+348,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,THIENEMANNIMYIA GROUP,4,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+349,MBSS.2005.Bugs,WEST-105-X-2014,4/23/2014,TUBIFICIDAE,4,4,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+350,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,CAECIDOTEA,5,15,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+351,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,CERATOPOGON,2,15,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogon,,,Predator,6,"sp, bu",2.7
+352,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,CERATOPOGONIDAE,1,15,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+353,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,CHRYSOPS,2,15,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+354,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,CORYNONEURA,1,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+355,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,DIPLOCLADIUS,4,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+356,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,LIMNEPHILIDAE,3,15,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+357,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,NEMOURIDAE,4,15,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+358,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PARAMETRIOCNEMUS,1,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+359,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PARAPHAENOCLADIUS,3,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+360,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PHYSA,1,15,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+361,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PILARIA,1,15,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pilaria,,,Predator,4,bu,4.8
+362,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PROSIMULIUM,8,15,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+363,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,PTILOSTOMIS,1,15,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+364,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,STEGOPTERNA,39,15,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+365,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,SYNURELLA,30,15,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+366,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,THIENEMANNIMYIA GROUP,3,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+367,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,TIPULA,2,15,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+368,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,TUBIFICIDAE,4,15,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+369,MBSS.2005.Bugs,WEST-105-X-2015,3/13/2015,ZAVRELIMYIA,4,15,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+370,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,DIPLOCLADIUS,6,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+371,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,LIMNEPHILIDAE,1,12,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+372,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,NEMOURIDAE,8,12,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+373,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,OSTROCERCA,7,12,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+374,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PARAMETRIOCNEMUS,3,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+375,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PARAPHAENOCLADIUS,1,12,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+376,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PHYSA,1,12,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+377,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PISIDIIDAE,2,12,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+378,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PROSIMULIUM,1,12,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+379,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,PTILOSTOMIS,2,12,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+380,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,STEGOPTERNA,77,12,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+381,MBSS.2005.Bugs,WEST-105-X-2016,3/1/2016,SYNURELLA,9,12,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+382,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,BOYERIA,1,25,,COASTAL,Arthropoda,Insecta,Odonata,Aeshnidae,Boyeria,,,Predator,3,"cb, sp",6.3
+383,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,CAECIDOTEA,5,25,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+384,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,CERATOPOGON,2,25,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogon,,,Predator,6,"sp, bu",2.7
+385,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,CERATOPOGONIDAE,4,25,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+386,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,CHRYSOPS,4,25,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+387,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,CORYNONEURA,9,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+388,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,DIPLOCLADIUS,4,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+389,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,ISOTOMIDAE,1,25,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,,,,,,,4.8
+390,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,LIMNEPHILIDAE,14,25,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+391,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,MUSCULIUM,2,25,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+392,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,NAIDIDAE,2,25,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+393,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,NEMOURIDAE,10,25,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+394,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,NEOPOROUS,1,25,,COASTAL,Arthropoda,Insecta,Coleoptera,Dytiscidae,Neoporus,na,na,Predator,5,"sw, cb",5
+395,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,PARAMETRIOCNEMUS,10,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+396,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,PHYSA,2,25,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+397,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,POLYPEDILUM,2,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+398,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,RHEOCRICOTOPUS,2,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+399,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,STEGOPTERNA,3,25,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+400,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,SYNURELLA,22,25,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+401,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,TANYPODINAE,1,25,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+402,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,THIENEMANNIMYIA GROUP,2,25,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+403,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,TIPULA,2,25,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+404,MBSS.2005.Bugs,WEST-105-X-2017,3/6/2017,TUBIFICIDAE,15,25,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+405,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,BEZZIA,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+406,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,CAECIDOTEA,2,5,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+407,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,DIPLOCLADIUS,3,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+408,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,IRONOQUIA,3,5,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+409,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,MUSCULIUM,1,5,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+410,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,NAIDIDAE,48,5,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+411,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,ORTHOCLADIINAE,1,5,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+412,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,ORTHOCLADIUS,2,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+413,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,PARAMETRIOCNEMUS,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+414,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,POLYPEDILUM,6,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+415,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,RHEOCRICOTOPUS,3,5,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+416,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,STEGOPTERNA,1,5,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+417,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,SYNURELLA,40,5,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+418,MBSS.2005.Bugs,WEST-106-X-2014,4/23/2014,TUBIFICIDAE,9,5,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+419,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,CAECIDOTEA,2,50,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+420,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,DIPLOCLADIUS,70,50,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+421,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,DOLICHOPODIDAE,2,50,,COASTAL,Arthropoda,Insecta,Diptera,Dolichopodidae,,,,Predator,4,"sp, bu",7.5
+422,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,DUGESIIDAE,1,50,,COASTAL,Platyhelminthes,Turbellaria,Tricladida,Dugesiidae,,,,,,,
+423,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,ENCHYTRAEIDAE,8,50,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+424,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,IRONOQUIA,3,50,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+425,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,ISOTOMURUS,3,50,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,Isotomurus,,,,,,4.8
+426,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,LIMNEPHILIDAE,7,50,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+427,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,MUSCULIUM,1,50,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+428,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,NAIDIDAE,4,50,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+429,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,ORTHOCLADIINAE,2,50,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+430,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,RHEOCRICOTOPUS,2,50,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+431,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,STEGOPTERNA,3,50,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+432,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,SYNURELLA,13,50,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+433,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,TIPULA,3,50,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+434,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,TUBIFICIDAE,1,50,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+435,MBSS.2005.Bugs,WEST-106-X-2015,3/13/2015,ZAVRELIMYIA,6,50,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+436,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,CULICOIDES,4,14,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,,,Predator,6,bu,5.9
+437,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,DIPLOCLADIUS,100,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+438,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,ENCHYTRAEIDAE,7,14,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+439,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,HYDROBAENUS,4,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+440,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,LUMBRICULIDAE,1,14,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+441,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,NAIDIDAE,3,14,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+442,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,ORTHOCLADIINAE,9,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+443,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,SYNURELLA,1,14,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+444,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,TIPULA,1,14,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+445,MBSS.2005.Bugs,WEST-106-X-2016,3/10/2016,TUBIFICIDAE,7,14,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+446,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,CAECIDOTEA,2,14,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+447,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,CERATOPOGONIDAE,2,14,Y,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+448,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,CULICOIDES,4,14,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Culicoides,,,Predator,6,bu,5.9
+449,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,DIPLOCLADIUS,32,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+450,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,ENCHYTRAEIDAE,4,14,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+451,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,GIRARDIA,1,14,,COASTAL,Platyhelminthes,Turbellaria,Tricladida,Dugesiidae,Girardia,,,Predator,6,sp,9.3
+452,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,ISOTOMURUS,1,14,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,Isotomurus,,,,,,4.8
+453,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,NAIDIDAE,49,14,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+454,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,ORTHOCLADIINAE,1,14,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+455,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,PARAMETRIOCNEMUS,11,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+456,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,POLYPEDILUM,1,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+457,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,RHEOCRICOTOPUS,22,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+458,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,STENOCHIRONOMUS,1,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Stenochironomus,Chironominae,Chironomini,Shredder,7,bu,7.9
+459,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,SYNURELLA,1,14,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+460,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,TANYPODINAE,1,14,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+461,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,TIPULA,1,14,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+462,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,TIPULIDAE,2,14,Y,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+463,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,TUBIFICIDAE,5,14,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+464,MBSS.2005.Bugs,WEST-106-X-2017,3/13/2017,ZAVRELIMYIA,4,14,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+465,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,CAECIDOTEA,8,3,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+466,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,CERATOPOGONIDAE,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+467,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,DIPLOCLADIUS,2,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+468,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,GAMMARUS,2,3,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Crustacea,,Shredder,6,sp,6.7
+469,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,HYDROBAENUS,13,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+470,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,IRONOQUIA,1,3,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+471,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,NEMOURIDAE,1,3,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+472,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,ORTHOCLADIINAE,2,3,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+473,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,ORTHOCLADIUS,53,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+474,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,PARAMETRIOCNEMUS,2,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+475,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,POLYPEDILUM,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+476,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,PROCLADIUS,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Procladius,Tanypodinae,Procladiini,Predator,7,sp,1.2
+477,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,RHEOCRICOTOPUS,19,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+478,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,SIMULIIDAE,1,3,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+479,MBSS.2005.Bugs,WEST-107-X-2014,4/2/2014,STEGOPTERNA,11,3,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+480,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,CAECIDOTEA,13,8,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+481,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,GAMMARUS,2,8,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Crustacea,,Shredder,6,sp,6.7
+482,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,HYDROBAENUS,15,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+483,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,IRONOQUIA,1,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+484,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,LIMNEPHILIDAE,8,8,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+485,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,MESOCRICOTOPUS,3,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+486,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,NEMATODA,1,8,,COASTAL,Nematoda,,,,,,,,,,
+487,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,NEMOURIDAE,1,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+488,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,ORTHOCLADIINAE,5,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+489,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,ORTHOCLADIUS,47,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+490,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,STEGOPTERNA,9,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+491,MBSS.2005.Bugs,WEST-107-X-2015,3/12/2015,TUBIFICIDAE,4,8,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+492,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,ABLABESMYIA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Ablabesmyia,Tanypodinae,Pentaneurini,Predator,7,sp,8.1
+493,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,BEZZIA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+494,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,CAECIDOTEA,10,3,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+495,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,CERATOPOGONIDAE,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+496,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,DIPLOCLADIUS,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+497,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,ERIOPTERA,2,3,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Erioptera,,,Collector,4,bu,4.8
+498,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,HEXATOMA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Hexatoma,,,Predator,4,"bu, sp",1.5
+499,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,HYDROBAENUS,15,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+500,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,MESOCRICOTOPUS,6,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+501,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,MICROPSECTRA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Micropsectra,Chironominae,Tanytarsini,Collector,7,"cb, sp",2.1
+502,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,NEMOURIDAE,1,3,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+503,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,ORTHOCLADIINAE,13,3,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+504,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,ORTHOCLADIUS,41,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+505,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,PARAPHAENOCLADIUS,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+506,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,PHAENOPSECTRA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Phaenopsectra,Chironominae,Chironomini,Collector,7,cn,8.7
+507,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,PSEUDOLIMNOPHILA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Pseudolimnophila,,,Predator,4,bu,2.8
+508,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,RHEOCRICOTOPUS,21,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+509,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,SYNURELLA,2,3,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+510,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,TANYTARSUS,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+511,MBSS.2005.Bugs,WEST-108-X-2014,4/2/2014,TUBIFICIDAE,4,3,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+512,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,CAECIDOTEA,19,10,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+513,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,DIPLOCLADIUS,1,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+514,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,HYDROBAENUS,13,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+515,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,IRONOQUIA,1,10,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+516,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,LIMNEPHILIDAE,7,10,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+517,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,LUMBRICULIDAE,1,10,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+518,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,MESOCRICOTOPUS,11,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+519,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,NEMOURIDAE,4,10,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+520,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,ORTHOCLADIUS,39,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+521,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,OSTROCERCA,3,10,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+522,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,PARAPHAENOCLADIUS,1,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paraphaenocladius,Orthocladiinae,,Collector,7,sp,4
+523,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,SIMULIIDAE,1,10,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+524,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,STEGOPTERNA,3,10,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+525,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,SYNURELLA,13,10,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+526,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,TANYTARSINI,1,10,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,,Chironominae,Tanytarsini,Collector,7,,3.5
+527,MBSS.2005.Bugs,WEST-108-X-2015,3/12/2015,TIPULIDAE,1,10,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+528,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,CAECIDOTEA,14,6,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+529,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,DIPLOCLADIUS,5,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+530,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,HYDROBAENUS,3,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+531,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,IRONOQUIA,2,6,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+532,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,MESOCRICOTOPUS,11,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+533,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,NEMOURIDAE,31,6,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+534,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,ORMOSIA,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Ormosia,,,Collector,4,bu,6.3
+535,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,ORTHOCLADIINAE,1,6,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+536,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,ORTHOCLADIUS,16,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+537,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,OSTROCERCA,9,6,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+538,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,SCIOMYZIDAE,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Sciomyzidae,,,,Predator,10,bu,6
+539,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,STEGOPTERNA,2,6,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+540,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,STENOCHIRONOMUS,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Stenochironomus,Chironominae,Chironomini,Shredder,7,bu,7.9
+541,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,SYNURELLA,5,6,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+542,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,TIPULIDAE,1,6,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+543,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,TUBIFICIDAE,1,6,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+544,MBSS.2005.Bugs,WEST-108-X-2016,3/1/2016,TVETENIA,11,6,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tvetenia,Orthocladiinae,,Collector,7,sp,5.1
+545,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,CAECIDOTEA,6,4,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+546,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,CERATOPOGONIDAE,8,4,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+547,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,HYDROBAENUS,4,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+548,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,LUMBRICULIDAE,1,4,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+549,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,MESOCRICOTOPUS,36,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+550,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,NEMOURIDAE,1,4,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+551,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,ORTHOCLADIINAE,3,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+552,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,ORTHOCLADIUS,45,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+553,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,RHEOCRICOTOPUS,3,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+554,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,SYNURELLA,6,4,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+555,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,TANYTARSUS,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+556,MBSS.2005.Bugs,WEST-108-X-2017,3/6/2017,TUBIFICIDAE,3,4,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+557,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,AMPHINEMURA,1,2,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+558,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,CAECIDOTEA,3,2,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+559,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,DIPLOCLADIUS,2,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+560,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,GEORTHOCLADIUS,1,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Georthocladius,Orthocladiinae,,,7,sp,
+561,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,HYDROBAENUS,20,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+562,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,ISOPERLA,1,2,,COASTAL,Arthropoda,Insecta,Plecoptera,Perlodidae,Isoperla,,,Predator,2,"cn, sp",2.4
+563,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,LIMNEPHILIDAE,1,2,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+564,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,MESOCRICOTOPUS,1,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+565,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,NEMATODA,1,2,,COASTAL,Nematoda,,,,,,,,,,
+566,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,NEMOURIDAE,7,2,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+567,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,ORTHOCLADIUS,47,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+568,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,PTILOSTOMIS,1,2,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+569,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,RHEOCRICOTOPUS,25,2,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+570,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,STEGOPTERNA,1,2,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+571,MBSS.2005.Bugs,WEST-109-X-2014,4/2/2014,SYNURELLA,4,2,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+572,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,CAECIDOTEA,12,16,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+573,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,DIPLOCLADIUS,5,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+574,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,HYDROBAENUS,21,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+575,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,ISOTOMURUS,2,16,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,Isotomurus,,,,,,4.8
+576,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,LIMNEPHILIDAE,5,16,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+577,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,LUMBRICULIDAE,1,16,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+578,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,MESOCRICOTOPUS,15,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+579,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,NEMOURIDAE,11,16,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+580,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,ORTHOCLADIUS,16,16,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+581,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,OSTROCERCA,9,16,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+582,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,STEGOPTERNA,2,16,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+583,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,SYNURELLA,11,16,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+584,MBSS.2005.Bugs,WEST-109-X-2015,3/12/2015,TUBIFICIDAE,5,16,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+585,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,AMPHINEMURA,3,3,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+586,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,CAECIDOTEA,5,3,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+587,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,DIPLOCLADIUS,18,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+588,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,ENCHYTRAEIDAE,1,3,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+589,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,HYDROBAENUS,9,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+590,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,ISOTOMIDAE,2,3,,COASTAL,Arthropoda,Insecta,Collembola,Isotomidae,,,,,,,4.8
+591,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,LIMNEPHILIDAE,1,3,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+592,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,MESOCRICOTOPUS,4,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+593,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,NEMOURIDAE,27,3,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+594,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,ORMOSIA,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Ormosia,,,Collector,4,bu,6.3
+595,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,ORTHOCLADIUS,8,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+596,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,PISIDIUM,1,3,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Pisidium,Mollusca,,Filterer,8,bu,5.7
+597,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,PROSTOIA,29,3,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Prostoia,,,Shredder,2,"sp, cn",4.5
+598,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,RHEOCRICOTOPUS,5,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+599,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,STEGOPTERNA,8,3,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+600,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,SYNURELLA,2,3,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+601,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,TANYPODINAE,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+602,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,TIPULIDAE,1,3,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+603,MBSS.2005.Bugs,WEST-109-X-2016,3/1/2016,TUBIFICIDAE,10,3,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+604,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,CAECIDOTEA,9,11,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+605,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,CERATOPOGONIDAE,3,11,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+606,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,CHRYSOPS,3,11,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+607,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,DIPLOCLADIUS,8,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+608,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,HYDROBAENUS,11,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+609,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,LUMBRICULIDAE,1,11,,COASTAL,Annelida,Oligochaeta,Lumbriculida,Lumbriculidae,,,,Collector,10,bu,6.6
+610,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,MESOCRICOTOPUS,7,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Mesocricotopus,Orthocladiinae,,,7,,6.6
+611,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,NEMOURIDAE,3,11,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+612,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,ORTHOCLADIINAE,2,11,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+613,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,ORTHOCLADIUS,41,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+614,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,PISIDIIDAE,1,11,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,,,,Filterer,,,6.5
+615,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,PTILOSTOMIS,1,11,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+616,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,RHEOCRICOTOPUS,2,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+617,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,STEGOPTERNA,1,11,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+618,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,SYNURELLA,9,11,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+619,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,TUBIFICIDAE,10,11,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+620,MBSS.2005.Bugs,WEST-109-X-2017,3/6/2017,ZAVRELIMYIA,4,11,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+621,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,BEZZIA,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Bezzia,,,Predator,6,bu,3.3
+622,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,CERATOPOGON,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,Ceratopogon,,,Predator,6,"sp, bu",2.7
+623,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,CERATOPOGONIDAE,1,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+624,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,CORYNONEURA,5,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Corynoneura,Orthocladiinae,,Collector,7,sp,4.1
+625,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,DIPLOCLADIUS,4,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+626,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,GAMMARUS,10,4,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Crustacea,,Shredder,6,sp,6.7
+627,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,LIMNEPHILIDAE,1,4,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+628,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,MICROPSECTRA,4,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Micropsectra,Chironominae,Tanytarsini,Collector,7,"cb, sp",2.1
+629,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,MUSCULIUM,1,4,,COASTAL,Mollusca,Bivalvia,Veneroida,Pisidiidae,Musculium,,,Filterer,8,,5.5
+630,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,NAIDIDAE,1,4,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Naididae,,,,Collector,10,bu,8.5
+631,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,ORTHOCLADIINAE,1,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+632,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,ORTHOCLADIUS,8,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+633,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,PARALAUTERBORNIELLA,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Paralauterborniella,Chironominae,Chironomini,Collector,7,cn,6.6
+634,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,PARAMETRIOCNEMUS,53,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+635,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,PHYSA,1,4,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+636,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,POLYPEDILUM,21,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Polypedilum,Chironominae,Chironomini,Shredder,7,"cb, cn",6.3
+637,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,PYCNOPSYCHE,1,4,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Pycnopsyche,Stenophylacini,Stenophylacini,Shredder,4,"sp, cb, cn",3.1
+638,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,RHEOCRICOTOPUS,3,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+639,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,RHEOTANYTARSUS,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheotanytarsus,Chironominae,Tanytarsini,Filterer,7,cn,7.2
+640,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,STEGOPTERNA,1,4,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+641,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,TANYPODINAE,1,4,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+642,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,THIENEMANNIMYIA GROUP,3,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Thienemannimyia group,Orthocladiinae,,Predator,7,sp,8.2
+643,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,TUBIFICIDAE,5,4,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+644,MBSS.2005.Bugs,WEST-110-R-2017,3/13/2017,TVETENIA,2,4,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tvetenia,Orthocladiinae,,Collector,7,sp,5.1
+645,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,AMPHINEMURA,7,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+646,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,CAECIDOTEA,4,8,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+647,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,CHRYSOPS,3,8,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+648,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,CORDULEGASTER,1,8,,COASTAL,Arthropoda,Insecta,Odonata,Cordulegastridae,Cordulegaster,,,Predator,3,bu,2.4
+649,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,DIPLOCLADIUS,8,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+650,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,GAMMARUS,5,8,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Crustacea,,Shredder,6,sp,6.7
+651,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,IRONOQUIA,2,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+652,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,LIMNEPHILIDAE,1,8,Y,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+653,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,NEMOURIDAE,4,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+654,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,NIGRONIA,1,8,,COASTAL,Arthropoda,Insecta,Megaloptera,Corydalidae,Nigronia,,,Predator,2,"cn, cb",1.4
+655,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,ORMOSIA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Ormosia,,,Collector,4,bu,6.3
+656,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,ORTHOCLADIUS,21,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+657,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,PARAKIEFFERIELLA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parakiefferiella,Orthocladiinae,,Collector,7,sp,2.1
+658,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,PHYSA,2,8,,COASTAL,Mollusca,Gastropoda,Basommatophora,Physidae,Physa,Mollusca,,Scraper,8,cb,7
+659,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,PROSIMULIUM,18,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+660,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,SIMULIIDAE,7,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+661,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,STEGOPTERNA,30,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+662,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,TIPULA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+663,MBSS.2005.Bugs,WEST-110-X-2016,3/10/2016,TUBIFICIDAE,2,8,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+664,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,CAMBARIDAE,2,17,,COASTAL,Arthropoda,Malacostraca,Decapoda,Cambaridae,,Crustacea,,Shredder,6,sp,2.8
+665,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,CERATOPOGONIDAE,3,17,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+666,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,CHRYSOPS,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Tabanidae,Chrysops,,,Predator,6,"sp, bu",2.9
+667,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,CRYPTOCHIRONOMUS,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Cryptochironomus,Chironominae,Chironomini,Predator,7,"sp, bu",7.6
+668,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,FERRISSIA,1,17,,COASTAL,Mollusca,Gastropoda,Basommatophora,Ancylidae,Ferrissia,Mollusca,,Scraper,7,cb,7
+669,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,GAMMARUS,7,17,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Crustacea,,Shredder,6,sp,6.7
+670,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,HYDROBAENUS,13,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+671,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,LEPTOPHLEBIA,6,17,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Leptophlebiidae,Leptophlebia,,,Collector,3,"sw, cn, sp",1.8
+672,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,MICROTENDIPES,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Microtendipes,Chironominae,Chironomini,Filterer,7,cn,4.9
+673,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,NEMOURIDAE,1,17,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+674,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,ORTHOCLADIINAE,2,17,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladiinae,Orthocladiinae,,Collector,7,,7.6
+675,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,ORTHOCLADIUS,20,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+676,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,PARAMETRIOCNEMUS,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+677,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,PROSIMULIUM,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+678,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,RHEOCRICOTOPUS,7,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+679,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,SYNURELLA,1,17,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+680,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,TANYPODINAE,2,17,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+681,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,TANYTARSUS,4,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanytarsus,Chironominae,Tanytarsini,Filterer,7,"cb, cn",4.9
+682,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,TIPULIDAE,1,17,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,,,,Predator,4,"bu, sp",4.8
+683,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,TUBIFICIDAE,8,17,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+684,MBSS.2005.Bugs,WEST-110-X-2017,3/13/2017,ZAVRELIMYIA,19,17,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+685,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,AMPHINEMURA,1,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Amphinemura,,,Shredder,2,"sp, cn",3
+686,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,CAECIDOTEA,1,8,,COASTAL,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,Crustacea,,Collector,8,sp,2.6
+687,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,CERATOPOGONIDAE,3,8,,COASTAL,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,,Predator,6,"sp, bu",3.6
+688,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,COENAGRIONIDAE,1,8,,COASTAL,Arthropoda,Insecta,Odonata,Coenagrionidae,,,,Predator,8,cb,9
+689,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,CRANGONYX,1,8,,COASTAL,Arthropoda,Malacostraca,Amphipoda,Crangonyctidae,Crangonyx,Crustacea,,Collector,4,sp,6.7
+690,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,ENCHYTRAEIDAE,1,8,,COASTAL,Annelida,Oligochaeta,Haplotaxida,Enchytraeidae,,,,Collector,10,bu,9.1
+691,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,HYDROBAENUS,10,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Hydrobaenus,Orthocladiinae,,Scraper,7,sp,7.2
+692,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,IRONOQUIA,2,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,Ironoquia,,,Shredder,4,sp,4.9
+693,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,ISOPERLA,2,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Perlodidae,Isoperla,,,Predator,2,"cn, sp",2.4
+694,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,NEMOURIDAE,22,8,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+695,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,ORMOSIA,2,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Ormosia,,,Collector,4,bu,6.3
+696,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,ORTHOCLADIUS,13,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Orthocladius,Orthocladiinae,,Collector,7,"sp, bu",9.2
+697,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,PARAMETRIOCNEMUS,8,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Parametriocnemus,Orthocladiinae,,Collector,7,sp,4.6
+698,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,PROSIMULIUM,5,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+699,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,PTILOSTOMIS,1,8,,COASTAL,Arthropoda,Insecta,Trichoptera,Phryganeidae,Ptilostomis,,,Shredder,5,cb,4.3
+700,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,RHEOCRICOTOPUS,10,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Rheocricotopus,Orthocladiinae,,Collector,7,sp,6.2
+701,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,SIMULIIDAE,1,8,Y,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,,,,Filterer,7,cn,3.2
+702,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,STEGOPTERNA,9,8,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+703,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,STENOCHIRONOMUS,5,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Stenochironomus,Chironominae,Chironomini,Shredder,7,bu,7.9
+704,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,SYNURELLA,1,8,,COASTAL,Arthropoda,Insecta,Amphipoda,Crangonyctidae,Synurella,,,,4,,0.4
+705,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,TIPULA,1,8,,COASTAL,Arthropoda,Insecta,Diptera,Tipulidae,Tipula,,,Shredder,4,bu,6.7
+706,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,TUBIFICIDAE,7,8,,COASTAL,Annelida,Oligochaeta,Tubificida,Tubificidae,,,,Collector,10,cn,8.4
+707,MBSS.2005.Bugs,WEST-114-R-2016,3/28/2016,ZAVRELIMYIA,4,8,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
+708,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,DIPLOCLADIUS,60,22,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Diplocladius,Orthocladiinae,,Collector,7,sp,5.9
+709,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,LIMNEPHILIDAE,1,22,,COASTAL,Arthropoda,Insecta,Trichoptera,Limnephilidae,,,,Shredder,4,"cb, sp, cn",3.4
+710,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,NEMOURIDAE,7,22,Y,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,,,,Shredder,2,"sp, cn",2.9
+711,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,OSTROCERCA,18,22,,COASTAL,Arthropoda,Insecta,Plecoptera,Nemouridae,Ostrocerca,,,Shredder,2,"sp, cn",1.7
+712,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,PROSIMULIUM,3,22,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Prosimulium,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+713,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,SIPHLONURUS,1,22,,COASTAL,Arthropoda,Insecta,Ephemeroptera,Siphlonuridae,Siphlonurus,,,Collector,7,"sw, cb",7
+714,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,STEGOPTERNA,29,22,,COASTAL,Arthropoda,Insecta,Diptera,Simuliidae,Stegopterna,Prosimuliini,Prosimuliini,Filterer,7,cn,2.4
+715,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,TANYPODINAE,1,22,Y,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Tanypodinae,Tanypodinae,,Predator,7,,7.5
+716,MBSS.2005.Bugs,WEST-AJC-X-2016,3/1/2016,ZAVRELIMYIA,1,22,,COASTAL,Arthropoda,Insecta,Diptera,Chironomidae,Zavrelimyia,Tanypodinae,Pentaneurini,Predator,7,sp,5.3
